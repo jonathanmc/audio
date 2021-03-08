@@ -7,6 +7,8 @@ various samples of items
 
 https://www.freesounds.info/
 
+https://freepats.zenvoid.org/
+
 https://freesound.org/
 
 https://github.com/TheSmallTeaBoi/the-libre-sample-pack
