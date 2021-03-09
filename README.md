@@ -4,11 +4,13 @@ https://audio.tools/
 
 ## reverbs
 
-- http://freeverb3vst.osdn.jp/downloads.shtml
+http://freeverb3vst.osdn.jp/downloads.shtml
 - FreeVerb 3
-- https://osdn.net/projects/freeverb3vst/releases/p13968
+
+https://osdn.net/projects/freeverb3vst/releases/p13968
 - FreeVerb 3
-- https://plugins4free.com/plugin/3038/
+
+https://plugins4free.com/plugin/3038/
 - x
 
 https://hogliux.github.io/GCHQ/
@@ -47,10 +49,10 @@ https://henryolonga.onfastspring.com/dre-triple-seven-impulse-responses
 - pay
 
 https://drive.google.com/drive/folders/1rJ2a3B2xcKj7gcZpl2CSYF5Em9kobB8T
-- x
+- x Sansui RA-500
 
 http://signaltonoize.com/?page_id=4188
-Closed Back 2×12 Guitar Cab – G12H Anniversary
+- Closed Back 2×12 Guitar Cab – G12H Anniversary
 H3000 Reverberation Impulse Response Pack
 Lexicon 480L Impulse set
 Lexicon M200 Impulse set.
