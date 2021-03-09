@@ -24,12 +24,12 @@ https://github.com/tomszilagyi/ir.lv2
 https://web.archive.org/web/20190820005114/http://www.samplicity.com/bricasti-m7-impulse-responses
 
 https://www.housecallfm.com/download-gns-personal-lexicon-480l
-x
+- x Lexicon 480L
 
 https://fokkie.home.xs4all.nl/IR.htm
 
 https://www.dropbox.com/sh/lmmwj0wu4me8ojq/AABU5159xlhmM7KKxLPHL5NRa?dl=0
-x
+- x
 
 https://www.waves.com/downloads/ir-convolution-reverb-library
 - free
@@ -43,13 +43,13 @@ https://www.voxengo.com/impulses/
 http://www.grgr.de/IR/#IR2
 
 http://store.storyteller.im/product-category/software/impulse-response-pack-freebies/
-x 
+- x 
 
 https://henryolonga.onfastspring.com/dre-triple-seven-impulse-responses
-pay
+- pay
 
 https://drive.google.com/drive/folders/1rJ2a3B2xcKj7gcZpl2CSYF5Em9kobB8T
-x
+- x
 
 http://signaltonoize.com/?page_id=4188
 
@@ -63,7 +63,7 @@ http://rhythminmind.net/1313/?cat=182
 # samples
 
 https://www.conservethesound.de/category/sound
-various samples of items
+- various samples of items
 
 https://www.freesounds.info/
 
@@ -75,14 +75,14 @@ https://github.com/TheSmallTeaBoi/the-libre-sample-pack
 - free
  
 https://philharmonia.co.uk/resources/sound-samples/
-x orchestral sounds
+- x orchestral sounds
 
 https://soundpacks.com/free-sound-packs/
 
 ## Internet Archive:
 
 https://archive.org/details/nasaaudiocollection
-NASA samples
+- NASA samples
 
 https://archive.org/details/Voyager1
 
