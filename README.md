@@ -48,6 +48,11 @@ x
 https://henryolonga.onfastspring.com/dre-triple-seven-impulse-responses
 pay
 
+https://drive.google.com/drive/folders/1rJ2a3B2xcKj7gcZpl2CSYF5Em9kobB8T
+x
+
+http://signaltonoize.com/?page_id=4188
+
 ## no longer work:
 
 http://www.echochamber.ch/index.php/impulseresponses
