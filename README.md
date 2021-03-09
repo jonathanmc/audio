@@ -21,6 +21,9 @@ https://github.com/tomszilagyi/ir.lv2
 
 ## reverb convolution files
 
+https://www.reddit.com/r/samplesforall/comments/hagyyp/gathered_list_of_free_impulse_responses/
+- thread on reddit
+
 https://web.archive.org/web/20190820005114/http://www.samplicity.com/bricasti-m7-impulse-responses
 
 http://www.echothief.com/
@@ -81,6 +84,12 @@ True M7 – Impulse Pack
 https://www.dropbox.com/sh/vjf5bsi28hcrkli/AADNjt1AmES9TsEBblLrjUAaa?dl=0
 - x Hopkins
 
+http://www.balancemastering.com/blog/free-funktion-one-impulse-responses-ir-irs-convolution/
+- club
+
+http://www.balancemastering.com/blog/free-flipside-soundsystem-impulse-responses/
+- club
+- 
 
 ## no longer work:
 
