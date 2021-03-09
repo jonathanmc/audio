@@ -23,6 +23,38 @@ https://github.com/tomszilagyi/ir.lv2
 
 https://web.archive.org/web/20190820005114/http://www.samplicity.com/bricasti-m7-impulse-responses
 
+https://www.housecallfm.com/download-gns-personal-lexicon-480l
+x
+
+https://fokkie.home.xs4all.nl/IR.htm
+
+https://www.dropbox.com/sh/lmmwj0wu4me8ojq/AABU5159xlhmM7KKxLPHL5NRa?dl=0
+x
+
+https://www.waves.com/downloads/ir-convolution-reverb-library
+- free
+
+https://openairlib.net/
+
+http://littledevilstudios.com.au/2015/03/lexicon-224xl-impulse-response-library/
+
+https://www.voxengo.com/impulses/
+
+http://www.grgr.de/IR/#IR2
+
+http://store.storyteller.im/product-category/software/impulse-response-pack-freebies/
+x 
+
+https://henryolonga.onfastspring.com/dre-triple-seven-impulse-responses
+pay
+
+## no longer work:
+
+http://www.echochamber.ch/index.php/impulseresponses
+
+http://rhythminmind.net/1313/?cat=182
+
+
 # samples
 
 https://www.conservethesound.de/category/sound
