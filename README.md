@@ -29,8 +29,8 @@ https://www.reddit.com/r/samplesforall/comments/hagyyp/gathered_list_of_free_imp
 - thread on reddit
 
 https://web.archive.org/web/20190820005114/http://www.samplicity.com/bricasti-m7-impulse-responses
-- Bricasti IR files
-- 
+- x Bricasti IR files
+ 
 http://www.echothief.com/
 
 https://www.housecallfm.com/download-gns-personal-lexicon-480l
