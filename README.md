@@ -70,9 +70,11 @@ http://littledevilstudios.com.au/2015/03/lexicon-224xl-impulse-response-library/
 - x
 
 https://openairlib.net/
+- instruments recorded in anechoic chamber, also reverb convolutions of various churches
 
 https://www.voxengo.com/impulses/
-
+- x 
+- 
 http://www.grgr.de/IR/#IR2
 
 https://fokkie.home.xs4all.nl/IR.htm
