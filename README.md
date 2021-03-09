@@ -19,13 +19,14 @@ https://github.com/QVbDev/quantumVerb
 
 https://github.com/tomszilagyi/ir.lv2
 
-## reverb convolution files
+# reverb convolution files
 
 https://www.reddit.com/r/samplesforall/comments/hagyyp/gathered_list_of_free_impulse_responses/
 - thread on reddit
 
 https://web.archive.org/web/20190820005114/http://www.samplicity.com/bricasti-m7-impulse-responses
-
+- Bricasti IR files
+- 
 http://www.echothief.com/
 
 https://www.housecallfm.com/download-gns-personal-lexicon-480l
