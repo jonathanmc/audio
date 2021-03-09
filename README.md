@@ -30,9 +30,10 @@ https://www.reddit.com/r/samplesforall/comments/hagyyp/gathered_list_of_free_imp
 
 
 https://web.archive.org/web/20190820005114/http://www.samplicity.com/bricasti-m7-impulse-responses
-- x Bricasti IR files
+- x Bricasti M7 (hardware reverb device) IR files
  
 http://www.echothief.com/
+- x impulses from various locations
 
 https://www.housecallfm.com/download-gns-personal-lexicon-480l
 - x Lexicon 480L
