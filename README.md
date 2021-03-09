@@ -5,12 +5,10 @@ https://audio.tools/
 ## reverbs
 
 - http://freeverb3vst.osdn.jp/downloads.shtml
--- FreeVerb 3
-
-https://osdn.net/projects/freeverb3vst/releases/p13968
 - FreeVerb 3
-
-https://plugins4free.com/plugin/3038/
+- https://osdn.net/projects/freeverb3vst/releases/p13968
+- FreeVerb 3
+- https://plugins4free.com/plugin/3038/
 - x
 
 https://hogliux.github.io/GCHQ/
