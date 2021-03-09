@@ -94,13 +94,12 @@ http://www.balancemastering.com/blog/free-funktion-one-impulse-responses-ir-irs-
 
 http://www.balancemastering.com/blog/free-flipside-soundsystem-impulse-responses/
 - club
-- 
-
-## no longer work:
 
 http://www.echochamber.ch/index.php/impulseresponses
+https://web.archive.org/web/20161113012945/http://www.echochamber.ch:80/index.php/impulseresponses
 
 http://rhythminmind.net/1313/?cat=182
+- no longer available
 
 
 # samples
