@@ -54,11 +54,11 @@ http://www.grgr.de/IR/#IR2
 http://store.storyteller.im/product-category/software/impulse-response-pack-freebies/
 - x 
 
+https://drive.google.com/drive/folders/1rJ2a3B2xcKj7gcZpl2CSYF5Em9kobB8T
+- x Sansui RA-500. Info: https://www.kvraudio.com/forum/viewtopic.php?f=6&t=107337&start=495
+
 https://henryolonga.onfastspring.com/dre-triple-seven-impulse-responses
 - pay
-
-https://drive.google.com/drive/folders/1rJ2a3B2xcKj7gcZpl2CSYF5Em9kobB8T
-- x Sansui RA-500
 
 https://www.dropbox.com/sh/45eacb7dws75z70/AABKtswYIfTp9feXT8oX_lYJa?dl=0
 - x
@@ -78,7 +78,8 @@ SPX990 Impulse Pack
 The Reverb 6000 Music Pack
 True M7 – Impulse Pack
 
-
+https://www.dropbox.com/sh/vjf5bsi28hcrkli/AADNjt1AmES9TsEBblLrjUAaa?dl=0
+- x Hopkins
 
 
 ## no longer work:
