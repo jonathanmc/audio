@@ -1,3 +1,7 @@
+# other lists
+
+https://github.com/IsaakCode/freeaudio
+
 # audio plugins
 
 https://audio.tools/
