@@ -4,14 +4,14 @@ https://audio.tools/
 
 ## reverbs
 
-http://freeverb3vst.osdn.jp/downloads.shtml
-FreeVerb 3
+- http://freeverb3vst.osdn.jp/downloads.shtml
+-- FreeVerb 3
 
 https://osdn.net/projects/freeverb3vst/releases/p13968
-FreeVerb 3
+- FreeVerb 3
 
 https://plugins4free.com/plugin/3038/
-x
+- x
 
 https://hogliux.github.io/GCHQ/
 
@@ -52,6 +52,20 @@ https://drive.google.com/drive/folders/1rJ2a3B2xcKj7gcZpl2CSYF5Em9kobB8T
 - x
 
 http://signaltonoize.com/?page_id=4188
+Closed Back 2×12 Guitar Cab – G12H Anniversary
+H3000 Reverberation Impulse Response Pack
+Lexicon 480L Impulse set
+Lexicon M200 Impulse set.
+Lexicon M300 Impulse sets.
+Lexicon PCM 90 Impulse Set
+M5000 Impulse set.
+PCM 70 Version 2 Impulse Set.
+PCM 70 Version 3 Impulse Set.
+Quantec QRS/XL Impulse set.
+SPX990 Impulse Pack
+The Reverb 6000 Music Pack
+True M7 – Impulse Pack
+
 
 ## no longer work:
 
