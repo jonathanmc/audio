@@ -30,7 +30,8 @@ https://www.reddit.com/r/samplesforall/comments/hagyyp/gathered_list_of_free_imp
 
 
 https://web.archive.org/web/20190820005114/http://www.samplicity.com/bricasti-m7-impulse-responses
-- x Bricasti M7 (hardware reverb device) IR files
+https://web.archive.org/web/20190821064208/http://www.samplicity.com/download
+- x Bricasti M7 (hardware reverb device) IR files, and others
  
 http://www.echothief.com/
 - x impulses from various locations
