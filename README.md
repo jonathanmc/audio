@@ -50,6 +50,7 @@ https://www.waves.com/downloads/ir-convolution-reverb-library
 
 http://www.echochamber.ch/index.php/impulseresponses
 https://web.archive.org/web/20161113012945/http://www.echochamber.ch:80/index.php/impulseresponses
+- x Many impulses
 
 http://signaltonoize.com/?page_id=4188
 - Closed Back 2×12 Guitar Cab – G12H Anniversary
