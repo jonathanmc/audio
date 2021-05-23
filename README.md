@@ -1,12 +1,23 @@
-# other lists of audio things
+# lists of audio and graphics things
+
+## audio
+
+### lists
+
+<https://github.com/webprofusion/OpenAudio>
 
 <https://github.com/IsaakCode/freeaudio>
 
-## audio plugins
+### utilities
+
+<https://github.com/audiorouterdev/audio-router>
+
+
+### audio plugins
 
 <https://audio.tools/>
 
-### audio plugins, reverbs
+#### audio plugins, reverbs
 
 <http://freeverb3vst.osdn.jp/downloads.shtml>
 
@@ -26,7 +37,7 @@
 
 <https://github.com/tomszilagyi/ir.lv2>
 
-## reverb convolution files
+### reverb convolution files
 
 <https://www.reddit.com/r/samplesforall/comments/hagyyp/gathered_list_of_free_impulse_responses/>
 
@@ -131,7 +142,7 @@ True M7 – Impulse Pack
 
 - pay
 
-## samples
+### samples
 
 <https://www.conservethesound.de/category/sound>
 
@@ -153,10 +164,52 @@ True M7 – Impulse Pack
 
 <https://soundpacks.com/free-sound-packs/>
 
-## Internet Archive
+### Internet Archive
 
 <https://archive.org/details/nasaaudiocollection>
 
 - NASA samples
 
 <https://archive.org/details/Voyager1>
+
+## graphics
+
+<https://github.com/huginn/huginn>
+
+### RawTherapee stuff
+
+<https://github.com/search?q=RawTherapee>
+
+
+<https://github.com/lgut/my_rawtherapee_profiles>
+x
+
+<https://github.com/rawtherapee-filters-master>
+x
+
+<https://github.com/mattintosh4/RawTherapee>
+x
+
+<https://github.com/danmadeira/rawtherapee-neutral>
+x
+
+<https://github.com/TheSquirrelMafia/RawTherapee-PP3-Settings>
+x
+
+<https://github.com/GLTR87/RawTherapee-presets-Fuji-inspired>
+x
+
+https://github.com/pixlsus/RawTherapee-Presets
+x
+
+<https://github.com/anxix/rt_ir_presets>
+x
+
+https://github.com/xsynaptic/synaptic-lightroom-presets
+x
+
+## multipar
+
+<https://github.com/Yutaka-Sawada/MultiPar>
+
+<http://hp.vector.co.jp/authors/VA021385/>
