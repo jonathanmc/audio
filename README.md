@@ -12,7 +12,6 @@
 
 <https://github.com/audiorouterdev/audio-router>
 
-
 ### audio plugins
 
 <https://audio.tools/>
@@ -180,7 +179,6 @@ True M7 – Impulse Pack
 
 <https://github.com/search?q=RawTherapee>
 
-
 <https://github.com/lgut/my_rawtherapee_profiles>
 x
 
@@ -199,13 +197,13 @@ x
 <https://github.com/GLTR87/RawTherapee-presets-Fuji-inspired>
 x
 
-https://github.com/pixlsus/RawTherapee-Presets
+<https://github.com/pixlsus/RawTherapee-Presets>
 x
 
 <https://github.com/anxix/rt_ir_presets>
 x
 
-https://github.com/xsynaptic/synaptic-lightroom-presets
+<https://github.com/xsynaptic/synaptic-lightroom-presets>
 x
 
 ## multipar
