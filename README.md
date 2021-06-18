@@ -8,6 +8,8 @@
 
 <https://github.com/IsaakCode/freeaudio>
 
+https://bedroomproducersblog.com/free-vst-plugins/
+
 ### utilities
 
 <https://github.com/audiorouterdev/audio-router>
