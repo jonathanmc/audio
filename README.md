@@ -16,6 +16,8 @@
 
 <https://audio.tools/>
 
+https://www.fullbucket.de/music/qyooo.html
+
 #### audio plugins, reverbs
 
 <http://freeverb3vst.osdn.jp/downloads.shtml>
