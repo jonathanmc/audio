@@ -2,7 +2,7 @@
 
 ## audio
 
-### lists
+### lists of things
 
 <https://github.com/webprofusion/OpenAudio>
 
@@ -16,11 +16,15 @@ https://bedroomproducersblog.com/free-vst-plugins/
 
 ### audio plugins
 
-https://tytel.org/helm/
-x
 <https://audio.tools/>
 
 https://www.fullbucket.de/music/qyooo.html
+
+https://tytel.org/helm/
+x- synth
+
+https://github.com/jatinchowdhury18/AnalogTapeModel
+x
 
 #### audio plugins, reverbs
 
