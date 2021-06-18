@@ -19,15 +19,15 @@
 ### audio plugins
 
 https://bedroomproducersblog.com/2020/07/10/accentize-prefet/
-- PreFET is a Machine-Learning based transistor pre-amp emulation which was designed using the same concept as PreTube. The included artificial neural network has learnt to precisely imitate the transistor pre-amp stage of a 70s tabletop cassette recorder. Depending on the Drive-Setting PreFET can colour your sounds from subtle analogue saturation to heavy overdrive.x
+x- PreFET is a Machine-Learning based transistor pre-amp emulation which was designed using the same concept as PreTube. The included artificial neural network has learnt to precisely imitate the transistor pre-amp stage of a 70s tabletop cassette recorder. Depending on the Drive-Setting PreFET can colour your sounds from subtle analogue saturation to heavy overdrive.
 
 <https://www.fullbucket.de/music/qyooo.html>
 
 <https://tytel.org/helm/>
-x- synth
+x- synth 
 
 https://github.com/jatinchowdhury18/AnalogTapeModel
-x
+x- tape saturator 
 
 #### audio plugins, reverbs
 
@@ -38,9 +38,16 @@ x
 - FreeVerb 3
 
 <https://plugins4free.com/plugin/3038/>
-- x
+x- 
 
 <https://hogliux.github.io/GCHQ/>
+- x GCHQ is a convolution reverb which uses impulse response data from various famous landmarks found on the OpenAir project (http://www.openairlib.net/).
+Limitations
+GCHQ currently does not report the correct latency when the reverb program is changed during playback. You will need to reload GCHQ or restart the audio engine for correct latency compensation everytime the reverb program is changed
+The user interface looks like a design accident from the 90s...
+There are several potential optimizations in the impulse response code that haven't been implemented yet
+Currently, the impulse responses are mono only
+
 
 <https://github.com/QVbDev/quantumVerb>
 
