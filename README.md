@@ -7,11 +7,11 @@
     - [audio plugins](#audio-plugins)
       - [audio plugins, reverbs](#audio-plugins-reverbs)
     - [reverb convolution files](#reverb-convolution-files)
-    - [samples](#samples)
+    - [Samples](#samples)
     - [Internet Archive](#internet-archive)
-  - [graphics](#graphics)
+  - [Graphics](#graphics)
     - [RawTherapee stuff](#rawtherapee-stuff)
-  - [multipar](#multipar)
+  - [Multipar](#multipar)
 
 ## audio
 
@@ -162,7 +162,8 @@ True M7 – Impulse Pack
 
 <https://drive.google.com/drive/folders/1rJ2a3B2xcKj7gcZpl2CSYF5Em9kobB8T>
 
-- x Sansui RA-500. Info: <https://www.kvraudio.com/forum/viewtopic.php?f=6&t=107337&start=495>
+- x Sansui RA-500. 
+- Info: <https://www.kvraudio.com/forum/viewtopic.php?f=6&t=107337&start=495>
 
 <https://www.dropbox.com/sh/lmmwj0wu4me8ojq/AABU5159xlhmM7KKxLPHL5NRa?dl=0>
 
@@ -192,7 +193,7 @@ True M7 – Impulse Pack
 
 - pay
 
-### samples
+### Samples
 
 <https://www.conservethesound.de/category/sound>
 
@@ -222,7 +223,7 @@ True M7 – Impulse Pack
 
 <https://archive.org/details/Voyager1>
 
-## graphics
+## Graphics
 
 <https://github.com/huginn/huginn>
 
@@ -257,7 +258,7 @@ x
 <https://github.com/xsynaptic/synaptic-lightroom-presets>
 x
 
-## multipar
+## Multipar
 
 <https://github.com/Yutaka-Sawada/MultiPar>
 
