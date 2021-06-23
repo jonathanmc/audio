@@ -1,7 +1,7 @@
 # lists of audio and graphics things
 
 - [lists of audio and graphics things](#lists-of-audio-and-graphics-things)
-  - [audio](#audio)
+  - [1. audio](#1-audio)
     - [lists of audio software](#lists-of-audio-software)
     - [utilities](#utilities)
     - [audio plugins](#audio-plugins)
@@ -9,11 +9,11 @@
     - [reverb convolution files](#reverb-convolution-files)
     - [Samples](#samples)
     - [Internet Archive](#internet-archive)
-  - [Graphics](#graphics)
+  - [2. Graphics](#2-graphics)
     - [RawTherapee stuff](#rawtherapee-stuff)
-  - [Multipar](#multipar)
+  - [3. Multipar](#3-multipar)
 
-## audio
+## 1. audio
 
 ### lists of audio software
 
@@ -48,7 +48,7 @@
 - x tape saturator
 
 <https://bedroomproducersblog.com/2020/07/14/chow-tape-model/>
-
+- Chow tape model
 - x
 
 <https://plugins.iem.at/>
@@ -58,35 +58,41 @@ Institute of Electronic Music and Acoustics.
 
 #### audio plugins, reverbs
 
-<http://freeverb3vst.osdn.jp/downloads.shtml>
+- <http://freeverb3vst.osdn.jp/downloads.shtml>
+  - FreeVerb 3
+- <https://osdn.net/projects/freeverb3vst/releases/p13968>
+  - FreeVerb 3
+- <https://plugins4free.com/plugin/3038/>
+  - x
+- <https://hogliux.github.io/GCHQ/>
+  - x GCHQ is a convolution reverb which uses impulse response data from various famous landmarks found on the OpenAir project (<http://www.openairlib.net/>). Limitations. GCHQ currently does not report the correct latency when the reverb program is changed during playback. You will need to reload GCHQ or restart the audio engine for correct latency compensation everytime the reverb program is changed. The user interface looks like a design accident from the 90s... There are several potential optimizations in the impulse response code that haven't been implemented yet. Currently, the impulse responses are mono only
+- <https://github.com/QVbDev/quantumVerb>
+  - .
+-  <https://github.com/tomszilagyi/ir.lv2>
+- <https://tomscii.sig7.se/plugins/ir.lv2/>
+  - Linux only
+- Dragonfly
+  - <https://github.com/michaelwillis/dragonfly-reverb/>
+- x
 
-- FreeVerb 3
+- Voxengo
+  - <https://www.voxengo.com/product/oldskoolverb/>
+  - x
+- Valhalla
+  - <https://valhalladsp.com/shop/reverb/valhalla-supermassive/>
+  - x
 
-<https://osdn.net/projects/freeverb3vst/releases/p13968>
+TAL reverb 4
+- <https://tal-software.com/products/tal-reverb-4>
+- x
 
-- FreeVerb 3
+Melda
+- https://www.meldaproduction.com/MConvolutionEZ
+- x
 
-<https://plugins4free.com/plugin/3038/>
-x-
 
-<https://hogliux.github.io/GCHQ/>
-
-- x GCHQ is a convolution reverb which uses impulse response data from various famous landmarks found on the OpenAir project (<http://www.openairlib.net/>).
-Limitations
-GCHQ currently does not report the correct latency when the reverb program is changed during playback. You will need to reload GCHQ or restart the audio engine for correct latency compensation everytime the reverb program is changed
-The user interface looks like a design accident from the 90s...
-There are several potential optimizations in the impulse response code that haven't been implemented yet
-Currently, the impulse responses are mono only
-
-<https://github.com/QVbDev/quantumVerb>
-
-<https://github.com/tomszilagyi/ir.lv2>
-<https://tomscii.sig7.se/plugins/ir.lv2/>
-
-- Linux only
-
-<https://github.com/michaelwillis/dragonfly-reverb/>
-x
+Lisc
+- https://www.pluginboutique.com/product/2-Effects/17-Reverb/741-Lisc-Verb/?a_aid=5e31f3f1b63c2
 
 ### reverb convolution files
 
@@ -162,7 +168,7 @@ True M7 – Impulse Pack
 
 <https://drive.google.com/drive/folders/1rJ2a3B2xcKj7gcZpl2CSYF5Em9kobB8T>
 
-- x Sansui RA-500. 
+- x Sansui RA-500.
 - Info: <https://www.kvraudio.com/forum/viewtopic.php?f=6&t=107337&start=495>
 
 <https://www.dropbox.com/sh/lmmwj0wu4me8ojq/AABU5159xlhmM7KKxLPHL5NRa?dl=0>
@@ -223,7 +229,7 @@ True M7 – Impulse Pack
 
 <https://archive.org/details/Voyager1>
 
-## Graphics
+## 2. Graphics
 
 <https://github.com/huginn/huginn>
 
@@ -258,7 +264,7 @@ x
 <https://github.com/xsynaptic/synaptic-lightroom-presets>
 x
 
-## Multipar
+## 3. Multipar
 
 <https://github.com/Yutaka-Sawada/MultiPar>
 
