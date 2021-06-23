@@ -145,34 +145,23 @@ True M7 – Impulse Pack
 
 ### Samples
 
-<https://www.conservethesound.de/category/sound>
-
-- various samples of items
-
-<https://www.freesounds.info/>
-
-<https://freepats.zenvoid.org/>
-
-<https://freesound.org/>
-
-<https://github.com/TheSmallTeaBoi/the-libre-sample-pack>
-
-- free
-
-<https://philharmonia.co.uk/resources/sound-samples/>
-
-- x orchestral sounds
-
-<https://soundpacks.com/free-sound-packs/>
-
+- <https://www.conservethesound.de/category/sound>
+  - various samples of items
+- <https://www.freesounds.info/>
+- <https://freepats.zenvoid.org/>
+- <https://freesound.org/>
+- <https://github.com/TheSmallTeaBoi/the-libre-sample-pack>
+  - free
+- <https://philharmonia.co.uk/resources/sound-samples/>
+  - x orchestral sounds
+- <https://soundpacks.com/free-sound-packs/>
+  - .
 ### Internet Archive
 
-<https://archive.org/details/nasaaudiocollection>
-
-- NASA samples
-
-<https://archive.org/details/Voyager1>
-
+- <https://archive.org/details/nasaaudiocollection>
+  - NASA samples
+- <https://archive.org/details/Voyager1>
+  - 
 ## 2. Graphics
 
 <https://github.com/huginn/huginn>
