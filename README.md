@@ -1,6 +1,6 @@
-# lists of audio and graphics things
+# free/open source audio and graphics things
 
-- [lists of audio and graphics things](#lists-of-audio-and-graphics-things)
+- [free/open source audio and graphics things](#freeopen-source-audio-and-graphics-things)
   - [1. audio](#1-audio)
     - [lists of audio software](#lists-of-audio-software)
     - [utilities](#utilities)
@@ -78,14 +78,12 @@ Institute of Electronic Music and Acoustics.
   - x
 - Lisc
   - <https://www.pluginboutique.com/product/2-Effects/17-Reverb/741-Lisc-Verb/?a_aid=5e31f3f1b63c2>
-
+- https://github.com/zynaddsubfx/
+  - x
 ### reverb convolution files
 
 - <https://www.reddit.com/r/samplesforall/comments/hagyyp/gathered_list_of_free_impulse_responses/>
   - thread on reddit
-
-.
-
 - <https://web.archive.org/web/20190820005114/http://www.samplicity.com/bricasti-m7-impulse-responses>
   - <https://web.archive.org/web/20190821064208/http://www.samplicity.com/download>
   - x Bricasti M7 (hardware reverb device) IR files, and others
@@ -119,10 +117,13 @@ True M7 – Impulse Pack
   - instruments recorded in anechoic chamber, also reverb convolutions of various churches
 - <https://www.voxengo.com/impulses/>
   - x
+
 - <http://www.grgr.de/IR/#IR2>
-  - 
+  - .
+
 - <https://fokkie.home.xs4all.nl/IR.htm>
-  - 
+  - .
+
 - <http://store.storyteller.im/product-category/software/impulse-response-pack-freebies/>
   - x Donationware. Bricasti converted to IR-1 format, I think
 - <https://drive.google.com/drive/folders/1rJ2a3B2xcKj7gcZpl2CSYF5Em9kobB8T>
@@ -156,12 +157,16 @@ True M7 – Impulse Pack
   - x orchestral sounds
 - <https://soundpacks.com/free-sound-packs/>
   - .
+
 ### Internet Archive
 
 - <https://archive.org/details/nasaaudiocollection>
   - NASA samples
+
 - <https://archive.org/details/Voyager1>
-  - 
+
+  -
+
 ## 2. Graphics
 
 <https://github.com/huginn/huginn>
