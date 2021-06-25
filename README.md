@@ -27,7 +27,7 @@
 ### utilities
 
 - <https://github.com/audiorouterdev/audio-router>
-- .
+  - .
 
 ### audio plugins
 
@@ -35,12 +35,14 @@
   - x PreFET is a Machine-Learning based transistor pre-amp emulation which was designed using the same concept as PreTube. The included artificial neural network has learnt to precisely imitate the transistor pre-amp stage of a 70s tabletop cassette recorder. Depending on the Drive-Setting PreFET can colour your sounds from subtle analogue saturation to heavy overdrive.
 - <https://www.fullbucket.de/music/qyooo.html>
   - .
-- <https://tytel.org/helm/>
+- Helm
+  - <https://tytel.org/helm/>
   - x synth
-- <https://github.com/jatinchowdhury18/AnalogTapeModel>
+- Analog Tape Model
+  - <https://github.com/jatinchowdhury18/AnalogTapeModel>
   - x tape saturator
-- <https://bedroomproducersblog.com/2020/07/14/chow-tape-model/>
-  - Chow tape model
+- CHOW tape
+  - <https://bedroomproducersblog.com/2020/07/14/chow-tape-model/>
   - x
 - <https://plugins.iem.at/>
   - x The IEM Plug-in Suite is a free and Open-Source audio plugin suite including Ambisonic plug-ins up to 7th order created by staff and students of the
@@ -56,30 +58,25 @@ Institute of Electronic Music and Acoustics.
   - x
 - <https://hogliux.github.io/GCHQ/>
   - x GCHQ is a convolution reverb which uses impulse response data from various famous landmarks found on the OpenAir project (<http://www.openairlib.net/>). Limitations. GCHQ currently does not report the correct latency when the reverb program is changed during playback. You will need to reload GCHQ or restart the audio engine for correct latency compensation everytime the reverb program is changed. The user interface looks like a design accident from the 90s... There are several potential optimizations in the impulse response code that haven't been implemented yet. Currently, the impulse responses are mono only
-- <https://github.com/QVbDev/quantumVerb>
-  - .
+- QuantumVerb
+  - x <https://github.com/QVbDev/quantumVerb>
 - <https://github.com/tomszilagyi/ir.lv2>
   - also <https://tomscii.sig7.se/plugins/ir.lv2/>
   - Linux only
-- Dragonfly
-  - <https://github.com/michaelwillis/dragonfly-reverb/>
-  - x
-- Voxengo
-  - <https://www.voxengo.com/product/oldskoolverb/>
-  - x
-- Valhalla
-  - <https://valhalladsp.com/shop/reverb/valhalla-supermassive/>
-  - x
+- Dragonfly reverb set
+  - x <https://github.com/michaelwillis/dragonfly-reverb/>
+- Voxengo OldskoolVerb
+  - x <https://www.voxengo.com/product/oldskoolverb/>
+- Valhalla supermassive reverb
+  - x <https://valhalladsp.com/shop/reverb/valhalla-supermassive/>
 - TAL reverb 4
-  - <https://tal-software.com/products/tal-reverb-4>
-  - x
+  - x <https://tal-software.com/products/tal-reverb-4>
 - Melda
-  - <https://www.meldaproduction.com/MConvolutionEZ>
-  - x
+  - x <https://www.meldaproduction.com/MConvolutionEZ>
 - Lisc
-  - <https://www.pluginboutique.com/product/2-Effects/17-Reverb/741-Lisc-Verb/?a_aid=5e31f3f1b63c2>
-- https://github.com/zynaddsubfx/
-  - x
+  - x <https://www.pluginboutique.com/product/2-Effects/17-Reverb/741-Lisc-Verb/?a_aid=5e31f3f1b63c2>
+- <https://github.com/zynaddsubfx/>
+
 ### reverb convolution files
 
 - <https://www.reddit.com/r/samplesforall/comments/hagyyp/gathered_list_of_free_impulse_responses/>
