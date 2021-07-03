@@ -1,11 +1,12 @@
 # free/open source audio and graphics things
 
 - [free/open source audio and graphics things](#freeopen-source-audio-and-graphics-things)
-  - [1. audio](#1-audio)
+  - [1. Audio](#1-audio)
     - [lists of audio software](#lists-of-audio-software)
     - [utilities](#utilities)
-    - [audio plugins](#audio-plugins)
-      - [audio plugins, reverbs](#audio-plugins-reverbs)
+    - [audio plugins, effects](#audio-plugins-effects)
+      - [audio plugins, effects, reverbs](#audio-plugins-effects-reverbs)
+    - [audio plugins, synths](#audio-plugins-synths)
     - [reverb convolution files](#reverb-convolution-files)
     - [Samples](#samples)
     - [Internet Archive](#internet-archive)
@@ -13,7 +14,7 @@
     - [RawTherapee stuff](#rawtherapee-stuff)
   - [3. Multipar](#3-multipar)
 
-## 1. audio
+## 1. Audio
 
 ### lists of audio software
 
@@ -29,7 +30,7 @@
 - <https://github.com/audiorouterdev/audio-router>
   - .
 
-### audio plugins
+### audio plugins, effects
 
 - <https://bedroomproducersblog.com/2020/07/10/accentize-prefet/>
   - x PreFET is a Machine-Learning based transistor pre-amp emulation which was designed using the same concept as PreTube. The included artificial neural network has learnt to precisely imitate the transistor pre-amp stage of a 70s tabletop cassette recorder. Depending on the Drive-Setting PreFET can colour your sounds from subtle analogue saturation to heavy overdrive.
@@ -47,8 +48,19 @@
 - <https://plugins.iem.at/>
   - x The IEM Plug-in Suite is a free and Open-Source audio plugin suite including Ambisonic plug-ins up to 7th order created by staff and students of the
 Institute of Electronic Music and Acoustics.
-
-#### audio plugins, reverbs
+- <http://www.interruptor.ch/vst_donationware.shtml>
+  - many dub VST effects, free
+- <http://calf-studio-gear.org/>
+  - Linux only
+- cocoa delay
+  - x
+- hexter
+  - DX-7 clone, Linux only
+- Regrader
+  - x <https://www.igorski.nl/download/regrader>
+  - degrader
+  
+#### audio plugins, effects, reverbs
 
 - <http://freeverb3vst.osdn.jp/downloads.shtml>
   - FreeVerb 3
@@ -76,7 +88,63 @@ Institute of Electronic Music and Acoustics.
 - Lisc
   - x <https://www.pluginboutique.com/product/2-Effects/17-Reverb/741-Lisc-Verb/?a_aid=5e31f3f1b63c2>
 - <https://github.com/zynaddsubfx/>
+- <http://elements.byethost3.com/plugins.html?i=1>
+- <https://github.com/keithhearne/VSTPlugins>
 
+### audio plugins, synths
+
+- ADL plug <https://github.com/jpcima/ADLplug>
+  - x FM chip synth
+- Bespoke
+  - x standalone and not VST
+- DiscoDSP
+  - x <https://www.discodsp.com/obxd/>
+  - x
+- Helm
+  - x
+  - x some presets <https://github.com/LaChRiZ/helm-patches.git>
+  - x presets <https://github.com/jpriebe/qub1t-helm-patches>
+- hexter
+  - x not Windows
+- Juce OPL VSTi <https://github.com/bsutherland/JuceOPLVSTi/releases>
+  - x FM chip synth
+- Juno 6
+  - x
+- Mika-micro
+  - <https://github.com/tesselode/mika-micro/releases/tag/v2.0.1>
+  - x
+- Odin
+  - x stable binaries: <https://www.thewavewarden.com/odin2>
+  - source: <https://github.com/TheWaveWarden/odin2>
+- Owlbass
+  <https://github.com/PentagramPro/OwlBass>
+- oxesoft/oxefmsynth
+  - <https://github.com/oxesoft/oxefmsynth>
+  - <https://oxesoft.wordpress.com/>
+  - x 1.3.4
+- Surge
+  - x <https://surge-synthesizer.github.io/>
+- Synister
+  - <https://the-synister.github.io/>
+  - <https://github.com/the-synister/the-source>
+  - x
+- Tunefish
+  - <https://tunefish-synth.com/download>
+  - x
+- Vital
+  - free but uses subscription for more
+- VST 2413
+  - FM based on FM2413 emulation
+  - <https://github.com/keijiro/vst2413>
+- VSTID
+  - chip synth
+  - <https://github.com/igorski/VSTSID>
+- Wolf-shaper
+  - <https://github.com/wolf-plugins/wolf-shaper/releases>
+  - x
+- ZYN
+  - x <https://zynaddsubfx.sourceforge.io/>  
+  
 ### reverb convolution files
 
 - <https://www.reddit.com/r/samplesforall/comments/hagyyp/gathered_list_of_free_impulse_responses/>
