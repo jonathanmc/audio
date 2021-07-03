@@ -105,6 +105,8 @@ Institute of Electronic Music and Acoustics.
   - x some presets <https://github.com/LaChRiZ/helm-patches.git>
   - x presets <https://github.com/jpriebe/qub1t-helm-patches>
   - x 1000 presets http://www.mediafire.com/file/lz867ghh93gee9y/yee.helmbank/file
+  - x https://darksideofsynth.com/sounds-patches.
+  - x Criz presets for Helm 2 https://musical-artifacts.com/artifacts/96
 - hexter
   - x not Windows
 - Juce OPL VSTi <https://github.com/bsutherland/JuceOPLVSTi/releases>
