@@ -99,16 +99,16 @@ Institute of Electronic Music and Acoustics.
   - x standalone and not VST
 - DiscoDSP
   - x <https://www.discodsp.com/obxd/>
+  - Helm
   - x
-- Helm
-  - x
-  - x some presets <https://github.com/LaChRiZ/helm-patches.git>
-  - x presets <https://github.com/jpriebe/qub1t-helm-patches>
-  - x 1000 presets http://www.mediafire.com/file/lz867ghh93gee9y/yee.helmbank/file
-  - x https://darksideofsynth.com/sounds-patches.
-  - x Criz presets for Helm 2 https://musical-artifacts.com/artifacts/96
+  - presets:
+    - x <https://github.com/LaChRiZ/helm-patches.git>
+    - x <https://github.com/jpriebe/qub1t-helm-patches>
+    - x 1000 presets <http://www.mediafire.com/file/lz867ghh93gee9y/yee.helmbank/file>
+    - x <https://darksideofsynth.com/sounds-patches>.
+    - x Criz presets for Helm 2 <https://musical-artifacts.com/artifacts?formats=helm&tags=patches>
 - hexter
-  - x not Windows
+  - x not for Windows
 - Juce OPL VSTi <https://github.com/bsutherland/JuceOPLVSTi/releases>
   - x FM chip synth
 - Juno 6
@@ -120,17 +120,25 @@ Institute of Electronic Music and Acoustics.
   - x stable binaries: <https://www.thewavewarden.com/odin2>
   - source: <https://github.com/TheWaveWarden/odin2>
 - Owlbass
-  <https://github.com/PentagramPro/OwlBass>
+  - <https://github.com/PentagramPro/OwlBass>
 - oxesoft/oxefmsynth
-  - <https://github.com/oxesoft/oxefmsynth>
-  - <https://oxesoft.wordpress.com/>
   - x 1.3.4
+  - <https://oxesoft.wordpress.com/>
+  - <https://github.com/oxesoft/oxefmsynth>  
+- Plex
+  - x <https://plex.hermannseib.com/>
 - Surge
   - x <https://surge-synthesizer.github.io/>
+- SQ8L ensoniq emulator
+  - x <http://www.buchty.net/ensoniq/#sq8l>
 - Synister
-  - <https://the-synister.github.io/>
+  - x <https://the-synister.github.io/>
   - <https://github.com/the-synister/the-source>
-  - x
+- Synth1
+  - x <https://daichilab.com/>
+  - presets:
+    - x 14000 presets collected: <https://veryrandomstreams.blogspot.com/2012/03/over-10000-free-patchessounds-for-free.html>
+    - if that disappears, use <https://web.archive.org/web/20210304053901/https://veryrandomstreams.blogspot.com/2012/03/over-10000-free-patchessounds-for-free.html>
 - Tunefish
   - <https://tunefish-synth.com/download>
   - x
