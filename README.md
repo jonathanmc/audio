@@ -54,52 +54,76 @@ Institute of Electronic Music and Acoustics.
   - Linux only
 - cocoa delay
   - x
-- hexter
-  - DX-7 clone, Linux only
 - Regrader
   - x <https://www.igorski.nl/download/regrader>
   - degrader
   
 #### audio plugins, effects, reverbs
 
-- <http://freeverb3vst.osdn.jp/downloads.shtml>
-  - FreeVerb 3
-- <https://osdn.net/projects/freeverb3vst/releases/p13968>
-  - FreeVerb 3
+- Epicverb
+  - x 
+  - archived here: <https://web.archive.org/web/20120106081916/http://dl.dropbox.com/u/4063301/epicVerb_1.5.rar>
+- Freeverb 3
+  - x <http://freeverb3vst.osdn.jp/downloads.shtml>
+  - <https://osdn.net/projects/freeverb3vst/releases/p13968>
 - <https://plugins4free.com/plugin/3038/>
-  - x
-- <https://hogliux.github.io/GCHQ/>
-  - x GCHQ is a convolution reverb which uses impulse response data from various famous landmarks found on the OpenAir project (<http://www.openairlib.net/>). Limitations. GCHQ currently does not report the correct latency when the reverb program is changed during playback. You will need to reload GCHQ or restart the audio engine for correct latency compensation everytime the reverb program is changed. The user interface looks like a design accident from the 90s... There are several potential optimizations in the impulse response code that haven't been implemented yet. Currently, the impulse responses are mono only
-- QuantumVerb
-  - x <https://github.com/QVbDev/quantumVerb>
-- <https://github.com/tomszilagyi/ir.lv2>
-  - also <https://tomscii.sig7.se/plugins/ir.lv2/>
-  - Linux only
+- GCHQ
+  - x <https://hogliux.github.io/GCHQ/>
+  - GCHQ is a convolution reverb which uses impulse response data from various famous landmarks found on the OpenAir project (<http://www.openairlib.net/>). Limitations. GCHQ currently does not report the correct latency when the reverb program is changed during playback. You will need to reload GCHQ or restart the audio engine for correct latency compensation everytime the reverb program is changed. The user interface looks like a design accident from the 90s... There are several potential optimizations in the impulse response code that haven't been implemented yet. Currently, the impulse responses are mono only
 - Dragonfly reverb set
   - x <https://github.com/michaelwillis/dragonfly-reverb/>
-- Voxengo OldskoolVerb
+- IR reverb
+  - x Convolution reverb. Linux only
+  - <https://github.com/tomszilagyi/ir.lv2>
+  - also <https://tomscii.sig7.se/plugins/ir.lv2/>
+- OldskoolVerb (Voxengo)
   - x <https://www.voxengo.com/product/oldskoolverb/>
-- Valhalla supermassive reverb
-  - x <https://valhalladsp.com/shop/reverb/valhalla-supermassive/>
-- TAL reverb 4
-  - x <https://tal-software.com/products/tal-reverb-4>
 - Melda
   - x <https://www.meldaproduction.com/MConvolutionEZ>
-- Lisc
+- Liscverb
   - x <https://www.pluginboutique.com/product/2-Effects/17-Reverb/741-Lisc-Verb/?a_aid=5e31f3f1b63c2>
-- <https://github.com/zynaddsubfx/>
-- <http://elements.byethost3.com/plugins.html?i=1>
-- <https://github.com/keithhearne/VSTPlugins>
+- Picoverb
+  - x <http://elements.byethost3.com/plugins.html?i=1>
+- QuantumVerb
+  - x <https://github.com/QVbDev/quantumVerb>
+- set of delay/reverb plugins
+  - <https://github.com/keithhearne/VSTPlugins>
+  - The order of VSTs in the design approach is :
+Simple Mono Delay (BasicMonDelayLine)
+Stereo Delay (StereoDelayLine)
+Synced Tap Delay (SyncedTapDelayLine)
+Crossed Feedback Delay (CrossStereoDelayLine)
+Ping Pong Delay (PingPonDelayLine)
+Mono Schroeder Reverb (SchroederReverb)
+Stereo Schroeder Reverb (SchroederReverbStereo)
+Mono Moorer Reverb (MoorerReverb)
+Stereo Moorer Reverb (MoorerReverbStereo)
+- TAL reverb 4
+  - x <https://tal-software.com/products/tal-reverb-4>
+- Valhalla supermassive reverb
+  - x <https://valhalladsp.com/shop/reverb/>
 
 ### audio plugins, synths
 
 - ADL plug <https://github.com/jpcima/ADLplug>
   - x FM chip synth
+- arppe2600
+  - x <http://glenstegner.com/softsynths.html>
+  - x Minimogue: <https://www.audiopluginsforfree.com/minimogueva/>
 - Bespoke
   - x standalone and not VST
+- Blamsoft
+  - x <https://blamsoft.com/vst/vk-1-viking-synthesizer/>
+- Cheezmachine and Tickyclav
+  - x<https://www.2getheraudio.com/>
 - DiscoDSP
   - x <https://www.discodsp.com/obxd/>
-  - Helm
+- Firebird 2
+  - <https://en.freedownloadmanager.org/Windows-PC/Tone2-Firebird-FREE.html>
+  - presets:
+  - x <https://www.dropbox.com/s/3xn9ca1w19mrzjz/LukasFirebirdPatches.zip?dl=0>
+  - x <https://rekkerd.org/firebird-presets-by-bkunfu/>
+- Helm
   - x
   - presets:
     - x <https://github.com/LaChRiZ/helm-patches.git>
@@ -108,7 +132,7 @@ Institute of Electronic Music and Acoustics.
     - x <https://darksideofsynth.com/sounds-patches>.
     - x Criz presets for Helm 2 <https://musical-artifacts.com/artifacts?formats=helm&tags=patches>
 - hexter
-  - x not for Windows
+  - x DX-7 clone, Linux only
 - Juce OPL VSTi <https://github.com/bsutherland/JuceOPLVSTi/releases>
   - x FM chip synth
 - Juno 6
@@ -131,6 +155,8 @@ Institute of Electronic Music and Acoustics.
   - x <https://surge-synthesizer.github.io/>
 - SQ8L ensoniq emulator
   - x <http://www.buchty.net/ensoniq/#sq8l>
+- Superwave
+  - x <https://www.superwavesynths.com/all-synthesizers>
 - Synister
   - x <https://the-synister.github.io/>
   - <https://github.com/the-synister/the-source>
@@ -139,6 +165,8 @@ Institute of Electronic Music and Acoustics.
   - presets:
     - x 14000 presets collected: <https://veryrandomstreams.blogspot.com/2012/03/over-10000-free-patchessounds-for-free.html>
     - if that disappears, use <https://web.archive.org/web/20210304053901/https://veryrandomstreams.blogspot.com/2012/03/over-10000-free-patchessounds-for-free.html>
+    - <http://blog.wavosaur.com/synth1-presets-chris-bank-volume-2/>
+    - <http://blog.wavosaur.com/chris-bank-synth1-reup/>
 - Tunefish
   - <https://tunefish-synth.com/download>
   - x
@@ -153,8 +181,9 @@ Institute of Electronic Music and Acoustics.
 - Wolf-shaper
   - <https://github.com/wolf-plugins/wolf-shaper/releases>
   - x
-- ZYN
+- ZYNAddSubFX
   - x <https://zynaddsubfx.sourceforge.io/>  
+  - <https://github.com/zynaddsubfx/>
   
 ### reverb convolution files
 
