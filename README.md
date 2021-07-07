@@ -61,7 +61,7 @@ Institute of Electronic Music and Acoustics.
 #### audio plugins, effects, reverbs
 
 - Epicverb
-  - x 
+  - x
   - archived here: <https://web.archive.org/web/20120106081916/http://dl.dropbox.com/u/4063301/epicVerb_1.5.rar>
 - Freeverb 3
   - x <http://freeverb3vst.osdn.jp/downloads.shtml>
@@ -116,7 +116,7 @@ Stereo Moorer Reverb (MoorerReverbStereo)
   - x <https://blamsoft.com/vst/vk-1-viking-synthesizer/>
 - Cheezmachine and Tickyclav
   - x<https://www.2getheraudio.com/>
-- DiscoDSP
+- DiscoDSP Ob-xd
   - x <https://www.discodsp.com/obxd/>
 - Firebird 2
   - <https://en.freedownloadmanager.org/Windows-PC/Tone2-Firebird-FREE.html>
@@ -133,6 +133,8 @@ Stereo Moorer Reverb (MoorerReverbStereo)
     - x Criz presets for Helm 2 <https://musical-artifacts.com/artifacts?formats=helm&tags=patches>
 - hexter
   - x DX-7 clone, Linux only
+- HY Mono
+  - archived here: <https://web.archive.org/web/20200815070206/https://hy-plugins.com/wp-content/uploads/2018/05/HY-Mono_64bit.zip>
 - Juce OPL VSTi <https://github.com/bsutherland/JuceOPLVSTi/releases>
   - x FM chip synth
 - Juno 6
