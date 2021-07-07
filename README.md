@@ -34,11 +34,6 @@
 
 - <https://bedroomproducersblog.com/2020/07/10/accentize-prefet/>
   - x PreFET is a Machine-Learning based transistor pre-amp emulation which was designed using the same concept as PreTube. The included artificial neural network has learnt to precisely imitate the transistor pre-amp stage of a 70s tabletop cassette recorder. Depending on the Drive-Setting PreFET can colour your sounds from subtle analogue saturation to heavy overdrive.
-- <https://www.fullbucket.de/music/qyooo.html>
-  - .
-- Helm
-  - <https://tytel.org/helm/>
-  - x synth
 - Analog Tape Model
   - <https://github.com/jatinchowdhury18/AnalogTapeModel>
   - x tape saturator
@@ -123,25 +118,30 @@ Stereo Moorer Reverb (MoorerReverbStereo)
   - presets:
   - x <https://www.dropbox.com/s/3xn9ca1w19mrzjz/LukasFirebirdPatches.zip?dl=0>
   - x <https://rekkerd.org/firebird-presets-by-bkunfu/>
+- Gyooo
+  - x <https://www.fullbucket.de/music/qyooo.html>
 - Helm
-  - x
+  - x <https://tytel.org/helm/>
   - presets:
     - x <https://github.com/LaChRiZ/helm-patches.git>
     - x <https://github.com/jpriebe/qub1t-helm-patches>
     - x 1000 presets <http://www.mediafire.com/file/lz867ghh93gee9y/yee.helmbank/file>
     - x <https://darksideofsynth.com/sounds-patches>.
     - x Criz presets for Helm 2 <https://musical-artifacts.com/artifacts?formats=helm&tags=patches>
-- hexter
+- Hexter
   - x DX-7 clone, Linux only
 - HY Mono
-  - archived here: <https://web.archive.org/web/20200815070206/https://hy-plugins.com/wp-content/uploads/2018/05/HY-Mono_64bit.zip>
+  - x archived here:
+    - <https://web.archive.org/web/20210707122035/https://hy-plugins.com/wp-content/uploads/2018/05/HY-Mono_32bit.zip>
+    - <https://web.archive.org/web/20200815070206/https://hy-plugins.com/wp-content/uploads/2018/05/HY-Mono_64bit.zip>
 - Juce OPL VSTi <https://github.com/bsutherland/JuceOPLVSTi/releases>
   - x FM chip synth
 - Juno 6
   - x
 - Mika-micro
-  - <https://github.com/tesselode/mika-micro/releases/tag/v2.0.1>
-  - x
+  - x <https://github.com/tesselode/mika-micro/releases/tag/v2.0.1>
+- Model-E
+  - x https://www.steinberg.net/index.php?id=914&L=1
 - Odin
   - x stable binaries: <https://www.thewavewarden.com/odin2>
   - source: <https://github.com/TheWaveWarden/odin2>
