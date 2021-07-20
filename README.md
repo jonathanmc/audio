@@ -191,7 +191,8 @@ Lots of good stuff here. Best are Dexed, Helm, Ob-xd, Surge, Synth1, ZynAddSubFX
   - x
 - ZYNAddSubFX
   - x <https://zynaddsubfx.sourceforge.io/>  
-  - <https://github.com/zynaddsubfx/>
+  - source: <https://github.com/zynaddsubfx/>
+  - free binaries: <https://www.kvraudio.com/forum/viewtopic.php?f=47&t=268277>
   
 ### reverb convolution files
 
