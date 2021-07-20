@@ -131,9 +131,8 @@ Stereo Moorer Reverb (MoorerReverbStereo)
 - Hexter
   - x DX-7 clone, Linux only
 - HY Mono
-  - x archived here:
-    - <https://web.archive.org/web/20210707122035/https://hy-plugins.com/wp-content/uploads/2018/05/HY-Mono_32bit.zip>
-    - <https://web.archive.org/web/20200815070206/https://hy-plugins.com/wp-content/uploads/2018/05/HY-Mono_64bit.zip>
+  - x archived here <https://web.archive.org/web/20210707122035/https://hy-plugins.com/wp-content/uploads/2018/05/HY-Mono_32bit.zip>
+  - 64-bit: <https://web.archive.org/web/20200815070206/https://hy-plugins.com/wp-content/uploads/2018/05/HY-Mono_64bit.zip>
 - Juce OPL VSTi <https://github.com/bsutherland/JuceOPLVSTi/releases>
   - x FM chip synth
 - Juno 6
@@ -141,7 +140,7 @@ Stereo Moorer Reverb (MoorerReverbStereo)
 - Mika-micro
   - x <https://github.com/tesselode/mika-micro/releases/tag/v2.0.1>
 - Model-E
-  - x https://www.steinberg.net/index.php?id=914&L=1
+  - x free not open source <https://www.steinberg.net/index.php?id=914&L=1>
 - Odin
   - x stable binaries: <https://www.thewavewarden.com/odin2>
   - source: <https://github.com/TheWaveWarden/odin2>
@@ -151,8 +150,8 @@ Stereo Moorer Reverb (MoorerReverbStereo)
   - x 1.3.4
   - <https://oxesoft.wordpress.com/>
   - <https://github.com/oxesoft/oxefmsynth>  
-- Plex
-  - x <https://plex.hermannseib.com/>
+- Plex <https://plex.hermannseib.com/>
+  - x free but not open source
 - Surge
   - x <https://surge-synthesizer.github.io/>
 - SQ8L ensoniq emulator
@@ -165,17 +164,16 @@ Stereo Moorer Reverb (MoorerReverbStereo)
 - Synth1
   - x <https://daichilab.com/>
   - presets:
-    - x 14000 presets collected: <https://veryrandomstreams.blogspot.com/2012/03/over-10000-free-patchessounds-for-free.html>
-    - if that disappears, use <https://web.archive.org/web/20210304053901/https://veryrandomstreams.blogspot.com/2012/03/over-10000-free-patchessounds-for-free.html>
+    - x 14000 presets collected: <https://veryrandomstreams.blogspot.com/2012/03/over-10000-free-patchessounds-for-free.html>.  If that disappears, use <https://web.archive.org/web/20210304053901/https://veryrandomstreams.blogspot.com/2012/03/over-10000-free-patchessounds-for-free.html>.
     - <http://blog.wavosaur.com/synth1-presets-chris-bank-volume-2/>
     - <http://blog.wavosaur.com/chris-bank-synth1-reup/>
 - Tunefish
-  - <https://tunefish-synth.com/download>
-  - x
+  - x <https://tunefish-synth.com/download>
 - Vital
   - free but uses subscription for more
 - VST 2413
-  - FM based on FM2413 emulation
+  - FM based on FM2413 emulation.
+  - No built DLL
   - <https://github.com/keijiro/vst2413>
 - VSTID
   - chip synth
