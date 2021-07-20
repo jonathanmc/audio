@@ -21,14 +21,13 @@
 - <https://github.com/webprofusion/OpenAudio>
   - excellent list of open source plug-ins
 - <https://github.com/IsaakCode/freeaudio>
-  - .
+- <https://awesomeopensource.com/projects/synthesizer>
 - <https://bedroomproducersblog.com/free-vst-plugins/>
   - good list of free plug-ins
 
 ### utilities
 
 - <https://github.com/audiorouterdev/audio-router>
-  - .
 
 ### audio plugins, effects
 
@@ -100,6 +99,8 @@ Stereo Moorer Reverb (MoorerReverbStereo)
 
 ### audio plugins, synths
 
+Lots of good stuff here. Best are Dexed, Helm, Ob-xd, Surge, Synth1, ZynAddSubFX.
+
 - ADL plug <https://github.com/jpcima/ADLplug>
   - x FM chip synth
 - arppe2600
@@ -110,11 +111,11 @@ Stereo Moorer Reverb (MoorerReverbStereo)
 - Blamsoft
   - x <https://blamsoft.com/vst/vk-1-viking-synthesizer/>
 - Cheezmachine and Tickyclav
-  - x<https://www.2getheraudio.com/>
+  - x <https://www.2getheraudio.com/>
 - DiscoDSP Ob-xd
   - x <https://www.discodsp.com/obxd/>
 - Firebird 2
-  - <https://en.freedownloadmanager.org/Windows-PC/Tone2-Firebird-FREE.html>
+  - x <https://en.freedownloadmanager.org/Windows-PC/Tone2-Firebird-FREE.html>
   - presets:
   - x <https://www.dropbox.com/s/3xn9ca1w19mrzjz/LukasFirebirdPatches.zip?dl=0>
   - x <https://rekkerd.org/firebird-presets-by-bkunfu/>
@@ -139,8 +140,11 @@ Stereo Moorer Reverb (MoorerReverbStereo)
   - x
 - Mika-micro
   - x <https://github.com/tesselode/mika-micro/releases/tag/v2.0.1>
-- Model-E
-  - x free not open source <https://www.steinberg.net/index.php?id=914&L=1>
+- Model-E (Steinberg)
+  - x free but not open source <https://www.steinberg.net/index.php?id=914&L=1>
+- nusofting
+  - x <https://nusofting.com/>>
+  - three synths are free here
 - Odin
   - x stable binaries: <https://www.thewavewarden.com/odin2>
   - source: <https://github.com/TheWaveWarden/odin2>
@@ -152,6 +156,8 @@ Stereo Moorer Reverb (MoorerReverbStereo)
   - <https://github.com/oxesoft/oxefmsynth>  
 - Plex <https://plex.hermannseib.com/>
   - x free but not open source
+- PG-8x
+  - x <https://sites.google.com/site/mlvst0>
 - Surge
   - x <https://surge-synthesizer.github.io/>
 - SQ8L ensoniq emulator
@@ -169,6 +175,8 @@ Stereo Moorer Reverb (MoorerReverbStereo)
     - <http://blog.wavosaur.com/chris-bank-synth1-reup/>
 - Tunefish
   - x <https://tunefish-synth.com/download>
+- u-he Podolski
+  - x
 - Vital
   - free but uses subscription for more
 - VST 2413
