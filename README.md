@@ -13,6 +13,11 @@
   - [2. Graphics](#2-graphics)
     - [RawTherapee stuff](#rawtherapee-stuff)
   - [3. Multipar](#3-multipar)
+  - [List of minecraft shaderpacks/resource packs](#list-of-minecraft-shaderpacksresource-packs)
+    - [resourcepacks on github](#resourcepacks-on-github)
+    - [resourcepacks NOT on github](#resourcepacks-not-on-github)
+  - [shaderpacks on github](#shaderpacks-on-github)
+  - [pay shaders](#pay-shaders)
 
 ## 1. Audio
 
@@ -321,3 +326,84 @@ x
 <https://github.com/Yutaka-Sawada/MultiPar>
 
 <http://hp.vector.co.jp/authors/VA021385/>
+
+## List of minecraft shaderpacks/resource packs
+
+<https://github.com/Mojang>
+
+### resourcepacks on github
+
+Search for resource pack
+- <https://github.com/search?q=resourcepack+minecraft>
+
+Vanilla Normals Renewed
+- <https://github.com/Poudingue/Vanilla-Normals-Renewed>
+- adds normals
+- specular is green
+
+<https://github.com/GeForceLegend/Minecraft-3D-Default>
+- good - makes objects 3d
+- 
+https://github.com/MazeWave/Vanilla-Raytraced
+
+
+<https://github.com/srslyBySirus/oldies-normals>
+- put in assets_alternative
+
+### resourcepacks NOT on github
+
+RTX beta foundational decorative pack
+
+Vanilla-PBR-1-2-0 - v similar to VanillaRaytracing
+https://www.curseforge.com/minecraft/texture-packs/vanilla-pbr
+
+
+vanilla-speculars-by-izterria
+
+- specular is red
+
+VanillaRaytracing 1.01
+ -
+
+
+
+## shaderpacks on github
+
+<https://github.com/search?q=shaderpack+minecraft&type=Repositories>
+
+- BSL
+
+<https://github.com/Septonious/Prismarine-Shader>
+
+- f
+
+<https://github.com/BelmuTM/NobleRT>
+
+- x
+
+<https://github.com/zombye/spectrum>
+
+- f
+
+<https://github.com/bobcao3/Wisdom-Shaders>
+
+- f
+
+
+<https://github.com/TeamMidnightDust/Puddles>
+
+- adds puddles to other packs
+
+## pay shaders
+SEUS
+
+- requires subscription
+
+<https://rre36.com/kappa-shader/kappa-shader-v3-0>
+
+- requires subscription
+
+<https://github.com/BruceKnowsHow/Octray>
+
+- subscription now
+
