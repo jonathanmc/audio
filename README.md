@@ -13,6 +13,8 @@
   - [2. Graphics](#2-graphics)
     - [RawTherapee stuff](#rawtherapee-stuff)
   - [3. Multipar](#3-multipar)
+  - [Graphics libraries](#graphics-libraries)
+  - [noise functions](#noise-functions)
   - [List of minecraft shaderpacks/resource packs](#list-of-minecraft-shaderpacksresource-packs)
     - [resourcepacks on github](#resourcepacks-on-github)
     - [resourcepacks NOT on github](#resourcepacks-not-on-github)
@@ -326,6 +328,21 @@ x
 <https://github.com/Yutaka-Sawada/MultiPar>
 
 <http://hp.vector.co.jp/authors/VA021385/>
+
+## Graphics libraries
+
+https://github.com/patriciogonzalezvivo/lygia
+
+https://github.com/Fewes/MinimalAtmosphere
+## noise functions
+
+https://github.com/ashima/webgl-noise
+
+https://github.com/patriciogonzalezvivo/lygia/tree/main/generative
+
+https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83
+
+
 
 ## List of minecraft shaderpacks/resource packs
 
