@@ -334,6 +334,7 @@ x
 https://github.com/patriciogonzalezvivo/lygia
 
 https://github.com/Fewes/MinimalAtmosphere
+
 ## noise functions
 
 https://github.com/ashima/webgl-noise
@@ -341,8 +342,6 @@ https://github.com/ashima/webgl-noise
 https://github.com/patriciogonzalezvivo/lygia/tree/main/generative
 
 https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83
-
-
 
 ## List of minecraft shaderpacks/resource packs
 
@@ -424,3 +423,31 @@ SEUS
 
 - subscription now
 
+# Other utilities
+
+## copying
+
+Easy Robocopy
+
+Copyfile 
+- allows resume over network
+
+Freefilesync
+- sync program, free
+
+Backup2
+- very nice backup, pay
+
+## Firewall
+
+Malwarebytes Windows Firewall
+
+## Productivity
+
+Autohotkey
+
+- remap keys
+
+Everything
+
+- file search
