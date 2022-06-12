@@ -213,51 +213,41 @@ Lots of good stuff here. Best are Dexed, Helm, Ob-xd, Surge, Synth1, ZynAddSubFX
 <https://github.com/polarity/bitwig-artist-collection>
 just information about the other repos, which follow:
 
-1. <https://github.com/polarity/polarity-music-tools>
-   - x
+1. x <https://github.com/polarity/polarity-music-tools>
   
-2. <https://github.com/polarity/bitwig-projects>
-   - x
+2. x <https://github.com/polarity/bitwig-projects>
 
-3. <https://github.com/polarity/bitwig-community-presets>
-   - x
+3. x <https://github.com/polarity/bitwig-community-presets>
 
-4. <https://github.com/polarity/bitwig-pianobook>; samples from <https://www.pianobook.co.uk/>
-   - x, not cloned
+4. x <https://github.com/polarity/bitwig-pianobook>; samples from <https://www.pianobook.co.uk/>
+   - not cloned
 
 5. <https://github.com/polarity/preset-party-app>
 
 - <https://github.com/jrelo/bitwig_presetz>
-  - <https://github.com/jrelo/bitwig_presetz.git>
-  - x
+  - x <https://github.com/jrelo/bitwig_presetz.git>
 
 - <https://github.com/stylemistake/bitwig-presets-sm>
-  - <https://github.com/stylemistake/bitwig-presets-sm.git>
-  - x
+  - x <https://github.com/stylemistake/bitwig-presets-sm.git>
 
 - <https://github.com/MatjoeP/Bitwig-Presets>
-  - <https://github.com/MatjoeP/Bitwig-Presets.git>
+  - x <https://github.com/MatjoeP/Bitwig-Presets.git>
   - last checked 2022-06, does not clone properly
 
 - <https://github.com/tachesteaches/bitwig-presets> Micromanager present
-  - <https://github.com/tachesteaches/bitwig-presets.git>
-  - x
+  - x <https://github.com/tachesteaches/bitwig-presets.git>
 
 - <https://github.com/davem2/bitwig2-presets>
-  - <https://github.com/davem2/bitwig2-presets.git>
-  - x
+  - x <https://github.com/davem2/bitwig2-presets.git>
 
 - <https://github.com/cyanit/Bitwig-Studio-Presets>
-  - <https://github.com/cyanit/Bitwig-Studio-Presets.git>
-  - x
+  - x <https://github.com/cyanit/Bitwig-Studio-Presets.git>
 
 - <https://github.com/TraNzeM/tnm-bitwig-presets>
-  - <https://github.com/TraNzeM/tnm-bitwig-presets.git>
-  - x
+  - x <https://github.com/TraNzeM/tnm-bitwig-presets.git>
 
 - <https://github.com/polk9/Bitwig-3.3>
-  - <https://github.com/polk9/Bitwig-3.3.git>
-  - x
+  - x <https://github.com/polk9/Bitwig-3.3.git>
 
 ### reverb convolution files
 
