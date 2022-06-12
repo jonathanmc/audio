@@ -214,32 +214,30 @@ Lots of good stuff here. Best are Dexed, Helm, Ob-xd, Surge, Synth1, ZynAddSubFX
 just information about the other repos, which follow:
 
 1. <https://github.com/polarity/polarity-music-tools>
-last checked 2022-06
-2. <https://github.com/polarity/bitwig-projects>
-last checked 2022-06
-3. <https://github.com/polarity/bitwig-community-presets>
-last checked 2022-06
-4. <https://github.com/polarity/bitwig-pianobook>
-last checked 2022-06
-5. <https://github.com/polarity/preset-party-app>
-last checked 2022-06
 
-<https://github.com/jrelo/bitwig_presetz>
-last checked 2022-06
-<https://github.com/stylemistake/bitwig-presets-sm>
-last checked 2022-06
-<https://github.com/MatjoeP/Bitwig-Presets>
-last checked 2022-06
-<https://github.com/tachesteaches/bitwig-presets>
-last checked 2022-06
-<https://github.com/davem2/bitwig2-presets>
-last checked 2022-06
-<https://github.com/cyanit/Bitwig-Studio-Presets>
-last checked 2022-06
-<https://github.com/TraNzeM/tnm-bitwig-presets>
-last checked 2022-06
-<https://github.com/polk9/Bitwig-3.3>
-last checked 2022-06
+2. <https://github.com/polarity/bitwig-projects>
+
+3. <https://github.com/polarity/bitwig-community-presets>
+
+4. <https://github.com/polarity/bitwig-pianobook>; samples from <https://www.pianobook.co.uk/>
+
+5. <https://github.com/polarity/preset-party-app>
+
+- <https://github.com/jrelo/bitwig_presetz>
+
+- <https://github.com/stylemistake/bitwig-presets-sm>
+
+- <https://github.com/MatjoeP/Bitwig-Presets>
+
+- <https://github.com/tachesteaches/bitwig-presets>
+
+- <https://github.com/davem2/bitwig2-presets>
+
+- <https://github.com/cyanit/Bitwig-Studio-Presets>
+
+- <https://github.com/TraNzeM/tnm-bitwig-presets>
+
+- <https://github.com/polk9/Bitwig-3.3>
 
 ### reverb convolution files
 
@@ -318,7 +316,7 @@ True M7 – Impulse Pack
   - x orchestral sounds
 - <https://soundpacks.com/free-sound-packs/>
   - .
-- https://github.com/MckAudio/MckSamplePacks
+- <https://github.com/MckAudio/MckSamplePacks>
 - last checked 2022-06
 
 ### Internet Archive
