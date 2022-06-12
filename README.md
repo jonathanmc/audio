@@ -318,6 +318,8 @@ True M7 – Impulse Pack
   - x orchestral sounds
 - <https://soundpacks.com/free-sound-packs/>
   - .
+- https://github.com/MckAudio/MckSamplePacks
+- last checked 2022-06
 
 ### Internet Archive
 
