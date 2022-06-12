@@ -1,5 +1,3 @@
-# free/open source audio and graphics things
-
 - [free/open source audio and graphics things](#freeopen-source-audio-and-graphics-things)
   - [1. Audio](#1-audio)
     - [lists of audio software](#lists-of-audio-software)
@@ -7,6 +5,7 @@
     - [audio plugins, effects](#audio-plugins-effects)
       - [audio plugins, effects, reverbs](#audio-plugins-effects-reverbs)
     - [audio plugins, synths](#audio-plugins-synths)
+    - [presets for Bitwig](#presets-for-bitwig)
     - [reverb convolution files](#reverb-convolution-files)
     - [Samples](#samples)
     - [Internet Archive](#internet-archive)
@@ -20,6 +19,12 @@
     - [resourcepacks NOT on github](#resourcepacks-not-on-github)
   - [shaderpacks on github](#shaderpacks-on-github)
   - [pay shaders](#pay-shaders)
+  - [Other utilities](#other-utilities)
+    - [copying](#copying)
+    - [Firewall](#firewall)
+    - [Productivity](#productivity)
+
+# free/open source audio and graphics things
 
 ## 1. Audio
 
@@ -417,7 +422,8 @@ vanilla-speculars-by-izterria
 - specular is red
 
 VanillaRaytracing 1.01
- -
+
+-
 
 ## shaderpacks on github
 
