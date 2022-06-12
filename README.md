@@ -232,7 +232,7 @@ just information about the other repos, which follow:
   - last checked 2022-06, does not clone properly
 
 - x <https://github.com/tachesteaches/bitwig-presets.git>
-  - Micromanager present
+  - Micromanager preset
 
 - x <https://github.com/davem2/bitwig2-presets.git>
 
