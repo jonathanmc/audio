@@ -200,7 +200,42 @@ Lots of good stuff here. Best are Dexed, Helm, Ob-xd, Surge, Synth1, ZynAddSubFX
   - x <https://zynaddsubfx.sourceforge.io/>  
   - source: <https://github.com/zynaddsubfx/>
   - free binaries: <https://www.kvraudio.com/forum/viewtopic.php?f=47&t=268277>
-  
+
+### presets for Bitwig
+
+<https://github.com/search?q=bitwig+presets>
+
+<https://github.com/polarity/bitwig-artist-collection>
+just information about the other repos, which follow:
+
+1. <https://github.com/polarity/polarity-music-tools>
+last checked 2022-06
+2. <https://github.com/polarity/bitwig-projects>
+last checked 2022-06
+3. <https://github.com/polarity/bitwig-community-presets>
+last checked 2022-06
+4. <https://github.com/polarity/bitwig-pianobook>
+last checked 2022-06
+5. <https://github.com/polarity/preset-party-app>
+last checked 2022-06
+
+<https://github.com/jrelo/bitwig_presetz>
+last checked 2022-06
+<https://github.com/stylemistake/bitwig-presets-sm>
+last checked 2022-06
+<https://github.com/MatjoeP/Bitwig-Presets>
+last checked 2022-06
+<https://github.com/tachesteaches/bitwig-presets>
+last checked 2022-06
+<https://github.com/davem2/bitwig2-presets>
+last checked 2022-06
+<https://github.com/cyanit/Bitwig-Studio-Presets>
+last checked 2022-06
+<https://github.com/TraNzeM/tnm-bitwig-presets>
+last checked 2022-06
+<https://github.com/polk9/Bitwig-3.3>
+last checked 2022-06
+
 ### reverb convolution files
 
 - <https://www.reddit.com/r/samplesforall/comments/hagyyp/gathered_list_of_free_impulse_responses/>
@@ -331,17 +366,17 @@ x
 
 ## Graphics libraries
 
-https://github.com/patriciogonzalezvivo/lygia
+<https://github.com/patriciogonzalezvivo/lygia>
 
-https://github.com/Fewes/MinimalAtmosphere
+<https://github.com/Fewes/MinimalAtmosphere>
 
 ## noise functions
 
-https://github.com/ashima/webgl-noise
+<https://github.com/ashima/webgl-noise>
 
-https://github.com/patriciogonzalezvivo/lygia/tree/main/generative
+<https://github.com/patriciogonzalezvivo/lygia/tree/main/generative>
 
-https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83
+<https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83>
 
 ## List of minecraft shaderpacks/resource packs
 
@@ -350,20 +385,24 @@ https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83
 ### resourcepacks on github
 
 Search for resource pack
+
 - <https://github.com/search?q=resourcepack+minecraft>
 
 Vanilla Normals Renewed
+
 - <https://github.com/Poudingue/Vanilla-Normals-Renewed>
 - adds normals
 - specular is green
 
 <https://github.com/GeForceLegend/Minecraft-3D-Default>
-- good - makes objects 3d
-- 
-https://github.com/MazeWave/Vanilla-Raytraced
 
+- good - makes objects 3d
+
+-
+<https://github.com/MazeWave/Vanilla-Raytraced>
 
 <https://github.com/srslyBySirus/oldies-normals>
+
 - put in assets_alternative
 
 ### resourcepacks NOT on github
@@ -371,8 +410,7 @@ https://github.com/MazeWave/Vanilla-Raytraced
 RTX beta foundational decorative pack
 
 Vanilla-PBR-1-2-0 - v similar to VanillaRaytracing
-https://www.curseforge.com/minecraft/texture-packs/vanilla-pbr
-
+<https://www.curseforge.com/minecraft/texture-packs/vanilla-pbr>
 
 vanilla-speculars-by-izterria
 
@@ -380,8 +418,6 @@ vanilla-speculars-by-izterria
 
 VanillaRaytracing 1.01
  -
-
-
 
 ## shaderpacks on github
 
@@ -405,12 +441,12 @@ VanillaRaytracing 1.01
 
 - f
 
-
 <https://github.com/TeamMidnightDust/Puddles>
 
 - adds puddles to other packs
 
 ## pay shaders
+
 SEUS
 
 - requires subscription
@@ -423,26 +459,29 @@ SEUS
 
 - subscription now
 
-# Other utilities
+## Other utilities
 
-## copying
+### copying
 
 Easy Robocopy
 
-Copyfile 
+Copyfile
+
 - allows resume over network
 
 Freefilesync
+
 - sync program, free
 
 Backup2
+
 - very nice backup, pay
 
-## Firewall
+### Firewall
 
 Malwarebytes Windows Firewall
 
-## Productivity
+### Productivity
 
 Autohotkey
 
