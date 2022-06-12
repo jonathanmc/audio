@@ -224,6 +224,7 @@ just information about the other repos, which follow:
 5. <https://github.com/polarity/preset-party-app>
 
 - <https://github.com/jrelo/bitwig_presetz>
+- last checked 2022-06, does not clone properly
 
 - <https://github.com/stylemistake/bitwig-presets-sm>
 
