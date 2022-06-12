@@ -17,8 +17,8 @@
   - [List of minecraft shaderpacks/resource packs](#list-of-minecraft-shaderpacksresource-packs)
     - [resourcepacks on github](#resourcepacks-on-github)
     - [resourcepacks NOT on github](#resourcepacks-not-on-github)
-  - [shaderpacks on github](#shaderpacks-on-github)
-  - [pay shaders](#pay-shaders)
+    - [shaderpacks on github](#shaderpacks-on-github)
+    - [pay shaders](#pay-shaders)
   - [Other utilities](#other-utilities)
     - [copying](#copying)
     - [Firewall](#firewall)
@@ -425,7 +425,7 @@ VanillaRaytracing 1.01
 
 -
 
-## shaderpacks on github
+### shaderpacks on github
 
 <https://github.com/search?q=shaderpack+minecraft&type=Repositories>
 
@@ -451,7 +451,7 @@ VanillaRaytracing 1.01
 
 - adds puddles to other packs
 
-## pay shaders
+### pay shaders
 
 SEUS
 
