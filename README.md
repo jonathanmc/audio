@@ -224,30 +224,23 @@ just information about the other repos, which follow:
 
 5. <https://github.com/polarity/preset-party-app>
 
-- <https://github.com/jrelo/bitwig_presetz>
-  - x <https://github.com/jrelo/bitwig_presetz.git>
+- x <https://github.com/jrelo/bitwig_presetz.git>
 
-- <https://github.com/stylemistake/bitwig-presets-sm>
-  - x <https://github.com/stylemistake/bitwig-presets-sm.git>
+- x <https://github.com/stylemistake/bitwig-presets-sm.git>
 
-- <https://github.com/MatjoeP/Bitwig-Presets>
-  - x <https://github.com/MatjoeP/Bitwig-Presets.git>
+- x <https://github.com/MatjoeP/Bitwig-Presets.git>
   - last checked 2022-06, does not clone properly
 
-- <https://github.com/tachesteaches/bitwig-presets> Micromanager present
-  - x <https://github.com/tachesteaches/bitwig-presets.git>
+- x <https://github.com/tachesteaches/bitwig-presets.git>
+  - Micromanager present
 
-- <https://github.com/davem2/bitwig2-presets>
-  - x <https://github.com/davem2/bitwig2-presets.git>
+- x <https://github.com/davem2/bitwig2-presets.git>
 
-- <https://github.com/cyanit/Bitwig-Studio-Presets>
-  - x <https://github.com/cyanit/Bitwig-Studio-Presets.git>
+- x <https://github.com/cyanit/Bitwig-Studio-Presets.git>
 
-- <https://github.com/TraNzeM/tnm-bitwig-presets>
-  - x <https://github.com/TraNzeM/tnm-bitwig-presets.git>
+- x <https://github.com/TraNzeM/tnm-bitwig-presets.git>
 
-- <https://github.com/polk9/Bitwig-3.3>
-  - x <https://github.com/polk9/Bitwig-3.3.git>
+- x <https://github.com/polk9/Bitwig-3.3.git>
 
 ### reverb convolution files
 
