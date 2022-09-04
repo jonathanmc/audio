@@ -40,6 +40,8 @@
 ### utilities
 
 - <https://github.com/audiorouterdev/audio-router>
+- freAC audio converter https://github.com/enzo1982/freac/releases/tag/v1.1.6
+- Tencoder
 
 ### audio plugins, effects
 
@@ -334,6 +336,8 @@ True M7 – Impulse Pack
 ## 2. Graphics
 
 <https://github.com/huginn/huginn>
+
+KDenlive for video editing
 
 ### RawTherapee stuff
 
