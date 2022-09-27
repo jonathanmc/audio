@@ -370,19 +370,13 @@ x
 <https://github.com/xsynaptic/synaptic-lightroom-presets>
 x
 
-## 3. Multipar
-
-<https://github.com/Yutaka-Sawada/MultiPar>
-
-<http://hp.vector.co.jp/authors/VA021385/>
-
-## Graphics libraries
+### Graphics libraries
 
 <https://github.com/patriciogonzalezvivo/lygia>
 
 <https://github.com/Fewes/MinimalAtmosphere>
 
-## noise functions
+### noise functions
 
 <https://github.com/ashima/webgl-noise>
 
@@ -390,7 +384,7 @@ x
 
 <https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83>
 
-## List of minecraft shaderpacks/resource packs
+## Minecraft shaderpacks/resource packs
 
 <https://github.com/Mojang>
 
@@ -473,6 +467,12 @@ SEUS
 - subscription now
 
 ## Other utilities
+
+<https://github.com/Yutaka-Sawada/MultiPar>
+
+<http://hp.vector.co.jp/authors/VA021385/>
+
+
 
 ### copying
 
