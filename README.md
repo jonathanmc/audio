@@ -407,6 +407,7 @@ Vanilla Normals Renewed
 - good - makes objects 3d
 
 -
+
 <https://github.com/MazeWave/Vanilla-Raytraced>
 
 <https://github.com/srslyBySirus/oldies-normals>
