@@ -341,7 +341,17 @@ True M7 – Impulse Pack
 
 KDenlive for video editing
 
+IrfanView @ http://www.irfanview.com/.  Free graphics viewer.  It also does basic graphics editing and the plugins are quite useful, too.  Install SmartCurves (a plugin) if you want to edit levels properly.
+
+GIMP @ http://www.gimp.org/.  Open source bitmap graphics editor. Basically an open source version of Adobe's Photoshop or Corel Draw.
+
+Photivo @ http://www.photivo.org.  Open source digital photo editor. Crazy number of options. Crashes sometimes.
+
+Picasa.  Basic photo editor. Integrates tightly to Google.
+
 ### RawTherapee stuff
+
+Raw Therapee @ http://www.rawtherapee.com.  Open source digital photo editor. Fewer options than Photivo, but more stable.
 
 <https://github.com/search?q=RawTherapee>
 
