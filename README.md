@@ -44,6 +44,11 @@
 - Tencoder
 - IMGburn @ http://www.imgburn.com/.  Freeware CD/DVD burning utility.
 - WinCDEmu.  Mounting utility for ISO images. Open source.
+- Winamp @ http://www.winamp.com/.  Free audio player
+- VLC Player @ http://www.videolan.org/vlc/.  Free media player.
+- Handbrake @ http://handbrake.fr. Excellent open source video converted.
+- Freemake Video Converter. Excellent freeware video converter. Simple to use.
+- SUPER video converter. Lots of options.
 
 ### audio plugins, effects
 
