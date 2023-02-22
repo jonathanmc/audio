@@ -42,6 +42,8 @@
 - <https://github.com/audiorouterdev/audio-router>
 - freAC audio converter https://github.com/enzo1982/freac/releases/tag/v1.1.6
 - Tencoder
+- IMGburn @ http://www.imgburn.com/.  Freeware CD/DVD burning utility.
+- WinCDEmu.  Mounting utility for ISO images. Open source.
 
 ### audio plugins, effects
 
