@@ -400,51 +400,32 @@ True M7 – Impulse Pack
 
 ### shaderpacks on github
 
-<https://github.com/search?q=shaderpack+minecraft&type=Repositories>
-
-- BSL
-
-<https://github.com/Septonious/Prismarine-Shader>
-
-- f
-
-<https://github.com/BelmuTM/NobleRT>
-
-- x
-
-<https://github.com/zombye/spectrum>
-
-- f
-
-<https://github.com/bobcao3/Wisdom-Shaders>
-
-- f
-
-<https://github.com/TeamMidnightDust/Puddles>
-
-- adds puddles to other packs
+- <https://github.com/search?q=shaderpack+minecraft&type=Repositories>
+  - BSL
+- <https://github.com/Septonious/Prismarine-Shader>
+  - f
+- <https://github.com/BelmuTM/NobleRT>
+  - x
+- <https://github.com/zombye/spectrum>
+  - f
+- <https://github.com/bobcao3/Wisdom-Shaders>
+  - f
+- <https://github.com/TeamMidnightDust/Puddles>
+  - adds puddles to other packs
 
 ### pay shaders
 
-SEUS
-
-- requires subscription
-
-<https://rre36.com/kappa-shader/kappa-shader-v3-0>
-
-- requires subscription
-
-<https://github.com/BruceKnowsHow/Octray>
-
-- subscription now
+- SEUS
+  - requires subscription
+- <https://rre36.com/kappa-shader/kappa-shader-v3-0>
+  - requires subscription
+- <https://github.com/BruceKnowsHow/Octray>
+  - subscription now
 
 ## Other utilities
 
-<https://github.com/Yutaka-Sawada/MultiPar>
-
-<http://hp.vector.co.jp/authors/VA021385/>
-
-
+- <https://github.com/Yutaka-Sawada/MultiPar>
+- <http://hp.vector.co.jp/authors/VA021385/>
 
 ### copying
 
@@ -464,13 +445,10 @@ SEUS
 
 - Autohotkey
   - remap keys
-
 - Everything
   - file search
-
 - Recoll
   - file content search
-
 - DocSearcher (can't recall the name)
   - file content search
 
