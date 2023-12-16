@@ -343,107 +343,60 @@ True M7 – Impulse Pack
 
 ## 2. Graphics
 
-<https://github.com/huginn/huginn>
-
-KDenlive for video editing
-
-IrfanView @ http://www.irfanview.com/.  Free graphics viewer.  It also does basic graphics editing and the plugins are quite useful, too.  Install SmartCurves (a plugin) if you want to edit levels properly.
-
-GIMP @ http://www.gimp.org/.  Open source bitmap graphics editor. Basically an open source version of Adobe's Photoshop or Corel Draw.
-
-Photivo @ http://www.photivo.org.  Open source digital photo editor. Crazy number of options. Crashes sometimes.
-
-Picasa.  Basic photo editor. Integrates tightly to Google.
+- <https://github.com/huginn/huginn>
+- KDenlive for video editing
+- IrfanView @ http://www.irfanview.com/.  Free graphics viewer.  It also does basic graphics editing and the plugins are quite useful, too.  Install SmartCurves (a plugin) if you want to edit levels properly.
+- GIMP @ http://www.gimp.org/.  Open source bitmap graphics editor. Basically an open source version of Adobe's Photoshop or Corel Draw.
+- Photivo @ http://www.photivo.org.  Open source digital photo editor. Crazy number of options. Crashes sometimes.
+- Picasa. Basic photo editor. Integrates tightly to Google. Defunct now.
 
 ### RawTherapee stuff
 
-Raw Therapee @ http://www.rawtherapee.com.  Open source digital photo editor. Fewer options than Photivo, but more stable.
-
-<https://github.com/search?q=RawTherapee>
-
-<https://github.com/lgut/my_rawtherapee_profiles>
-x
-
-<https://github.com/rawtherapee-filters-master>
-x
-
-<https://github.com/mattintosh4/RawTherapee>
-x
-
-<https://github.com/danmadeira/rawtherapee-neutral>
-x
-
-<https://github.com/TheSquirrelMafia/RawTherapee-PP3-Settings>
-x
-
-<https://github.com/GLTR87/RawTherapee-presets-Fuji-inspired>
-x
-
-<https://github.com/pixlsus/RawTherapee-Presets>
-x
-
-<https://github.com/anxix/rt_ir_presets>
-x
-
-<https://github.com/xsynaptic/synaptic-lightroom-presets>
-x
+- Raw Therapee @ http://www.rawtherapee.com.  Open source digital photo editor. Fewer options than Photivo, but more stable.
+- <https://github.com/search?q=RawTherapee>
+- <https://github.com/lgut/my_rawtherapee_profiles>
+- x <https://github.com/rawtherapee-filters-master>
+- x <https://github.com/mattintosh4/RawTherapee>
+- x <https://github.com/danmadeira/rawtherapee-neutral>
+- x <https://github.com/TheSquirrelMafia/RawTherapee-PP3-Settings>
+- x <https://github.com/GLTR87/RawTherapee-presets-Fuji-inspired>
+- x <https://github.com/pixlsus/RawTherapee-Presets>
+- x <https://github.com/anxix/rt_ir_presets>
+- x <https://github.com/xsynaptic/synaptic-lightroom-presets>
 
 ### Graphics libraries
-
-<https://github.com/patriciogonzalezvivo/lygia>
-
-<https://github.com/Fewes/MinimalAtmosphere>
+- <https://github.com/patriciogonzalezvivo/lygia>
+- <https://github.com/Fewes/MinimalAtmosphere>
 
 ### noise functions
-
-<https://github.com/ashima/webgl-noise>
-
-<https://github.com/patriciogonzalezvivo/lygia/tree/main/generative>
-
-<https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83>
+- <https://github.com/ashima/webgl-noise>
+- <https://github.com/patriciogonzalezvivo/lygia/tree/main/generative>
+- <https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83>
 
 ## Minecraft shaderpacks/resource packs
-
-<https://github.com/Mojang>
+- <https://github.com/Mojang>
 
 ### resourcepacks on github
-
-Search for resource pack
-
+- Search for resource pack
 - <https://github.com/search?q=resourcepack+minecraft>
 
-Vanilla Normals Renewed
-
-- <https://github.com/Poudingue/Vanilla-Normals-Renewed>
-- adds normals
-- specular is green
-
-<https://github.com/GeForceLegend/Minecraft-3D-Default>
-
-- good - makes objects 3d
-
--
-
-<https://github.com/MazeWave/Vanilla-Raytraced>
-
-<https://github.com/srslyBySirus/oldies-normals>
-
-- put in assets_alternative
+- Vanilla Normals Renewed
+  - <https://github.com/Poudingue/Vanilla-Normals-Renewed>
+  - adds normals
+  - specular is green
+- <https://github.com/GeForceLegend/Minecraft-3D-Default>
+  - good - makes objects 3d
+- <https://github.com/MazeWave/Vanilla-Raytraced>
+- <https://github.com/srslyBySirus/oldies-normals>
+  - put in assets_alternative
 
 ### resourcepacks NOT on github
 
-RTX beta foundational decorative pack
-
-Vanilla-PBR-1-2-0 - v similar to VanillaRaytracing
-<https://www.curseforge.com/minecraft/texture-packs/vanilla-pbr>
-
-vanilla-speculars-by-izterria
-
+- RTX beta foundational decorative pack
+- Vanilla-PBR-1-2-0 - v similar to VanillaRaytracing <https://www.curseforge.com/minecraft/texture-packs/vanilla-pbr>
+- vanilla-speculars-by-izterria
 - specular is red
-
-VanillaRaytracing 1.01
-
--
+- VanillaRaytracing 1.01
 
 ### shaderpacks on github
 
@@ -495,30 +448,30 @@ SEUS
 
 ### copying
 
-Easy Robocopy
-
-Copyfile
-
-- allows resume over network
-
-Freefilesync
-
-- sync program, free
-
-Backup2
-
-- very nice backup, pay
+- Easy Robocopy
+- Copyfile
+  - allows resume over network
+- Backup2
+  - very nice backup, pay
+- Freefilesync
+  - sync program, free
 
 ### Firewall
 
-Malwarebytes Windows Firewall
+- Malwarebytes Windows Firewall
 
 ### Productivity
 
-Autohotkey
+- Autohotkey
+  - remap keys
 
-- remap keys
+- Everything
+  - file search
 
-Everything
+- Recoll
+  - file content search
 
-- file search
+- DocSearcher (can't recall the name)
+  - file content search
+
+
