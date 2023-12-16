@@ -33,6 +33,7 @@
 - <https://github.com/webprofusion/OpenAudio>
   - excellent list of open source plug-ins
 - <https://github.com/IsaakCode/freeaudio>
+  - A curated list of freely available samples, virtual instruments and effects 
 - <https://awesomeopensource.com/projects/synthesizer>
 - <https://bedroomproducersblog.com/free-vst-plugins/>
   - good list of free plug-ins
