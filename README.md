@@ -11,10 +11,9 @@
     - [Internet Archive](#internet-archive)
   - [2. Graphics](#2-graphics)
     - [RawTherapee stuff](#rawtherapee-stuff)
-  - [3. Multipar](#3-multipar)
-  - [Graphics libraries](#graphics-libraries)
-  - [noise functions](#noise-functions)
-  - [List of minecraft shaderpacks/resource packs](#list-of-minecraft-shaderpacksresource-packs)
+    - [Graphics libraries](#graphics-libraries)
+    - [noise functions](#noise-functions)
+  - [Minecraft shaderpacks/resource packs](#minecraft-shaderpacksresource-packs)
     - [resourcepacks on github](#resourcepacks-on-github)
     - [resourcepacks NOT on github](#resourcepacks-not-on-github)
     - [shaderpacks on github](#shaderpacks-on-github)
@@ -40,12 +39,14 @@
 
 ### utilities
 
-- <https://github.com/audiorouterdev/audio-router>
+- audio-router <https://github.com/audiorouterdev/audio-router>
 - freAC audio converter https://github.com/enzo1982/freac/releases/tag/v1.1.6
 - Tencoder
 - IMGburn @ http://www.imgburn.com/.  Freeware CD/DVD burning utility.
 - WinCDEmu.  Mounting utility for ISO images. Open source.
 - Winamp @ http://www.winamp.com/.  Free audio player
+- Foobar2000 @ https://www.foobar2000.org/
+  - To cast, use BubbleUPNP server (a paid program) plus the Foobar2000 UPNP renderer plug-in 0.99 (requires 32-bit Foobar2000).
 - VLC Player @ http://www.videolan.org/vlc/.  Free media player.
 - Handbrake @ http://handbrake.fr. Excellent open source video converted.
 - Freemake Video Converter. Excellent freeware video converter. Simple to use.
@@ -55,12 +56,10 @@
 
 - <https://bedroomproducersblog.com/2020/07/10/accentize-prefet/>
   - x PreFET is a Machine-Learning based transistor pre-amp emulation which was designed using the same concept as PreTube. The included artificial neural network has learnt to precisely imitate the transistor pre-amp stage of a 70s tabletop cassette recorder. Depending on the Drive-Setting PreFET can colour your sounds from subtle analogue saturation to heavy overdrive.
-- Analog Tape Model
-  - <https://github.com/jatinchowdhury18/AnalogTapeModel>
-  - x tape saturator
-- CHOW tape
-  - <https://bedroomproducersblog.com/2020/07/14/chow-tape-model/>
-  - x
+- Jatin Chowdhury VST effects @ <https://github.com/jatinchowdhury18/>
+  - x Analog Tape Model, tape saturator
+  - x BYOD, distortion
+  - x ChowMatrix, delay
 - <https://plugins.iem.at/>
   - x The IEM Plug-in Suite is a free and Open-Source audio plugin suite including Ambisonic plug-ins up to 7th order created by staff and students of the
 Institute of Electronic Music and Acoustics.
@@ -181,9 +180,10 @@ Lots of good stuff here. Best are Dexed, Helm, Ob-xd, Surge, Synth1, ZynAddSubFX
 - PG-8x
   - x <https://sites.google.com/site/mlvst0>
 - Surge
-  - x <https://surge-synthesizer.github.io/>
+  - x <https://surge-synthesizer.github.io/> and <https://github.com/surge-synthesizer>
 - SQ8L ensoniq emulator
   - x <http://www.buchty.net/ensoniq/#sq8l>
+  - last updated 2008
 - Superwave
   - x <https://www.superwavesynths.com/all-synthesizers>
 - Synister
