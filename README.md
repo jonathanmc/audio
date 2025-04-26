@@ -1,11 +1,11 @@
-- [free/open source audio and graphics things](#freeopen-source-audio-and-graphics-things)
-  - [1. Audio](#1-audio)
-    - [lists of audio software](#lists-of-audio-software)
-    - [DAWs](#daws)
-    - [utilities](#utilities)
-    - [audio plugins, effects](#audio-plugins-effects)
-      - [audio plugins, effects, reverbs](#audio-plugins-effects-reverbs)
-    - [audio plugins, synths](#audio-plugins-synths)
+- [Free and open source audio, graphics, and other tools](#free-and-open-source-audio-graphics-and-other-tools)
+  - [1. Audio-related](#1-audio-related)
+    - [lists of audio software and plug-ins](#lists-of-audio-software-and-plug-ins)
+    - [audio Digital Audio Workstations (DAWs)](#audio-digital-audio-workstations-daws)
+    - [audio utilities](#audio-utilities)
+    - [audio plug-ins](#audio-plug-ins)
+      - [audio plug-ins, specifically reverbs](#audio-plug-ins-specifically-reverbs)
+    - [audio plug-ins, specifically synths](#audio-plug-ins-specifically-synths)
     - [presets for Bitwig](#presets-for-bitwig)
     - [reverb convolution files](#reverb-convolution-files)
     - [Samples](#samples)
@@ -24,11 +24,13 @@
     - [Firewall](#firewall)
     - [Productivity](#productivity)
 
-# free/open source audio and graphics things
+This is a list of free and open source audio programs, audio plug-ins, VST plug-ins, graphics programs, and various other miscellaneous programs and tools.
 
-## 1. Audio
+# Free and open source audio, graphics, and other tools
 
-### lists of audio software
+## 1. Audio-related
+
+### lists of audio software and plug-ins
 
 - <https://github.com/webprofusion/OpenAudio>
   - excellent list of open source plug-ins
@@ -38,11 +40,11 @@
 - <https://bedroomproducersblog.com/free-vst-plugins/>
   - good list of free plug-ins
 
-### DAWs
+### audio Digital Audio Workstations (DAWs)
 
 - zrythm.org/
-- 
-### utilities
+
+### audio utilities
 
 - audio-router <https://github.com/audiorouterdev/audio-router>
 - freAC audio converter https://github.com/enzo1982/freac/releases/tag/v1.1.6
@@ -57,7 +59,9 @@
 - Freemake Video Converter. Excellent freeware video converter. Simple to use.
 - SUPER video converter. Lots of options.
 
-### audio plugins, effects
+### audio plug-ins
+
+These are audio plug-ins, usually VST plug-ins, for use in DAWs. Below are specific lists of reverbs and synths.
 
 - <https://bedroomproducersblog.com/2020/07/10/accentize-prefet/>
   - x PreFET is a Machine-Learning based transistor pre-amp emulation which was designed using the same concept as PreTube. The included artificial neural network has learnt to precisely imitate the transistor pre-amp stage of a 70s tabletop cassette recorder. Depending on the Drive-Setting PreFET can colour your sounds from subtle analogue saturation to heavy overdrive.
@@ -78,7 +82,7 @@ Institute of Electronic Music and Acoustics.
   - x <https://www.igorski.nl/download/regrader>
   - degrader
   
-#### audio plugins, effects, reverbs
+#### audio plug-ins, specifically reverbs
 
 - Epicverb
   - x archived here: <https://web.archive.org/web/20120106081916/http://dl.dropbox.com/u/4063301/epicVerb_1.5.rar>
@@ -140,7 +144,7 @@ Institute of Electronic Music and Acoustics.
 - Ambiance
   - x <http://magnus.smartelectronix.com/>
 
-### audio plugins, synths
+### audio plug-ins, specifically synths
 
 Lots of good stuff here. Best are Dexed, Helm, Ob-xd, Surge, Synth1, ZynAddSubFX.
 
@@ -293,6 +297,8 @@ just information about the other repos, which follow:
 
 ### reverb convolution files
 
+These are for use in convolution reverb plug-ins.
+
 - <https://www.reddit.com/r/samplesforall/comments/hagyyp/gathered_list_of_free_impulse_responses/>
   - thread on reddit
 - <https://web.archive.org/web/20190820005114/http://www.samplicity.com/bricasti-m7-impulse-responses>
@@ -377,8 +383,7 @@ True M7 – Impulse Pack
   - NASA samples
 
 - <https://archive.org/details/Voyager1>
-
-  -
+  - NASA samples from the Voyager 1 spacecraft
 
 ## 2. Graphics
 
@@ -404,18 +409,22 @@ True M7 – Impulse Pack
 - x <https://github.com/xsynaptic/synaptic-lightroom-presets>
 
 ### Graphics libraries
+
 - <https://github.com/patriciogonzalezvivo/lygia>
 - <https://github.com/Fewes/MinimalAtmosphere>
 
 ### noise functions
+
 - <https://github.com/ashima/webgl-noise>
 - <https://github.com/patriciogonzalezvivo/lygia/tree/main/generative>
 - <https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83>
 
 ## Minecraft shaderpacks/resource packs
+
 - <https://github.com/Mojang>
 
 ### resourcepacks on github
+
 - Search for resource pack
 - <https://github.com/search?q=resourcepack+minecraft>
 
