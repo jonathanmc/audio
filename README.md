@@ -1,6 +1,7 @@
 - [free/open source audio and graphics things](#freeopen-source-audio-and-graphics-things)
   - [1. Audio](#1-audio)
     - [lists of audio software](#lists-of-audio-software)
+    - [DAWs](#daws)
     - [utilities](#utilities)
     - [audio plugins, effects](#audio-plugins-effects)
       - [audio plugins, effects, reverbs](#audio-plugins-effects-reverbs)
@@ -37,6 +38,10 @@
 - <https://bedroomproducersblog.com/free-vst-plugins/>
   - good list of free plug-ins
 
+### DAWs
+
+- zrythm.org/
+- 
 ### utilities
 
 - audio-router <https://github.com/audiorouterdev/audio-router>
@@ -76,8 +81,7 @@ Institute of Electronic Music and Acoustics.
 #### audio plugins, effects, reverbs
 
 - Epicverb
-  - x
-  - archived here: <https://web.archive.org/web/20120106081916/http://dl.dropbox.com/u/4063301/epicVerb_1.5.rar>
+  - x archived here: <https://web.archive.org/web/20120106081916/http://dl.dropbox.com/u/4063301/epicVerb_1.5.rar>
 - Freeverb 3
   - x <http://freeverb3vst.osdn.jp/downloads.shtml>
   - <https://osdn.net/projects/freeverb3vst/releases/p13968>
@@ -97,6 +101,8 @@ Institute of Electronic Music and Acoustics.
   - x <https://www.meldaproduction.com/MConvolutionEZ>
 - Liscverb
   - x <https://www.pluginboutique.com/product/2-Effects/17-Reverb/741-Lisc-Verb/?a_aid=5e31f3f1b63c2>
+- OriRiver
+  - x <https://www.kvraudio.com/product/orilriver-by-denis-tihanov>
 - Picoverb
   - x <http://elements.byethost3.com/plugins.html?i=1>
 - QuantumVerb
@@ -116,7 +122,22 @@ Stereo Moorer Reverb (MoorerReverbStereo)
 - TAL reverb 4
   - x <https://tal-software.com/products/tal-reverb-4>
 - Valhalla supermassive reverb
-  - x <https://valhalladsp.com/shop/reverb/>
+  - x <https://valhalladsp.com/demos-downloads/>
+- Magic7 (2024)
+  - x <https://www.wavealchemy.co.uk/product/magic7/>
+- epicplate ii
+  -  x <https://varietyofsound.wordpress.com/downloads/>
+- Cloud Seed
+  - x <https://github.com/ValdemarOrn/CloudSeed>
+- Panagement 2.0
+- Rooster RO-Gold
+  - x <https://blackroosteraudio.com/en/products/ro-gold>
+- Sanford
+  - x <https://www.lesliesanford.com/vst/plugins/>
+- DReverb
+  - x <https://stone-voices.ru/vst/dreverb?lang=en>
+- Ambiance
+  - x <http://magnus.smartelectronix.com/>
 
 ### audio plugins, synths
 
