@@ -95,12 +95,14 @@ Institute of Electronic Music and Acoustics.
   - x Convolution reverb. Linux only
   - <https://github.com/tomszilagyi/ir.lv2>
   - also <https://tomscii.sig7.se/plugins/ir.lv2/>
-- OldskoolVerb (Voxengo)
-  - x <https://www.voxengo.com/product/oldskoolverb/>
-- Melda
-  - x <https://www.meldaproduction.com/MConvolutionEZ>
 - Liscverb
   - x <https://www.pluginboutique.com/product/2-Effects/17-Reverb/741-Lisc-Verb/?a_aid=5e31f3f1b63c2>
+- Magic7 (2024)
+  - x <https://www.wavealchemy.co.uk/product/magic7/>
+- Melda
+  - x <https://www.meldaproduction.com/MConvolutionEZ>
+- OldskoolVerb (Voxengo)
+  - x <https://www.voxengo.com/product/oldskoolverb/>
 - OriRiver
   - x <https://www.kvraudio.com/product/orilriver-by-denis-tihanov>
 - Picoverb
@@ -110,21 +112,20 @@ Institute of Electronic Music and Acoustics.
 - set of delay/reverb plugins
   - <https://github.com/keithhearne/VSTPlugins>
   - The order of VSTs in the design approach is :
-Simple Mono Delay (BasicMonDelayLine)
-Stereo Delay (StereoDelayLine)
-Synced Tap Delay (SyncedTapDelayLine)
-Crossed Feedback Delay (CrossStereoDelayLine)
-Ping Pong Delay (PingPonDelayLine)
-Mono Schroeder Reverb (SchroederReverb)
-Stereo Schroeder Reverb (SchroederReverbStereo)
-Mono Moorer Reverb (MoorerReverb)
-Stereo Moorer Reverb (MoorerReverbStereo)
+    - Simple Mono Delay (BasicMonDelayLine)
+    - Stereo Delay (StereoDelayLine)
+    - Synced Tap Delay (SyncedTapDelayLine)
+    - Crossed Feedback Delay (CrossStereoDelayLine)
+    - Ping Pong Delay (PingPonDelayLine)
+    - Mono Schroeder Reverb (SchroederReverb)
+    - Stereo Schroeder Reverb (SchroederReverbStereo)
+    - Mono Moorer Reverb (MoorerReverb)
+    - Stereo Moorer Reverb (MoorerReverbStereo)
 - TAL reverb 4
   - x <https://tal-software.com/products/tal-reverb-4>
 - Valhalla supermassive reverb
   - x <https://valhalladsp.com/demos-downloads/>
-- Magic7 (2024)
-  - x <https://www.wavealchemy.co.uk/product/magic7/>
+
 - epicplate ii
   -  x <https://varietyofsound.wordpress.com/downloads/>
 - Cloud Seed
@@ -156,6 +157,15 @@ Lots of good stuff here. Best are Dexed, Helm, Ob-xd, Surge, Synth1, ZynAddSubFX
   - x <https://www.2getheraudio.com/>
 - DiscoDSP Ob-xd
   - x <https://www.discodsp.com/obxd/>
+- DX-7 clones
+  - Dexed
+    - x <https://github.com/asb2m10/dexed/>
+    - 0.9.8 Oct 2024
+  - Hexter
+    - x DX-7 clone, Linux only
+- Emusc
+  - x https://github.com/skjelten/emusc
+  - sound canvas emulator
 - Firebird 2
   - x <https://en.freedownloadmanager.org/Windows-PC/Tone2-Firebird-FREE.html>
   - presets:
@@ -171,15 +181,15 @@ Lots of good stuff here. Best are Dexed, Helm, Ob-xd, Surge, Synth1, ZynAddSubFX
     - x 1000 presets <http://www.mediafire.com/file/lz867ghh93gee9y/yee.helmbank/file>
     - x <https://darksideofsynth.com/sounds-patches>.
     - x Criz presets for Helm 2 <https://musical-artifacts.com/artifacts?formats=helm&tags=patches>
-- Hexter
-  - x DX-7 clone, Linux only
 - HY Mono
   - x archived here <https://web.archive.org/web/20210707122035/https://hy-plugins.com/wp-content/uploads/2018/05/HY-Mono_32bit.zip>
   - 64-bit: <https://web.archive.org/web/20200815070206/https://hy-plugins.com/wp-content/uploads/2018/05/HY-Mono_64bit.zip>
+- Roland JC-100 samples
+  - x https://github.com/publicsamples/Roland-JD-800
 - Juce OPL VSTi <https://github.com/bsutherland/JuceOPLVSTi/releases>
   - x FM chip synth
 - Juno 6
-  - x
+  - x https://freevstdownloads.com/juno-6/
 - Mika-micro
   - x <https://github.com/tesselode/mika-micro/releases/tag/v2.0.1>
 - Model-E (Steinberg)
@@ -187,19 +197,25 @@ Lots of good stuff here. Best are Dexed, Helm, Ob-xd, Surge, Synth1, ZynAddSubFX
 - nusofting
   - x <https://nusofting.com/>>
   - three synths are free here
+- Octasine
+  - A free and open source frequency modulation synthesizer plugin (VST2, CLAP). Runs on macOS, Windows and Linux.
+  - x https://www.octasine.com/
 - Odin
   - x stable binaries: <https://www.thewavewarden.com/odin2>
   - source: <https://github.com/TheWaveWarden/odin2>
 - Owlbass
   - <https://github.com/PentagramPro/OwlBass>
 - oxesoft/oxefmsynth
-  - x 1.3.4
-  - <https://oxesoft.wordpress.com/>
-  - <https://github.com/oxesoft/oxefmsynth>  
+  - x <https://oxesoft.wordpress.com/> and <https://github.com/oxesoft/oxefmsynth>  
+  - 1.3.4
 - Plex <https://plex.hermannseib.com/>
   - x free but not open source
-- PG-8x
+- PG-8x (2016)
   - x <https://sites.google.com/site/mlvst0>
+- RD piano emulator
+  - x https://github.com/giulioz/rdpiano
+- Redtron SE v1.5
+  - x <https://sites.google.com/site/artifakelabs/>
 - Surge
   - x <https://surge-synthesizer.github.io/> and <https://github.com/surge-synthesizer>
 - SQ8L ensoniq emulator
@@ -208,8 +224,8 @@ Lots of good stuff here. Best are Dexed, Helm, Ob-xd, Surge, Synth1, ZynAddSubFX
 - Superwave
   - x <https://www.superwavesynths.com/all-synthesizers>
 - Synister
-  - x <https://the-synister.github.io/>
-  - <https://github.com/the-synister/the-source>
+  - x <https://the-synister.github.io/> and <https://github.com/the-synister/the-source>
+  - 1.0.3
 - Synth1
   - x <https://daichilab.com/>
   - presets:
@@ -218,6 +234,8 @@ Lots of good stuff here. Best are Dexed, Helm, Ob-xd, Surge, Synth1, ZynAddSubFX
     - <http://blog.wavosaur.com/chris-bank-synth1-reup/>
 - Tunefish
   - x <https://tunefish-synth.com/download>
+- TR-909 clones
+  - DR-910: https://plugins4free.com/plugin/2376/
 - u-he Podolski
   - x
 - Vital
