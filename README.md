@@ -1,9 +1,9 @@
 - [Free and open source audio, graphics, and other tools](#free-and-open-source-audio-graphics-and-other-tools)
-  - [1. Audio-related](#1-audio-related)
+  - [1. Audio-related software and plug-ins](#1-audio-related-software-and-plug-ins)
     - [lists of audio software and plug-ins](#lists-of-audio-software-and-plug-ins)
-    - [audio Digital Audio Workstations (DAWs)](#audio-digital-audio-workstations-daws)
-    - [audio utilities](#audio-utilities)
-    - [audio plug-ins](#audio-plug-ins)
+    - [Digital Audio Workstations (DAWs)](#digital-audio-workstations-daws)
+    - [utilities](#utilities)
+    - [audio plug-ins (VST plug-ins, usually)](#audio-plug-ins-vst-plug-ins-usually)
       - [audio plug-ins, specifically reverbs](#audio-plug-ins-specifically-reverbs)
     - [audio plug-ins, specifically synths](#audio-plug-ins-specifically-synths)
     - [presets for Bitwig](#presets-for-bitwig)
@@ -28,7 +28,7 @@ This is a list of free and open source audio programs, audio plug-ins, VST plug-
 
 # Free and open source audio, graphics, and other tools
 
-## 1. Audio-related
+## 1. Audio-related software and plug-ins
 
 ### lists of audio software and plug-ins
 
@@ -40,11 +40,11 @@ This is a list of free and open source audio programs, audio plug-ins, VST plug-
 - <https://bedroomproducersblog.com/free-vst-plugins/>
   - good list of free plug-ins
 
-### audio Digital Audio Workstations (DAWs)
+### Digital Audio Workstations (DAWs)
 
 - zrythm.org/
 
-### audio utilities
+### utilities
 
 - audio-router <https://github.com/audiorouterdev/audio-router>
 - freAC audio converter https://github.com/enzo1982/freac/releases/tag/v1.1.6
@@ -59,12 +59,13 @@ This is a list of free and open source audio programs, audio plug-ins, VST plug-
 - Freemake Video Converter. Excellent freeware video converter. Simple to use.
 - SUPER video converter. Lots of options.
 
-### audio plug-ins
+### audio plug-ins (VST plug-ins, usually)
 
 These are audio plug-ins, usually VST plug-ins, for use in DAWs. Below are specific lists of reverbs and synths.
 
-- <https://bedroomproducersblog.com/2020/07/10/accentize-prefet/>
+- PreFET distortion
   - x PreFET is a Machine-Learning based transistor pre-amp emulation which was designed using the same concept as PreTube. The included artificial neural network has learnt to precisely imitate the transistor pre-amp stage of a 70s tabletop cassette recorder. Depending on the Drive-Setting PreFET can colour your sounds from subtle analogue saturation to heavy overdrive.
+    - <https://bedroomproducersblog.com/2020/07/10/accentize-prefet/>
 - Jatin Chowdhury VST effects @ <https://github.com/jatinchowdhury18/>
   - x Analog Tape Model, tape saturator
   - x BYOD, distortion
@@ -72,15 +73,20 @@ These are audio plug-ins, usually VST plug-ins, for use in DAWs. Below are speci
 - <https://plugins.iem.at/>
   - x The IEM Plug-in Suite is a free and Open-Source audio plugin suite including Ambisonic plug-ins up to 7th order created by staff and students of the
 Institute of Electronic Music and Acoustics.
-- <http://www.interruptor.ch/vst_donationware.shtml>
+- Interruptor
   - many dub VST effects, free
-- <http://calf-studio-gear.org/>
+  - x <http://www.interruptor.ch/vst_donationware.shtml> 
+- Calf Studio
+  - x <http://calf-studio-gear.org/>
   - Linux only
 - cocoa delay
   - x
 - Regrader
   - x <https://www.igorski.nl/download/regrader>
   - degrader
+- Illformed
+  - <https://illformed.org/>
+- 
   
 #### audio plug-ins, specifically reverbs
 
@@ -89,15 +95,16 @@ Institute of Electronic Music and Acoustics.
 - Freeverb 3
   - x <http://freeverb3vst.osdn.jp/downloads.shtml>
   - <https://osdn.net/projects/freeverb3vst/releases/p13968>
-- <https://plugins4free.com/plugin/3038/>
+- ?
+  - <https://plugins4free.com/plugin/3038/>
 - GCHQ
-  - x <https://hogliux.github.io/GCHQ/>
   - GCHQ is a convolution reverb which uses impulse response data from various famous landmarks found on the OpenAir project (<http://www.openairlib.net/>). Limitations. GCHQ currently does not report the correct latency when the reverb program is changed during playback. You will need to reload GCHQ or restart the audio engine for correct latency compensation everytime the reverb program is changed. The user interface looks like a design accident from the 90s... There are several potential optimizations in the impulse response code that haven't been implemented yet. Currently, the impulse responses are mono only
+    - x <https://hogliux.github.io/GCHQ/>
 - Dragonfly reverb set
   - x <https://github.com/michaelwillis/dragonfly-reverb/>
 - IR reverb
-  - x Convolution reverb. Linux only
-  - <https://github.com/tomszilagyi/ir.lv2>
+  - Convolution reverb. Linux only
+  - x <https://github.com/tomszilagyi/ir.lv2>
   - also <https://tomscii.sig7.se/plugins/ir.lv2/>
 - Liscverb
   - x <https://www.pluginboutique.com/product/2-Effects/17-Reverb/741-Lisc-Verb/?a_aid=5e31f3f1b63c2>
@@ -148,6 +155,8 @@ Institute of Electronic Music and Acoustics.
 
 Lots of good stuff here. Best are Dexed, Helm, Ob-xd, Surge, Synth1, ZynAddSubFX.
 
+https://www.fullbucket.de/music/paralogy.html
+
 - ADL plug <https://github.com/jpcima/ADLplug>
   - x FM chip synth
 - arppe2600
@@ -170,6 +179,12 @@ Lots of good stuff here. Best are Dexed, Helm, Ob-xd, Surge, Synth1, ZynAddSubFX
 - Emusc
   - x https://github.com/skjelten/emusc
   - sound canvas emulator
+- E-mu Proteus VX
+  - Proteus 2000 as software. Free
+  - https://archive.org/details/proteus-vx
+  - https://web.archive.org/web/20130317080302/http://www.creative.com/emu/proteusvx/
+- Emu/Ensonic SQ8L
+  - SQ8L: An SQ80-emulating VSTi. x http://www.buchty.net/ensoniq/#sq8l
 - Firebird 2
   - x <https://en.freedownloadmanager.org/Windows-PC/Tone2-Firebird-FREE.html>
   - presets:
@@ -238,6 +253,8 @@ Lots of good stuff here. Best are Dexed, Helm, Ob-xd, Surge, Synth1, ZynAddSubFX
     - <http://blog.wavosaur.com/chris-bank-synth1-reup/>
 - Tunefish
   - x <https://tunefish-synth.com/download>
+- TB-303 clones
+  - x A JUCE port of Open303. https://midilab.co/jc303/ or https://github.com/midilab/jc303/
 - TR-909 clones
   - DR-910: https://plugins4free.com/plugin/2376/
 - u-he Podolski
@@ -495,9 +512,13 @@ True M7 – Impulse Pack
   - remap keys
 - Everything
   - file search
+- Listary
+  - file search
 - Recoll
   - file content search
-- DocSearcher (can't recall the name)
+- DocFetcher)
   - file content search
-
-
+- AnyTXT file search
+  - file content search
+- QuickFile
+  - quickly file e-mails in Outlook
