@@ -64,14 +64,23 @@ This is a list of free and open source audio programs, audio plug-ins, VST plug-
 These are audio plug-ins, usually VST plug-ins, for use in DAWs. Below are specific lists of reverbs and synths.
 
 - Analog Obsession
-  - Poortec - compressor
-  - Tilta - tilt EQ
-  - etc.
+  - <https://analogobsession.com/>
+    - Poortec - compressor
+    - Tilta - tilt EQ
+    - etc.
+- <https://freakshowindustries.com/>
+- Socalabs
+  - <https://socalabs.com/>
+  - misc. effects and synths like Commodore 64 SID, Nintendo synth, Organ, Piano, Sega Master System, SFX8, Voc Vocal Synth and Wavetable
+  
+
+.
+
 - Audiofuse
   - has three free plug-ins
 - PreFET distortion
+  - <https://bedroomproducersblog.com/2020/07/10/accentize-prefet/>
   - x PreFET is a Machine-Learning based transistor pre-amp emulation which was designed using the same concept as PreTube. The included artificial neural network has learnt to precisely imitate the transistor pre-amp stage of a 70s tabletop cassette recorder. Depending on the Drive-Setting PreFET can colour your sounds from subtle analogue saturation to heavy overdrive.
-    - <https://bedroomproducersblog.com/2020/07/10/accentize-prefet/>
 - Jatin Chowdhury VST effects
   - <https://github.com/jatinchowdhury18/>
   - x Analog Tape Model, tape saturator
@@ -81,8 +90,9 @@ These are audio plug-ins, usually VST plug-ins, for use in DAWs. Below are speci
 Institute of Electronic Music and Acoustics.
   - <https://plugins.iem.at/>
 - Interruptor
+  - <http://www.interruptor.ch/vst_donationware.shtml> 
   - many dub VST effects, free
-  - x <http://www.interruptor.ch/vst_donationware.shtml> 
+  - x 
 - Calf Studio
   - x <http://calf-studio-gear.org/>
   - Linux only
@@ -91,9 +101,9 @@ Institute of Electronic Music and Acoustics.
 - Igorsky
   - various effects including:
   - Regrader
-    - 1.0.5
     - <https://www.igorski.nl/download/regrader>
     - degrader
+    - 1.0.5
   - VSTID 
     - chip synth
     - <https://github.com/igorski/VSTSID>
@@ -101,13 +111,13 @@ Institute of Electronic Music and Acoustics.
   - <https://illformed.org/>
 - Plasma
   - distortion effect
-  - x 1.2.1
   - <https://github.com/Dimethoxy/Plasma>
+  - x 1.2.1
 - Ohmforce Symptohm
-  - https://ohmforce.com/products/symptohm
+  - <https://ohmforce.com/products/symptohm>
   - 1.38
 - Audiotools Levelling Tool
-  - https://audiotools.se/checkout/purchase-confirmation/
+  - <https://audiotools.se/checkout/purchase-confirmation/>
 - Tokyo Dawn
   - various free effects
   - TDR Prism - modern frequency analyzer.
@@ -121,12 +131,9 @@ Institute of Electronic Music and Acoustics.
   - TDR VOS SlickEQ - mixing/mastering equalizer
     - 1.3.9
   - https://www.tokyodawn.net/  
-- Socalabs
-  - misc. effects and synths like Commodore 64 SID, Nintendo synth, Organ, Piano, Sega Master System, SFX8, Voc Vocal Synth and Wavetable
-  - https://socalabs.com/
 - VennAudio
   - misc effects
-  - https://www.vennaudio.com/free-suite/
+  - x https://www.vennaudio.com/free-suite/
 
 #### audio plug-ins, specifically reverbs
 
@@ -315,6 +322,8 @@ https://www.fullbucket.de/music/paralogy.html
     - x 14000 presets collected: <https://veryrandomstreams.blogspot.com/2012/03/over-10000-free-patchessounds-for-free.html>.  If that disappears, use <https://web.archive.org/web/20210304053901/https://veryrandomstreams.blogspot.com/2012/03/over-10000-free-patchessounds-for-free.html>.
     - <http://blog.wavosaur.com/synth1-presets-chris-bank-volume-2/>
     - <http://blog.wavosaur.com/chris-bank-synth1-reup/>
+    - x 25000 presets <https://archive.org/details/synth1_202202>
+    - other presents <https://rekkerd.org/patches/plug-in/synth1/>
 - Tunefish
   - x <https://tunefish-synth.com/download>
 - TB-303 clones
