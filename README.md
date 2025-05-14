@@ -63,35 +63,87 @@ This is a list of free and open source audio programs, audio plug-ins, VST plug-
 
 These are audio plug-ins, usually VST plug-ins, for use in DAWs. Below are specific lists of reverbs and synths.
 
+- Analog Obsession
+  - Poortec - compressor
+  - Tilta - tilt EQ
+  - etc.
+- Audiofuse
+  - has three free plug-ins
 - PreFET distortion
   - x PreFET is a Machine-Learning based transistor pre-amp emulation which was designed using the same concept as PreTube. The included artificial neural network has learnt to precisely imitate the transistor pre-amp stage of a 70s tabletop cassette recorder. Depending on the Drive-Setting PreFET can colour your sounds from subtle analogue saturation to heavy overdrive.
     - <https://bedroomproducersblog.com/2020/07/10/accentize-prefet/>
-- Jatin Chowdhury VST effects @ <https://github.com/jatinchowdhury18/>
+- Jatin Chowdhury VST effects
+  - <https://github.com/jatinchowdhury18/>
   - x Analog Tape Model, tape saturator
   - x BYOD, distortion
   - x ChowMatrix, delay
-- <https://plugins.iem.at/>
-  - x The IEM Plug-in Suite is a free and Open-Source audio plugin suite including Ambisonic plug-ins up to 7th order created by staff and students of the
+- The IEM Plug-in Suite is a free and Open-Source audio plugin suite including Ambisonic plug-ins up to 7th order created by staff and students of the
 Institute of Electronic Music and Acoustics.
+  - <https://plugins.iem.at/>
 - Interruptor
   - many dub VST effects, free
   - x <http://www.interruptor.ch/vst_donationware.shtml> 
 - Calf Studio
   - x <http://calf-studio-gear.org/>
   - Linux only
-- cocoa delay
+- Cocoa Delay
   - x
-- Regrader
-  - x <https://www.igorski.nl/download/regrader>
-  - degrader
+- Igorsky
+  - various effects including:
+  - Regrader
+    - 1.0.5
+    - <https://www.igorski.nl/download/regrader>
+    - degrader
+  - VSTID 
+    - chip synth
+    - <https://github.com/igorski/VSTSID>
 - Illformed
   - <https://illformed.org/>
-- 
-  
+- Plasma
+  - distortion effect
+  - x 1.2.1
+  - <https://github.com/Dimethoxy/Plasma>
+- Ohmforce Symptohm
+  - https://ohmforce.com/products/symptohm
+  - 1.38
+- Audiotools Levelling Tool
+  - https://audiotools.se/checkout/purchase-confirmation/
+- Tokyo Dawn
+  - various free effects
+  - TDR Prism - modern frequency analyzer.
+    - 1.0.7
+  - TDR Molotok - dynamics processor. Compressor.
+    - 1.0.6
+  - TDR Nova - parallel dynamic equalizer.
+    - 2.2.1
+  - TDR Kotelnikov - wideband synamics processor (compressor)
+    - 1.6.5
+  - TDR VOS SlickEQ - mixing/mastering equalizer
+    - 1.3.9
+  - https://www.tokyodawn.net/  
+- Socalabs
+  - misc. effects and synths like Commodore 64 SID, Nintendo synth, Organ, Piano, Sega Master System, SFX8, Voc Vocal Synth and Wavetable
+  - https://socalabs.com/
+- VennAudio
+  - misc effects
+  - https://www.vennaudio.com/free-suite/
+
 #### audio plug-ins, specifically reverbs
 
+- Ambiance
+  - x <http://magnus.smartelectronix.com/>
+- Cloud Seed
+  - x <https://github.com/ValdemarOrn/CloudSeed>
+- DReverb
+  - x <https://stone-voices.ru/vst/dreverb?lang=en>
+- Dragonfly reverb set
+  - x <https://github.com/michaelwillis/dragonfly-reverb/>
+- Epicplate ii
+  - x <https://varietyofsound.wordpress.com/downloads/>
 - Epicverb
   - x archived here: <https://web.archive.org/web/20120106081916/http://dl.dropbox.com/u/4063301/epicVerb_1.5.rar>
+- Flex Reverb
+  - https://platonestudio.com/product/flex-reverb/
 - Freeverb 3
   - x <http://freeverb3vst.osdn.jp/downloads.shtml>
   - <https://osdn.net/projects/freeverb3vst/releases/p13968>
@@ -100,8 +152,8 @@ Institute of Electronic Music and Acoustics.
 - GCHQ
   - GCHQ is a convolution reverb which uses impulse response data from various famous landmarks found on the OpenAir project (<http://www.openairlib.net/>). Limitations. GCHQ currently does not report the correct latency when the reverb program is changed during playback. You will need to reload GCHQ or restart the audio engine for correct latency compensation everytime the reverb program is changed. The user interface looks like a design accident from the 90s... There are several potential optimizations in the impulse response code that haven't been implemented yet. Currently, the impulse responses are mono only
     - x <https://hogliux.github.io/GCHQ/>
-- Dragonfly reverb set
-  - x <https://github.com/michaelwillis/dragonfly-reverb/>
+- HybridReverb
+  - Linux only
 - IR reverb
   - Convolution reverb. Linux only
   - x <https://github.com/tomszilagyi/ir.lv2>
@@ -120,7 +172,7 @@ Institute of Electronic Music and Acoustics.
   - x <http://elements.byethost3.com/plugins.html?i=1>
 - QuantumVerb
   - x <https://github.com/QVbDev/quantumVerb>
-- set of delay/reverb plugins
+- set of delay/reverb plug-ins
   - <https://github.com/keithhearne/VSTPlugins>
   - The order of VSTs in the design approach is :
     - Simple Mono Delay (BasicMonDelayLine)
@@ -136,20 +188,12 @@ Institute of Electronic Music and Acoustics.
   - x <https://tal-software.com/products/tal-reverb-4>
 - Valhalla supermassive reverb
   - x <https://valhalladsp.com/demos-downloads/>
-
-- epicplate ii
-  -  x <https://varietyofsound.wordpress.com/downloads/>
-- Cloud Seed
-  - x <https://github.com/ValdemarOrn/CloudSeed>
 - Panagement 2.0
 - Rooster RO-Gold
   - x <https://blackroosteraudio.com/en/products/ro-gold>
 - Sanford
   - x <https://www.lesliesanford.com/vst/plugins/>
-- DReverb
-  - x <https://stone-voices.ru/vst/dreverb?lang=en>
-- Ambiance
-  - x <http://magnus.smartelectronix.com/>
+
 
 ### audio plug-ins, specifically synths
 
@@ -166,6 +210,9 @@ https://www.fullbucket.de/music/paralogy.html
   - x standalone and not VST
 - Blamsoft
   - x <https://blamsoft.com/vst/vk-1-viking-synthesizer/>
+- CMBNEX
+  - x <https://github.com/KaixoCode/CMBNEX>
+  - last updated 2021
 - Cheezmachine and Tickyclav
   - x <https://www.2getheraudio.com/>
 - DiscoDSP Ob-xd
@@ -190,6 +237,9 @@ https://www.fullbucket.de/music/paralogy.html
   - presets:
   - x <https://www.dropbox.com/s/3xn9ca1w19mrzjz/LukasFirebirdPatches.zip?dl=0>
   - x <https://rekkerd.org/firebird-presets-by-bkunfu/>
+- Gamelanizer
+  - x https://github.com/lukemcraig/DAFx19-Gamelanizer
+
 - Gyooo
   - x <https://www.fullbucket.de/music/qyooo.html>
 - Helm
@@ -213,6 +263,16 @@ https://www.fullbucket.de/music/paralogy.html
   - x <https://github.com/tesselode/mika-micro/releases/tag/v2.0.1>
 - Model-E (Steinberg)
   - x free but not open source <https://www.steinberg.net/index.php?id=914&L=1>
+- Nakst synths
+  - https://nakst.gitlab.io/audio/
+  - ExtraBold uses traditional subtractive synthesis, with 3 powerful oscillators and a multi-mode filter. 
+    - 1.3.2
+  - Regency offers a novel method of synthesis, based off traditional phase distortion synthesizers.  
+    - 1.1.0
+  - Apricot - The efficient hybrid synthesizer with a massive sound.
+    - 1.1.32
+  - Fluctus is a free 3-operator FM synthesizer that's incredibly simple yet very flexible in the sounds it can produce.
+    - 1.1.12
 - nusofting
   - x <https://nusofting.com/>>
   - three synths are free here
@@ -235,6 +295,10 @@ https://www.fullbucket.de/music/paralogy.html
   - x https://github.com/giulioz/rdpiano
 - Redtron SE v1.5
   - x <https://sites.google.com/site/artifakelabs/>
+- SetBfree
+  - tone wheel organ
+  - https://x42-plugins.com/x42/setBfree
+  - 8.13-1
 - Surge
   - x <https://surge-synthesizer.github.io/> and <https://github.com/surge-synthesizer>
 - SQ8L ensoniq emulator
@@ -265,9 +329,7 @@ https://www.fullbucket.de/music/paralogy.html
   - FM based on FM2413 emulation.
   - No built DLL
   - <https://github.com/keijiro/vst2413>
-- VSTID
-  - chip synth
-  - <https://github.com/igorski/VSTSID>
+- VSTID - see above
 - Wolf-shaper
   - <https://github.com/wolf-plugins/wolf-shaper/releases>
   - x
