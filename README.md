@@ -4,8 +4,8 @@
     - [Digital Audio Workstations (DAWs)](#digital-audio-workstations-daws)
     - [utilities](#utilities)
     - [audio plug-ins (VST plug-ins, usually)](#audio-plug-ins-vst-plug-ins-usually)
-      - [audio plug-ins, specifically reverbs](#audio-plug-ins-specifically-reverbs)
-    - [audio plug-ins, specifically synths](#audio-plug-ins-specifically-synths)
+      - [(audio plug-ins) reverbs](#audio-plug-ins-reverbs)
+      - [(audio plug-ins) synths](#audio-plug-ins-synths)
     - [presets for Bitwig](#presets-for-bitwig)
     - [reverb convolution files](#reverb-convolution-files)
     - [Samples](#samples)
@@ -73,29 +73,20 @@ These are audio plug-ins, usually VST plug-ins, for use in DAWs. Below are speci
   - <https://socalabs.com/>
   - misc. effects and synths like Commodore 64 SID, Nintendo synth, Organ, Piano, Sega Master System, SFX8, Voc Vocal Synth and Wavetable
   
-
 .
 
 - Audiofuse
   - has three free plug-ins
-- PreFET distortion
-  - <https://bedroomproducersblog.com/2020/07/10/accentize-prefet/>
-  - x PreFET is a Machine-Learning based transistor pre-amp emulation which was designed using the same concept as PreTube. The included artificial neural network has learnt to precisely imitate the transistor pre-amp stage of a 70s tabletop cassette recorder. Depending on the Drive-Setting PreFET can colour your sounds from subtle analogue saturation to heavy overdrive.
-- Jatin Chowdhury VST effects
+- Audiotools Levelling Tool
+  - <https://audiotools.se/checkout/purchase-confirmation/>
+- Calf Studio
+  - x <http://calf-studio-gear.org/>
+  - Linux only
+- Chowdhury VST effects
   - <https://github.com/jatinchowdhury18/>
   - x Analog Tape Model, tape saturator
   - x BYOD, distortion
   - x ChowMatrix, delay
-- The IEM Plug-in Suite is a free and Open-Source audio plugin suite including Ambisonic plug-ins up to 7th order created by staff and students of the
-Institute of Electronic Music and Acoustics.
-  - <https://plugins.iem.at/>
-- Interruptor
-  - <http://www.interruptor.ch/vst_donationware.shtml> 
-  - many dub VST effects, free
-  - x 
-- Calf Studio
-  - x <http://calf-studio-gear.org/>
-  - Linux only
 - Cocoa Delay
   - x
 - Igorsky
@@ -107,17 +98,26 @@ Institute of Electronic Music and Acoustics.
   - VSTID 
     - chip synth
     - <https://github.com/igorski/VSTSID>
+- The IEM Plug-in Suite is a free and Open-Source audio plugin suite including Ambisonic plug-ins up to 7th order created by staff and students of the
+Institute of Electronic Music and Acoustics.
+  - <https://plugins.iem.at/>
+  - 1.15.0
 - Illformed
   - <https://illformed.org/>
+- Interruptor
+  - <http://www.interruptor.ch/vst_donationware.shtml> 
+  - many dub VST effects, free
+  - x 
+- Ohmforce Symptohm
+  - <https://ohmforce.com/products/symptohm>
+  - 1.38
 - Plasma
   - distortion effect
   - <https://github.com/Dimethoxy/Plasma>
   - x 1.2.1
-- Ohmforce Symptohm
-  - <https://ohmforce.com/products/symptohm>
-  - 1.38
-- Audiotools Levelling Tool
-  - <https://audiotools.se/checkout/purchase-confirmation/>
+- PreFET distortion
+  - <https://bedroomproducersblog.com/2020/07/10/accentize-prefet/>
+  - x PreFET is a Machine-Learning based transistor pre-amp emulation which was designed using the same concept as PreTube. The included artificial neural network has learnt to precisely imitate the transistor pre-amp stage of a 70s tabletop cassette recorder. Depending on the Drive-Setting PreFET can colour your sounds from subtle analogue saturation to heavy overdrive.
 - Tokyo Dawn
   - various free effects
   - TDR Prism - modern frequency analyzer.
@@ -131,11 +131,14 @@ Institute of Electronic Music and Acoustics.
   - TDR VOS SlickEQ - mixing/mastering equalizer
     - 1.3.9
   - https://www.tokyodawn.net/  
+- Tumult
+  - https://github.com/consint/Tumult
+  - Tumult makes noise. Tumult texturizes, accentuates and adds warmth and age. Tumult comes with 50 hand-picked noises. You can play them raw, let them follow your sounds, or duck them away. Tumult comes with an 5-band EQ that lets you shape the noises to your liking. Tumult is a free and open source 64bit VST3 effect plugin for Linux and Windows.
 - VennAudio
   - misc effects
   - x https://www.vennaudio.com/free-suite/
 
-#### audio plug-ins, specifically reverbs
+#### (audio plug-ins) reverbs
 
 - Ambiance
   - x <http://magnus.smartelectronix.com/>
@@ -145,6 +148,7 @@ Institute of Electronic Music and Acoustics.
   - x <https://stone-voices.ru/vst/dreverb?lang=en>
 - Dragonfly reverb set
   - x <https://github.com/michaelwillis/dragonfly-reverb/>
+  - 3.2.10
 - Epicplate ii
   - x <https://varietyofsound.wordpress.com/downloads/>
 - Epicverb
@@ -202,7 +206,7 @@ Institute of Electronic Music and Acoustics.
   - x <https://www.lesliesanford.com/vst/plugins/>
 
 
-### audio plug-ins, specifically synths
+#### (audio plug-ins) synths
 
 Lots of good stuff here. Best are Dexed, Helm, Ob-xd, Surge, Synth1, ZynAddSubFX.
 
@@ -217,6 +221,9 @@ https://www.fullbucket.de/music/paralogy.html
   - x standalone and not VST
 - Blamsoft
   - x <https://blamsoft.com/vst/vk-1-viking-synthesizer/>
+- Charleton
+  - <https://www.blaukraut.info/>
+  - 3.2.0
 - CMBNEX
   - x <https://github.com/KaixoCode/CMBNEX>
   - last updated 2021
@@ -302,6 +309,10 @@ https://www.fullbucket.de/music/paralogy.html
   - x https://github.com/giulioz/rdpiano
 - Redtron SE v1.5
   - x <https://sites.google.com/site/artifakelabs/>
+- RipplerX
+  - physical modelling
+  - https://github.com/tiagolr/ripplerx
+  - 1.4.3
 - SetBfree
   - tone wheel organ
   - https://x42-plugins.com/x42/setBfree
@@ -330,10 +341,18 @@ https://www.fullbucket.de/music/paralogy.html
   - x A JUCE port of Open303. https://midilab.co/jc303/ or https://github.com/midilab/jc303/
 - TR-909 clones
   - DR-910: https://plugins4free.com/plugin/2376/
-- u-he Podolski
-  - x
+- u-he
+  - Podolski
+    - x
+  - Zebralette
+    - https://u-he.com/products/zebralette/
+    - 2.9.4
+- VK-1 Viking synth
+  - <https://blamsoft.com/vst/vk-1-viking-synthesizer/> 
 - Vital
   - free but uses subscription for more
+- VS Chamber Orchestra: Community Edition
+  - https://github.com/sgossner/VSCO-2-CE/
 - VST 2413
   - FM based on FM2413 emulation.
   - No built DLL
@@ -463,7 +482,9 @@ True M7 – Impulse Pack
 - <https://soundpacks.com/free-sound-packs/>
   - .
 - <https://github.com/MckAudio/MckSamplePacks>
-- last checked 2022-06
+  - last checked 2022-06
+- artifacts site
+- patch site
 
 ### Internet Archive
 
