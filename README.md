@@ -6,6 +6,8 @@
     - [audio plug-ins (VST plug-ins, usually)](#audio-plug-ins-vst-plug-ins-usually)
       - [(audio plug-ins) reverbs](#audio-plug-ins-reverbs)
       - [(audio plug-ins) synths](#audio-plug-ins-synths)
+      - [FM synths](#fm-synths)
+      - [JP-8000 synths](#jp-8000-synths)
     - [presets for Bitwig](#presets-for-bitwig)
     - [reverb convolution files](#reverb-convolution-files)
     - [Samples](#samples)
@@ -72,9 +74,15 @@ These are audio plug-ins, usually VST plug-ins, for use in DAWs. Below are speci
 - Socalabs
   - <https://socalabs.com/>
   - misc. effects and synths like Commodore 64 SID, Nintendo synth, Organ, Piano, Sega Master System, SFX8, Voc Vocal Synth and Wavetable
-  
+https://labs.spitfireaudio.com/
+
 .
 
+- Acon
+  - https://acondigital.com- 
+  - chorus and an EQ
+  - Acon Digital Multiply is a free and versatile chorus effect with a unique twist. Each simulated voice is processed with a phase randomizing filter so that unpleasant comb filter effects are avoided. The effect can be used to simulate the effect of several performers playing the same tones simultaneously, to widen the spatial image or to create special effects for sound design. Multiply can simulate up to 6 additional voices and both the pitch and the loudness of the voices can be modulated. There is also an integrated equalizer consisting of low cut, low shelf, high shelf and high cut filters that can be applied to the effect signal. An integrated pre-delay section makes it possible to create modulated and diffuse echo effects.
+  - need to register
 - Audiofuse
   - has three free plug-ins
 - Audiotools Levelling Tool
@@ -82,6 +90,8 @@ These are audio plug-ins, usually VST plug-ins, for use in DAWs. Below are speci
 - Calf Studio
   - x <http://calf-studio-gear.org/>
   - Linux only
+- Camelcrusher
+  - https://www.audiopluginsforfree.com/camelcrusher/
 - Chowdhury VST effects
   - <https://github.com/jatinchowdhury18/>
   - x Analog Tape Model, tape saturator
@@ -108,6 +118,8 @@ Institute of Electronic Music and Acoustics.
   - <http://www.interruptor.ch/vst_donationware.shtml> 
   - many dub VST effects, free
   - x 
+- Obliterate
+  - https://www.newfangledaudio.com/obliterate
 - Ohmforce Symptohm
   - <https://ohmforce.com/products/symptohm>
   - 1.38
@@ -204,7 +216,8 @@ Institute of Electronic Music and Acoustics.
   - x <https://blackroosteraudio.com/en/products/ro-gold>
 - Sanford
   - x <https://www.lesliesanford.com/vst/plugins/>
-
+- Sonicbits Sphere
+  - https://www.sonicbits.com/plugins/sphere
 
 #### (audio plug-ins) synths
 
@@ -216,7 +229,6 @@ https://www.fullbucket.de/music/paralogy.html
   - x FM chip synth
 - arppe2600
   - x <http://glenstegner.com/softsynths.html>
-  - x Minimogue: <https://www.audiopluginsforfree.com/minimogueva/>
 - Bespoke
   - x standalone and not VST
 - Blamsoft
@@ -231,12 +243,6 @@ https://www.fullbucket.de/music/paralogy.html
   - x <https://www.2getheraudio.com/>
 - DiscoDSP Ob-xd
   - x <https://www.discodsp.com/obxd/>
-- DX-7 clones
-  - Dexed
-    - x <https://github.com/asb2m10/dexed/>
-    - 0.9.8 Oct 2024
-  - Hexter
-    - x DX-7 clone, Linux only
 - Emusc
   - x https://github.com/skjelten/emusc
   - sound canvas emulator
@@ -277,6 +283,10 @@ https://www.fullbucket.de/music/paralogy.html
   - x <https://github.com/tesselode/mika-micro/releases/tag/v2.0.1>
 - Model-E (Steinberg)
   - x free but not open source <https://www.steinberg.net/index.php?id=914&L=1>
+  Minimogue
+    <https://www.audiopluginsforfree.com/minimogueva/>
+- MT Power drum kit
+  - https://www.powerdrumkit.com/
 - Nakst synths
   - https://nakst.gitlab.io/audio/
   - ExtraBold uses traditional subtractive synthesis, with 3 powerful oscillators and a multi-mode filter. 
@@ -290,9 +300,6 @@ https://www.fullbucket.de/music/paralogy.html
 - nusofting
   - x <https://nusofting.com/>>
   - three synths are free here
-- Octasine
-  - A free and open source frequency modulation synthesizer plugin (VST2, CLAP). Runs on macOS, Windows and Linux.
-  - x https://www.octasine.com/
 - Odin
   - x stable binaries: <https://www.thewavewarden.com/odin2>
   - source: <https://github.com/TheWaveWarden/odin2>
@@ -365,6 +372,39 @@ https://www.fullbucket.de/music/paralogy.html
   - x <https://zynaddsubfx.sourceforge.io/>  
   - source: <https://github.com/zynaddsubfx/>
   - free binaries: <https://www.kvraudio.com/forum/viewtopic.php?f=47&t=268277>
+
+#### FM synths
+
+- DX-7 recreations
+  - Dexed
+    - x <https://github.com/asb2m10/dexed/>
+    - 0.9.8 Oct 2024
+  - Hexter
+    - x DX-7 clone, Linux only
+- Octasine
+  - A free and open source frequency modulation synthesizer plugin (VST2, CLAP). Runs on macOS, Windows and Linux.
+  - x https://www.octasine.com/
+  - 0.9.1
+- TX81Z recreations
+  - Sonicbits Exact Lite (free)
+    - <https://www.sonicbits.com/plugins/exakt-lite>
+    - 2.3.0
+  - Six-sines (open source)
+    - on github
+
+#### JP-8000 synths
+
+- TranceDrive
+  - https://archive.org/details/trancedrive
+- GWave
+- SuperWave P8
+- Super 7
+- https://web.archive.org/web/20120823024901/http://www5c.biglobe.ne.jp/%7Ebuzzroom/files/buzzroomoldvst.zip
+- Pterosaur
+  - https://www.contralogic.com/vst-plugins/pterosaur/
+- T-Force Zenith
+  - <https://mastrcode-music.de/en/vst-plugins/t-force-zenith/> 
+  - also has another synth and some effects
 
 ### presets for Bitwig
 
