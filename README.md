@@ -6,8 +6,10 @@
     - [audio plug-ins (VST plug-ins, usually)](#audio-plug-ins-vst-plug-ins-usually)
       - [(audio plug-ins) reverbs](#audio-plug-ins-reverbs)
       - [(audio plug-ins) synths](#audio-plug-ins-synths)
+      - [TB-303](#tb-303)
       - [FM synths](#fm-synths)
       - [JP-8000 synths](#jp-8000-synths)
+      - [Nord](#nord)
     - [presets for Bitwig](#presets-for-bitwig)
     - [reverb convolution files](#reverb-convolution-files)
     - [Samples](#samples)
@@ -61,6 +63,7 @@ This is a list of free and open source audio programs, audio plug-ins, VST plug-
 - Freemake Video Converter. Excellent freeware video converter. Simple to use.
 - SUPER video converter. Lots of options.
 
+
 ### audio plug-ins (VST plug-ins, usually)
 
 These are audio plug-ins, usually VST plug-ins, for use in DAWs. Below are specific lists of reverbs and synths.
@@ -75,7 +78,7 @@ These are audio plug-ins, usually VST plug-ins, for use in DAWs. Below are speci
   - <https://socalabs.com/>
   - misc. effects and synths like Commodore 64 SID, Nintendo synth, Organ, Piano, Sega Master System, SFX8, Voc Vocal Synth and Wavetable
 https://labs.spitfireaudio.com/
-
+- https://github.com/ZL-Audio
 .
 
 - Acon
@@ -99,6 +102,8 @@ https://labs.spitfireaudio.com/
   - x ChowMatrix, delay
 - Cocoa Delay
   - x
+- Deelay
+  - https://sixthsample.com/deelay/
 - Igorsky
   - various effects including:
   - Regrader
@@ -334,14 +339,6 @@ https://www.fullbucket.de/music/paralogy.html
 - Synister
   - x <https://the-synister.github.io/> and <https://github.com/the-synister/the-source>
   - 1.0.3
-- Synth1
-  - x <https://daichilab.com/>
-  - presets:
-    - x 14000 presets collected: <https://veryrandomstreams.blogspot.com/2012/03/over-10000-free-patchessounds-for-free.html>.  If that disappears, use <https://web.archive.org/web/20210304053901/https://veryrandomstreams.blogspot.com/2012/03/over-10000-free-patchessounds-for-free.html>.
-    - <http://blog.wavosaur.com/synth1-presets-chris-bank-volume-2/>
-    - <http://blog.wavosaur.com/chris-bank-synth1-reup/>
-    - x 25000 presets <https://archive.org/details/synth1_202202>
-    - other presents <https://rekkerd.org/patches/plug-in/synth1/>
 - Tunefish
   - x <https://tunefish-synth.com/download>
 - TB-303 clones
@@ -373,8 +370,16 @@ https://www.fullbucket.de/music/paralogy.html
   - source: <https://github.com/zynaddsubfx/>
   - free binaries: <https://www.kvraudio.com/forum/viewtopic.php?f=47&t=268277>
 
+
+#### TB-303
+
+https://github.com/midilab/jc303
+
+
 #### FM synths
 
+- ADLplug
+  - https://github.com/jpcima/ADLplug
 - DX-7 recreations
   - Dexed
     - x <https://github.com/asb2m10/dexed/>
@@ -405,6 +410,21 @@ https://www.fullbucket.de/music/paralogy.html
 - T-Force Zenith
   - <https://mastrcode-music.de/en/vst-plugins/t-force-zenith/> 
   - also has another synth and some effects
+
+#### Nord
+
+- Nodal Red 2x
+  - https://www.audiopluginsforfree.com/nodal-red-2x/
+  - v1.4.4
+- Synth1
+  - x <https://daichilab.com/>
+  - presets:
+    - x 14000 presets collected: <https://veryrandomstreams.blogspot.com/2012/03/over-10000-free-patchessounds-for-free.html>.  If that disappears, use <https://web.archive.org/web/20210304053901/https://veryrandomstreams.blogspot.com/2012/03/over-10000-free-patchessounds-for-free.html>.
+    - <http://blog.wavosaur.com/synth1-presets-chris-bank-volume-2/>
+    - <http://blog.wavosaur.com/chris-bank-synth1-reup/>
+    - x 25000 presets <https://archive.org/details/synth1_202202>
+    - other presents <https://rekkerd.org/patches/plug-in/synth1/>
+
 
 ### presets for Bitwig
 
