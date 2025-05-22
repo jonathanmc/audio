@@ -3,13 +3,17 @@
     - [lists of audio software and plug-ins](#lists-of-audio-software-and-plug-ins)
     - [Digital Audio Workstations (DAWs)](#digital-audio-workstations-daws)
     - [utilities](#utilities)
-    - [audio plug-ins (VST plug-ins, usually)](#audio-plug-ins-vst-plug-ins-usually)
-      - [(audio plug-ins) reverbs](#audio-plug-ins-reverbs)
-      - [(audio plug-ins) synths](#audio-plug-ins-synths)
-      - [TB-303](#tb-303)
-      - [FM synths](#fm-synths)
-      - [JP-8000 synths](#jp-8000-synths)
-      - [Nord](#nord)
+    - [audio plug-ins (VST, CLAP, etc.)](#audio-plug-ins-vst-clap-etc)
+      - [effects](#effects)
+        - [amps and distortion](#amps-and-distortion)
+        - [chorus](#chorus)
+        - [delays](#delays)
+        - [reverbs](#reverbs)
+      - [instruments](#instruments)
+        - [FM synths](#fm-synths)
+        - [Roland JP-8000 synths](#roland-jp-8000-synths)
+        - [Roland TB-303](#roland-tb-303)
+        - [Nord](#nord)
     - [presets for Bitwig](#presets-for-bitwig)
     - [reverb convolution files](#reverb-convolution-files)
     - [Samples](#samples)
@@ -64,7 +68,9 @@ This is a list of free and open source audio programs, audio plug-ins, VST plug-
 - SUPER video converter. Lots of options.
 
 
-### audio plug-ins (VST plug-ins, usually)
+### audio plug-ins (VST, CLAP, etc.)
+
+#### effects
 
 These are audio plug-ins, usually VST plug-ins, for use in DAWs. Below are specific lists of reverbs and synths.
 
@@ -73,19 +79,21 @@ These are audio plug-ins, usually VST plug-ins, for use in DAWs. Below are speci
     - Poortec - compressor
     - Tilta - tilt EQ
     - etc.
-- <https://freakshowindustries.com/>
+- Baby freebies
+  - https://babyaud.io/freebies
+- Freakshow
+  - <https://freakshowindustries.com/>
+  - not free or open source
 - Socalabs
   - <https://socalabs.com/>
   - misc. effects and synths like Commodore 64 SID, Nintendo synth, Organ, Piano, Sega Master System, SFX8, Voc Vocal Synth and Wavetable
 https://labs.spitfireaudio.com/
 - https://github.com/ZL-Audio
-.
+https://voxsamples.com/collections/free-audio-plugins
+- Tone Shop
+  - https://chaosaudio.com/pages/tone-shop-plugin-installer
+  - needs a desktop app to be installed
 
-- Acon
-  - https://acondigital.com- 
-  - chorus and an EQ
-  - Acon Digital Multiply is a free and versatile chorus effect with a unique twist. Each simulated voice is processed with a phase randomizing filter so that unpleasant comb filter effects are avoided. The effect can be used to simulate the effect of several performers playing the same tones simultaneously, to widen the spatial image or to create special effects for sound design. Multiply can simulate up to 6 additional voices and both the pitch and the loudness of the voices can be modulated. There is also an integrated equalizer consisting of low cut, low shelf, high shelf and high cut filters that can be applied to the effect signal. An integrated pre-delay section makes it possible to create modulated and diffuse echo effects.
-  - need to register
 - Audiofuse
   - has three free plug-ins
 - Audiotools Levelling Tool
@@ -100,10 +108,9 @@ https://labs.spitfireaudio.com/
   - x Analog Tape Model, tape saturator
   - x BYOD, distortion
   - x ChowMatrix, delay
-- Cocoa Delay
-  - x
-- Deelay
-  - https://sixthsample.com/deelay/
+- Cymatics
+  - Origin
+    - lo-fi plug-in
 - Igorsky
   - various effects including:
   - Regrader
@@ -119,22 +126,31 @@ Institute of Electronic Music and Acoustics.
   - 1.15.0
 - Illformed
   - <https://illformed.org/>
-- Interruptor
-  - <http://www.interruptor.ch/vst_donationware.shtml> 
-  - many dub VST effects, free
-  - x 
 - Obliterate
   - https://www.newfangledaudio.com/obliterate
 - Ohmforce Symptohm
   - <https://ohmforce.com/products/symptohm>
   - 1.38
-- Plasma
-  - distortion effect
-  - <https://github.com/Dimethoxy/Plasma>
-  - x 1.2.1
-- PreFET distortion
-  - <https://bedroomproducersblog.com/2020/07/10/accentize-prefet/>
-  - x PreFET is a Machine-Learning based transistor pre-amp emulation which was designed using the same concept as PreTube. The included artificial neural network has learnt to precisely imitate the transistor pre-amp stage of a 70s tabletop cassette recorder. Depending on the Drive-Setting PreFET can colour your sounds from subtle analogue saturation to heavy overdrive.
+- Outobugi
+  - various plugins
+  - https://outobugi.com/#projects
+  - - Audiothing
+  - Moon Echo
+    - https://www.audiothing.net/effects/moon-echo/
+    - have to sign upl for newsletter
+  - Filter Jam
+  - Blindfold EQ - EQ with no numbers on it
+  - free after signing up for a newsletter
+- Platone
+  - Delay Eleven
+  - Flex Reverb
+  - https://platonestudio.com/product/flex-reverb/
+- Sinuslabs
+  - https://github.com/Sinuslabs
+  - https://sinuslabs.io/products/
+  - Bandbreite
+  - Reach reverb
+  - KO distortion
 - Tokyo Dawn
   - various free effects
   - TDR Prism - modern frequency analyzer.
@@ -148,14 +164,68 @@ Institute of Electronic Music and Acoustics.
   - TDR VOS SlickEQ - mixing/mastering equalizer
     - 1.3.9
   - https://www.tokyodawn.net/  
-- Tumult
-  - https://github.com/consint/Tumult
-  - Tumult makes noise. Tumult texturizes, accentuates and adds warmth and age. Tumult comes with 50 hand-picked noises. You can play them raw, let them follow your sounds, or duck them away. Tumult comes with an 5-band EQ that lets you shape the noises to your liking. Tumult is a free and open source 64bit VST3 effect plugin for Linux and Windows.
+- UJam Finisher
+  - https://www.ujam.com/finisher/micro/
+  - needs a desktop app to be installed
+- Valhalla Space Modulator
+  - flanger
+  - https://valhalladsp.com/shop/modulation/valhalla-space-modulator/
+  - 1.0.6
 - VennAudio
   - misc effects
   - x https://www.vennaudio.com/free-suite/
+- vztec Malibu tremolo
+  - https://en.vztecfx.com/malibu-plugin
+  - 0.1.0 beta
 
-#### (audio plug-ins) reverbs
+##### amps and distortion
+
+https://fx.amee.ee/plugin/destruqtor/
+https://github.com/blepfx/dist/
+
+- BPB Dirty VHS
+- FreeAmp
+  - https://klevgrand.com/products/freeamp
+  - 1.0.6
+- Plasma
+  - distortion effect
+  - <https://github.com/Dimethoxy/Plasma>
+  - x 1.2.1
+- PreFET distortion
+  - <https://bedroomproducersblog.com/2020/07/10/accentize-prefet/>
+  - x PreFET is a Machine-Learning based transistor pre-amp emulation which was designed using the same concept as PreTube. The included artificial neural network has learnt to precisely imitate the transistor pre-amp stage of a 70s tabletop cassette recorder. Depending on the Drive-Setting PreFET can colour your sounds from subtle analogue saturation to heavy overdrive.
+  - Tumult
+  - https://github.com/consint/Tumult
+  - Tumult makes noise. Tumult texturizes, accentuates and adds warmth and age. Tumult comes with 50 hand-picked noises. You can play them raw, let them follow your sounds, or duck them away. Tumult comes with an 5-band EQ that lets you shape the noises to your liking. Tumult is a free and open source 64bit VST3 effect plugin for Linux and Windows.
+- InstaVibe
+  - https://lindaaudio.blogspot.com/2023/06/instavibe.html
+
+##### chorus
+
+- Acon
+  - https://acondigital.com- 
+  - chorus and an EQ
+  - Acon Digital Multiply is a free and versatile chorus effect with a unique twist. Each simulated voice is processed with a phase randomizing filter so that unpleasant comb filter effects are avoided. The effect can be used to simulate the effect of several performers playing the same tones simultaneously, to widen the spatial image or to create special effects for sound design. Multiply can simulate up to 6 additional voices and both the pitch and the loudness of the voices can be modulated. There is also an integrated equalizer consisting of low cut, low shelf, high shelf and high cut filters that can be applied to the effect signal. An integrated pre-delay section makes it possible to create modulated and diffuse echo effects.
+  - need to register
+- Cesium
+  - chorus
+  - <https://greenoak.com/effects/index.php/2023/03/07/new-cesium/>
+- Memory
+  - chorus
+  - https://cymatics.fm/collections/plugins/products/memory-plugin
+
+##### delays
+
+- Cocoa Delay
+  - x
+- Deelay
+  - https://sixthsample.com/deelay/
+- Interruptor
+  - <http://www.interruptor.ch/vst_donationware.shtml> 
+  - many dub VST effects, free
+  - x 
+
+##### reverbs
 
 - Ambiance
   - x <http://magnus.smartelectronix.com/>
@@ -170,8 +240,6 @@ Institute of Electronic Music and Acoustics.
   - x <https://varietyofsound.wordpress.com/downloads/>
 - Epicverb
   - x archived here: <https://web.archive.org/web/20120106081916/http://dl.dropbox.com/u/4063301/epicVerb_1.5.rar>
-- Flex Reverb
-  - https://platonestudio.com/product/flex-reverb/
 - Freeverb 3
   - x <http://freeverb3vst.osdn.jp/downloads.shtml>
   - <https://osdn.net/projects/freeverb3vst/releases/p13968>
@@ -214,6 +282,9 @@ Institute of Electronic Music and Acoustics.
     - Stereo Moorer Reverb (MoorerReverbStereo)
 - TAL reverb 4
   - x <https://tal-software.com/products/tal-reverb-4>
+- Tens Jr.
+  - TENS jr. is the little brother of the studio spring reverb TENS.
+  - https://klanghelm.com/contents/products/TENSjr
 - Valhalla supermassive reverb
   - x <https://valhalladsp.com/demos-downloads/>
 - Panagement 2.0
@@ -224,7 +295,9 @@ Institute of Electronic Music and Acoustics.
 - Sonicbits Sphere
   - https://www.sonicbits.com/plugins/sphere
 
-#### (audio plug-ins) synths
+#### instruments
+
+VST, CLAP, etc.
 
 Lots of good stuff here. Best are Dexed, Helm, Ob-xd, Surge, Synth1, ZynAddSubFX.
 
@@ -257,6 +330,10 @@ https://www.fullbucket.de/music/paralogy.html
   - https://web.archive.org/web/20130317080302/http://www.creative.com/emu/proteusvx/
 - Emu/Ensonic SQ8L
   - SQ8L: An SQ80-emulating VSTi. x http://www.buchty.net/ensoniq/#sq8l
+- Fire the Gold
+  - amp
+  - https://www.acustica-audio.com/shop/products/FIRETHEGOLD
+  - needs a desktop app to be installed
 - Firebird 2
   - x <https://en.freedownloadmanager.org/Windows-PC/Tone2-Firebird-FREE.html>
   - presets:
@@ -264,7 +341,6 @@ https://www.fullbucket.de/music/paralogy.html
   - x <https://rekkerd.org/firebird-presets-by-bkunfu/>
 - Gamelanizer
   - x https://github.com/lukemcraig/DAFx19-Gamelanizer
-
 - Gyooo
   - x <https://www.fullbucket.de/music/qyooo.html>
 - Helm
@@ -284,6 +360,9 @@ https://www.fullbucket.de/music/paralogy.html
   - x FM chip synth
 - Juno 6
   - x https://freevstdownloads.com/juno-6/
+- MG-1 
+  - https://cherryaudio.com/products/surrealistic-mg-1-plus#pricing
+  - needs a desktop app to be installed
 - Mika-micro
   - x <https://github.com/tesselode/mika-micro/releases/tag/v2.0.1>
 - Model-E (Steinberg)
@@ -370,13 +449,7 @@ https://www.fullbucket.de/music/paralogy.html
   - source: <https://github.com/zynaddsubfx/>
   - free binaries: <https://www.kvraudio.com/forum/viewtopic.php?f=47&t=268277>
 
-
-#### TB-303
-
-https://github.com/midilab/jc303
-
-
-#### FM synths
+##### FM synths
 
 - ADLplug
   - https://github.com/jpcima/ADLplug
@@ -397,7 +470,7 @@ https://github.com/midilab/jc303
   - Six-sines (open source)
     - on github
 
-#### JP-8000 synths
+##### Roland JP-8000 synths
 
 - TranceDrive
   - https://archive.org/details/trancedrive
@@ -411,7 +484,11 @@ https://github.com/midilab/jc303
   - <https://mastrcode-music.de/en/vst-plugins/t-force-zenith/> 
   - also has another synth and some effects
 
-#### Nord
+##### Roland TB-303
+
+https://github.com/midilab/jc303
+
+##### Nord
 
 - Nodal Red 2x
   - https://www.audiopluginsforfree.com/nodal-red-2x/
