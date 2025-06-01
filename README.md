@@ -14,9 +14,14 @@
         - [Roland JP-8000 synths](#roland-jp-8000-synths)
         - [Roland TB-303](#roland-tb-303)
         - [Nord](#nord)
+      - [samplers - see below](#samplers---see-below)
     - [presets for Bitwig](#presets-for-bitwig)
     - [reverb convolution files](#reverb-convolution-files)
-    - [Samples](#samples)
+    - [Samplers and samples](#samplers-and-samples)
+      - [samplers](#samplers)
+      - [Lists of samples](#lists-of-samples)
+      - [Sample sites](#sample-sites)
+      - [Samples of particular synths](#samples-of-particular-synths)
     - [Internet Archive](#internet-archive)
   - [2. Graphics](#2-graphics)
     - [RawTherapee stuff](#rawtherapee-stuff)
@@ -47,24 +52,39 @@ This is a list of free and open source audio programs, audio plug-ins, VST plug-
 - <https://awesomeopensource.com/projects/synthesizer>
 - <https://bedroomproducersblog.com/free-vst-plugins/>
   - good list of free plug-ins
-
+- lists of sample sites are below.
+- 
 ### Digital Audio Workstations (DAWs)
 
 - zrythm.org/
+- https://github.com/stargatedaw/stargate
 
 ### utilities
 
-- audio-router <https://github.com/audiorouterdev/audio-router>
-- freAC audio converter https://github.com/enzo1982/freac/releases/tag/v1.1.6
+- audio-router
+  - <https://github.com/audiorouterdev/audio-router>
+- freAC audio converter
+  - https://github.com/enzo1982/freac/releases/tag/v1.1.6
 - Tencoder
-- IMGburn @ http://www.imgburn.com/.  Freeware CD/DVD burning utility.
-- WinCDEmu.  Mounting utility for ISO images. Open source.
-- Winamp @ http://www.winamp.com/.  Free audio player
-- Foobar2000 @ https://www.foobar2000.org/
+- IMGburn
+  - http://www.imgburn.com/
+  - Freeware CD/DVD burning utility.
+- WinCDEmu.
+  - Mounting utility for ISO images. Open source.
+- Winamp
+  - http://www.winamp.com/
+  - Free audio player
+- Foobar2000
+  - https://www.foobar2000.org/
   - To cast, use BubbleUPNP server (a paid program) plus the Foobar2000 UPNP renderer plug-in 0.99 (requires 32-bit Foobar2000).
-- VLC Player @ http://www.videolan.org/vlc/.  Free media player.
-- Handbrake @ http://handbrake.fr. Excellent open source video converted.
-- Freemake Video Converter. Excellent freeware video converter. Simple to use.
+- VLC Player
+  - http://www.videolan.org/vlc/
+  - Free media player.
+- Handbrake
+  - http://handbrake.fr
+  - Excellent open source video converted.
+- Freemake Video Converter.
+  - Excellent freeware video converter. Simple to use.
 - SUPER video converter. Lots of options.
 
 
@@ -87,12 +107,17 @@ These are audio plug-ins, usually VST plug-ins, for use in DAWs. Below are speci
 - Socalabs
   - <https://socalabs.com/>
   - misc. effects and synths like Commodore 64 SID, Nintendo synth, Organ, Piano, Sega Master System, SFX8, Voc Vocal Synth and Wavetable
-https://labs.spitfireaudio.com/
-- https://github.com/ZL-Audio
-https://voxsamples.com/collections/free-audio-plugins
+- Spitfire Audio
+  - https://labs.spitfireaudio.com/
 - Tone Shop
   - https://chaosaudio.com/pages/tone-shop-plugin-installer
   - needs a desktop app to be installed
+- Vox Samples
+  - https://voxsamples.com/collections/free-audio-plugins
+- ZL-Audio
+  - https://github.com/ZL-Audio
+
+...
 
 - Audiofuse
   - has three free plug-ins
@@ -297,6 +322,7 @@ https://github.com/blepfx/dist/
 
 #### instruments
 
+
 VST, CLAP, etc.
 
 Lots of good stuff here. Best are Dexed, Helm, Ob-xd, Surge, Synth1, ZynAddSubFX.
@@ -354,8 +380,9 @@ https://www.fullbucket.de/music/paralogy.html
 - HY Mono
   - x archived here <https://web.archive.org/web/20210707122035/https://hy-plugins.com/wp-content/uploads/2018/05/HY-Mono_32bit.zip>
   - 64-bit: <https://web.archive.org/web/20200815070206/https://hy-plugins.com/wp-content/uploads/2018/05/HY-Mono_64bit.zip>
-- Roland JC-100 samples
-  - x https://github.com/publicsamples/Roland-JD-800
+- Hydrogen drum machine
+  - The advanced drum machine for Linux, macOS, and Windows 
+  - 1.2.4 <https://github.com/hydrogen-music/hydrogen>
 - Juce OPL VSTi <https://github.com/bsutherland/JuceOPLVSTi/releases>
   - x FM chip synth
 - Juno 6
@@ -502,6 +529,7 @@ https://github.com/midilab/jc303
     - x 25000 presets <https://archive.org/details/synth1_202202>
     - other presents <https://rekkerd.org/patches/plug-in/synth1/>
 
+#### samplers - see below
 
 ### presets for Bitwig
 
@@ -605,7 +633,19 @@ True M7 – Impulse Pack
 - <https://henryolonga.onfastspring.com/dre-triple-seven-impulse-responses>
   - pay
 
-### Samples
+### Samplers and samples
+
+#### samplers
+
+https://github.com/monocasual/giada
+https://github.com/psemiletov/drumlabooh
+
+#### Lists of samples
+
+https://sfzinstruments.github.io/
+https://hilbricht.net/foss-sampled-instruments.html
+
+#### Sample sites
 
 - <https://www.conservethesound.de/category/sound>
   - various samples of items
@@ -622,6 +662,23 @@ True M7 – Impulse Pack
   - last checked 2022-06
 - artifacts site
 - patch site
+
+#### Samples of particular synths
+
+- https://github.com/gregharvey/drum-samples
+  - GSCW drum samples from the 90s
+  - 2025-06
+- https://github.com/sourc3array/genAudio_808TK_SFZ/
+  - TR-808 in SFZ format
+  - 2025-06
+- x https://github.com/publicsamples/Roland-JD-800
+  - Roland JC-100 samples
+  - 2025-06
+- https://github.com/sunhypnotic/858-drum-synth
+  - Creating samples for a drum machine created via Neural Net. Encoding samples of the Roland 808 and 909 drum machines and interpolate them together to create a combined representation of their timbres, tonality, change over time, and resulting audio signal.
+  - 2025-06
+https://github.com/sourc3array/808TK?tab=readme-ov-file
+
 
 ### Internet Archive
 
