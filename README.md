@@ -20,8 +20,8 @@
     - [reverb convolution files](#reverb-convolution-files)
     - [Samplers and samples](#samplers-and-samples)
       - [samplers](#samplers)
-      - [Lists of samples](#lists-of-samples)
-      - [Sample sites](#sample-sites)
+      - [Lists of sample collections](#lists-of-sample-collections)
+      - [Sites offering samples for download](#sites-offering-samples-for-download)
       - [Samples](#samples)
         - [drum machines](#drum-machines-1)
         - [orchestra](#orchestra)
@@ -642,24 +642,25 @@ True M7 – Impulse Pack
 https://github.com/monocasual/giada
 https://github.com/psemiletov/drumlabooh
 
-#### Lists of samples
+#### Lists of sample collections
 
 - SFZ Instruments
   - https://sfzinstruments.github.io/
 - Open source sampled instruments
   - https://hilbricht.net/foss-sampled-instruments.html
 
-#### Sample sites
+#### Sites offering samples for download
 
 - <https://www.conservethesound.de/category/sound>
   - various samples of items
 - <https://www.freesounds.info/>
 - <https://freepats.zenvoid.org/>
-- <https://freesound.org/>
-- <https://github.com/TheSmallTeaBoi/the-libre-sample-pack>
-  - free
-- <https://philharmonia.co.uk/resources/sound-samples/>
-  - x orchestral sounds
+- Freesound
+  - <https://freesound.org/>
+- The Libre Sample Pack
+  - <https://github.com/TheSmallTeaBoi/the-libre-sample-pack>
+  - open source
+  - 2025-05
 - <https://soundpacks.com/free-sound-packs/>
   - .
 - <https://github.com/MckAudio/MckSamplePacks>
@@ -669,26 +670,26 @@ https://github.com/psemiletov/drumlabooh
 
 #### Samples
 
-- https://github.com/gregharvey/drum-samples
-  - GSCW drum samples from the 90s
-  - 2025-06
 - x https://github.com/publicsamples/Roland-JD-800
   - Roland JC-100 samples
   - 2025-06
-- https://github.com/sunhypnotic/858-drum-synth
-  - Creating samples for a drum machine created via Neural Net. Encoding samples of the Roland 808 and 909 drum machines and interpolate them together to create a combined representation of their timbres, tonality, change over time, and resulting audio signal.
-  - 2025-06
-https://github.com/sourc3array/808TK?tab=readme-ov-file
+
+
 
 ##### drum machines
 
 - TR-606 (1980)
 - TR-808 (1980 to 1982)
   - https://www.synthmania.com/tr-808.htm
-- https://github.com/sourc3array/genAudio_808TK_SFZ/
-  - TR-808 in SFZ format
-  - 2025-06
+- TR-808 in SFZ format
+  - https://github.com/sourc3array/genAudio_808TK_SFZ/
+- TR-808
+  - https://github.com/sourc3array/808TK?tab=readme-ov-file
+  - virtual instrument for Decent Sampler that uses the 808 Tape sample library
 - TR-909 (1983)
+  - https://j5music.com/products/roland-909-kit
+  - www.drumkito.com/sample-packs/roland-tr-909-sample-pack/
+  - https://soundpacks.com/free-sound-packs/maunster-tr-909-drum-samples/
 - TR-707 (1984)
 - TR-727 (1985)
   - https://keplero.com/synthesizers/roland-tr-727-samples/
@@ -696,9 +697,16 @@ https://github.com/sourc3array/808TK?tab=readme-ov-file
 - TR-505 (1986)
   - samples from 707 and 727
 - TR-626 (1987)
-
+- https://github.com/gregharvey/drum-samples
+  - GSCW drum samples from the 90s
+  - 2025-06
+- https://github.com/sunhypnotic/858-drum-synth
+  - Creating samples for a drum machine created via Neural Net. Encoding samples of the Roland 808 and 909 drum machines and interpolate them together to create a combined representation of their timbres, tonality, change over time, and resulting audio signal.
+  - 2025-06
 ##### orchestra
 
+- <https://philharmonia.co.uk/resources/sound-samples/>
+  - x orchestral sounds
 - Versilian Studios Chamber Orchestra 2.0
   - free
   - https://versilian-studios.com/vsco-community/
@@ -707,8 +715,7 @@ https://github.com/sourc3array/808TK?tab=readme-ov-file
   - https://github.com/sgossner/VCSL
   - free
   - Your one-stop-sound-shop for samples, the Versilian Community Sample Library project contains dozens of orchestral, world, and experimental instruments professionally recorded and edited. For composers, a set of SFZ format patches are provided to allow use in any DAW in combination with Plogue Sforzando player. Please download Sforzando and watch the video tutorial for instructions on how to use SFZ files.
-
-This collection is under a Creative Commons 0 (zero) license. Essentially it’s Public Domain- you can do whatever you want with these sounds (even make commercial software), no royalties, no credit, no special terms. This includes integrating it in projects such as generative music, DAWs, granular synthesizers, and samplers.
+  - This collection is under a Creative Commons 0 (zero) license. Essentially it’s Public Domain- you can do whatever you want with these sounds (even make commercial software), no royalties, no credit, no special terms. This includes integrating it in projects such as generative music, DAWs, granular synthesizers, and samplers.
 
 ### Internet Archive
 
