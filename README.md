@@ -10,6 +10,7 @@
         - [delays](#delays)
         - [reverbs](#reverbs)
       - [instruments](#instruments)
+        - [Drum machines](#drum-machines)
         - [FM synths](#fm-synths)
         - [Roland JP-8000 synths](#roland-jp-8000-synths)
         - [Roland TB-303](#roland-tb-303)
@@ -21,7 +22,7 @@
       - [samplers](#samplers)
       - [Lists of samples](#lists-of-samples)
       - [Sample sites](#sample-sites)
-      - [Samples of particular synths](#samples-of-particular-synths)
+      - [Samples](#samples)
     - [Internet Archive](#internet-archive)
   - [2. Graphics](#2-graphics)
     - [RawTherapee stuff](#rawtherapee-stuff)
@@ -205,25 +206,27 @@ Institute of Electronic Music and Acoustics.
 
 ##### amps and distortion
 
-https://fx.amee.ee/plugin/destruqtor/
-https://github.com/blepfx/dist/
-
+- BlepFX distortion
+  - https://github.com/blepfx/dist/
 - BPB Dirty VHS
+- Destruqtor
+  - https://fx.amee.ee/plugin/destruqtor/
 - FreeAmp
   - https://klevgrand.com/products/freeamp
   - 1.0.6
+- InstaVibe
+  - https://lindaaudio.blogspot.com/2023/06/instavibe.html
 - Plasma
-  - distortion effect
   - <https://github.com/Dimethoxy/Plasma>
   - x 1.2.1
+  - distortion effect
 - PreFET distortion
   - <https://bedroomproducersblog.com/2020/07/10/accentize-prefet/>
   - x PreFET is a Machine-Learning based transistor pre-amp emulation which was designed using the same concept as PreTube. The included artificial neural network has learnt to precisely imitate the transistor pre-amp stage of a 70s tabletop cassette recorder. Depending on the Drive-Setting PreFET can colour your sounds from subtle analogue saturation to heavy overdrive.
   - Tumult
   - https://github.com/consint/Tumult
   - Tumult makes noise. Tumult texturizes, accentuates and adds warmth and age. Tumult comes with 50 hand-picked noises. You can play them raw, let them follow your sounds, or duck them away. Tumult comes with an 5-band EQ that lets you shape the noises to your liking. Tumult is a free and open source 64bit VST3 effect plugin for Linux and Windows.
-- InstaVibe
-  - https://lindaaudio.blogspot.com/2023/06/instavibe.html
+
 
 ##### chorus
 
@@ -476,6 +479,13 @@ https://www.fullbucket.de/music/paralogy.html
   - source: <https://github.com/zynaddsubfx/>
   - free binaries: <https://www.kvraudio.com/forum/viewtopic.php?f=47&t=268277>
 
+##### Drum machines
+
+- Drumlabooh
+  - drum machine
+- Hydrogen
+  - https://github.com/hydrogen-music/hydrogen
+
 ##### FM synths
 
 - ADLplug
@@ -533,39 +543,29 @@ https://github.com/midilab/jc303
 
 ### presets for Bitwig
 
-<https://github.com/search?q=bitwig+presets>
-
-<https://github.com/polarity/bitwig-artist-collection>
-just information about the other repos, which follow:
-
+- Github search for presets
+  - <https://github.com/search?q=bitwig+presets>
+- Polarity collection of bitwig presets
+  - <https://github.com/polarity/bitwig-artist-collection>
+  - just information about the other repos, which follow:
 1. x <https://github.com/polarity/polarity-music-tools>
-  
 2. x <https://github.com/polarity/bitwig-projects>
-
 3. x <https://github.com/polarity/bitwig-community-presets>
-
 4. x <https://github.com/polarity/bitwig-pianobook>; samples from <https://www.pianobook.co.uk/>
    - not cloned
-
 5. <https://github.com/polarity/preset-party-app>
 
+Other presets:
+- x <https://github.com/cyanit/Bitwig-Studio-Presets.git>
+- x <https://github.com/davem2/bitwig2-presets.git>
 - x <https://github.com/jrelo/bitwig_presetz.git>
-
 - x <https://github.com/stylemistake/bitwig-presets-sm.git>
-
 - x <https://github.com/MatjoeP/Bitwig-Presets.git>
   - last checked 2022-06, does not clone properly
-
+- x <https://github.com/polk9/Bitwig-3.3.git>
 - x <https://github.com/tachesteaches/bitwig-presets.git>
   - Micromanager preset
-
-- x <https://github.com/davem2/bitwig2-presets.git>
-
-- x <https://github.com/cyanit/Bitwig-Studio-Presets.git>
-
 - x <https://github.com/TraNzeM/tnm-bitwig-presets.git>
-
-- x <https://github.com/polk9/Bitwig-3.3.git>
 
 ### reverb convolution files
 
@@ -642,8 +642,10 @@ https://github.com/psemiletov/drumlabooh
 
 #### Lists of samples
 
-https://sfzinstruments.github.io/
-https://hilbricht.net/foss-sampled-instruments.html
+- SFZ Instruments
+  - https://sfzinstruments.github.io/
+- Open source sampled instruments
+  - https://hilbricht.net/foss-sampled-instruments.html
 
 #### Sample sites
 
@@ -663,7 +665,18 @@ https://hilbricht.net/foss-sampled-instruments.html
 - artifacts site
 - patch site
 
-#### Samples of particular synths
+#### Samples
+
+- Versilian Studios Chamber Orchestra 2.0
+  - free
+  - https://versilian-studios.com/vsco-community/
+- Versillian Community Sample Library
+  - https://versilian-studios.com/vcsl/
+  - https://github.com/sgossner/VCSL
+  - free
+  - Your one-stop-sound-shop for samples, the Versilian Community Sample Library project contains dozens of orchestral, world, and experimental instruments professionally recorded and edited. For composers, a set of SFZ format patches are provided to allow use in any DAW in combination with Plogue Sforzando player. Please download Sforzando and watch the video tutorial for instructions on how to use SFZ files.
+
+This collection is under a Creative Commons 0 (zero) license. Essentially it’s Public Domain- you can do whatever you want with these sounds (even make commercial software), no royalties, no credit, no special terms. This includes integrating it in projects such as generative music, DAWs, granular synthesizers, and samplers.
 
 - https://github.com/gregharvey/drum-samples
   - GSCW drum samples from the 90s
@@ -679,13 +692,12 @@ https://hilbricht.net/foss-sampled-instruments.html
   - 2025-06
 https://github.com/sourc3array/808TK?tab=readme-ov-file
 
-
 ### Internet Archive
 
-- <https://archive.org/details/nasaaudiocollection>
-  - NASA samples
-
-- <https://archive.org/details/Voyager1>
+- NASA audio collection
+  - <https://archive.org/details/nasaaudiocollection>
+- Voyager 1 samples
+  - <https://archive.org/details/Voyager1>
   - NASA samples from the Voyager 1 spacecraft
 
 ## 2. Graphics
