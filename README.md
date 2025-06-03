@@ -23,6 +23,7 @@
       - [Lists of sample collections](#lists-of-sample-collections)
       - [Sites offering samples for download](#sites-offering-samples-for-download)
       - [Samples](#samples)
+        - [drums](#drums)
         - [drum machines](#drum-machines-1)
         - [orchestra](#orchestra)
     - [Internet Archive](#internet-archive)
@@ -673,8 +674,23 @@ https://github.com/psemiletov/drumlabooh
 - x https://github.com/publicsamples/Roland-JD-800
   - Roland JC-100 samples
   - 2025-06
+- The Libre Sample Pack
+  - https://github.com/TheSmallTeaBoi/the-libre-sample-pack
+  - 2025-06
+- Open Samples
+  - https://github.com/pumodi/open-samples
+  - 2025-06
+- https://archive.org/details/GTownChurchSamplingProject
+  - 2025-06 
+  - 
+##### drums
 
-
+- https://github.com/gregharvey/drum-samples
+  - 2025-06
+  - acoustic drums
+- Open Source Drumkit
+  - https://github.com/crabacus/the-open-source-drumkit
+  - 2025-06
 
 ##### drum machines
 
@@ -703,6 +719,7 @@ https://github.com/psemiletov/drumlabooh
 - https://github.com/sunhypnotic/858-drum-synth
   - Creating samples for a drum machine created via Neural Net. Encoding samples of the Roland 808 and 909 drum machines and interpolate them together to create a combined representation of their timbres, tonality, change over time, and resulting audio signal.
   - 2025-06
+
 ##### orchestra
 
 - <https://philharmonia.co.uk/resources/sound-samples/>
