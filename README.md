@@ -702,6 +702,8 @@ https://github.com/psemiletov/drumlabooh
 - TR-808
   - https://github.com/sourc3array/808TK?tab=readme-ov-file
   - virtual instrument for Decent Sampler that uses the 808 Tape sample library
+- TR-808 samples from Hyperreal
+  - http://smd-records.com/tr808/?page_id=14
 - TR-909 (1983)
   - https://j5music.com/products/roland-909-kit
   - www.drumkito.com/sample-packs/roland-tr-909-sample-pack/
