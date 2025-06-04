@@ -26,7 +26,7 @@ This is a list of free and open source
     - [Samplers and samples](#samplers-and-samples)
       - [samplers](#samplers)
       - [Lists of sample collections](#lists-of-sample-collections)
-      - [Sites offering samples for download](#sites-offering-samples-for-download)
+      - [Sites offering samples](#sites-offering-samples)
       - [Samples](#samples)
         - [drums](#drums)
         - [drum machines](#drum-machines-1)
@@ -659,7 +659,7 @@ https://github.com/psemiletov/drumlabooh
 - Open source sampled instruments
   - https://hilbricht.net/foss-sampled-instruments.html
 
-#### Sites offering samples for download
+#### Sites offering samples
 
 - <https://www.conservethesound.de/category/sound>
   - various samples of items
@@ -667,14 +667,18 @@ https://github.com/psemiletov/drumlabooh
 - <https://freepats.zenvoid.org/>
 - Freesound
   - <https://freesound.org/>
+- <https://soundpacks.com/free-sound-packs/>
+- 
 - The Libre Sample Pack
   - <https://github.com/TheSmallTeaBoi/the-libre-sample-pack>
   - open source
   - 2025-05
-- <https://soundpacks.com/free-sound-packs/>
-  - .
-- <https://github.com/MckAudio/MckSamplePacks>
+- Mck Sample Packs
+  - <https://github.com/MckAudio/MckSamplePacks>
+  - DR5, RD6, RX5, and TR8 drum machine samples
   - last checked 2022-06
+
+
 - artifacts site
 - patch site
 
