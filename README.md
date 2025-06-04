@@ -60,8 +60,9 @@ This is a list of free and open source
 - <https://bedroomproducersblog.com/free-vst-plugins/>
   - good list of free plug-ins
 https://github.com/apahne/awesome-free-audio
+- https://freevsthub.com/
 - lists of sample sites are below.
-- 
+
 ### Digital Audio Workstations (DAWs)
 
 - zrythm.org/
