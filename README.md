@@ -1,3 +1,8 @@
+This is a list of free and open source
+1. audio programs, audio plug-ins, VST plug-ins, samples;
+2. graphics programs; and,
+3. various other miscellaneous programs and tools.
+
 - [Free and open source audio, graphics, and other tools](#free-and-open-source-audio-graphics-and-other-tools)
   - [1. Audio-related software and plug-ins](#1-audio-related-software-and-plug-ins)
     - [lists of audio software and plug-ins](#lists-of-audio-software-and-plug-ins)
@@ -41,10 +46,7 @@
     - [Firewall](#firewall)
     - [Productivity](#productivity)
 
-This is a list of free and open source
-1. audio programs, audio plug-ins, VST plug-ins, samples;
-2. graphics programs; and,
-3. various other miscellaneous programs and tools.
+
 
 # Free and open source audio, graphics, and other tools
 
