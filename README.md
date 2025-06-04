@@ -56,9 +56,12 @@ This is a list of free and open source
   - excellent list of open source plug-ins
 - <https://github.com/IsaakCode/freeaudio>
   - A curated list of freely available samples, virtual instruments and effects 
+- https://github.com/twinysam/FreeAudioPluginList
+- https://github.com/apahne/awesome-free-audio
 - <https://awesomeopensource.com/projects/synthesizer>
 - <https://bedroomproducersblog.com/free-vst-plugins/>
   - good list of free plug-ins
+- https://freevsthub.com/
 - lists of sample sites are below.
 - 
 ### Digital Audio Workstations (DAWs)
@@ -328,6 +331,8 @@ Institute of Electronic Music and Acoustics.
   - x <https://www.lesliesanford.com/vst/plugins/>
 - Sonicbits Sphere
   - https://www.sonicbits.com/plugins/sphere
+- Verberate Basic
+  - https://acondigital.com/products/verberate-basic
 
 #### instruments
 
