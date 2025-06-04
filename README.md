@@ -782,7 +782,7 @@ https://github.com/psemiletov/drumlabooh
 - <https://github.com/patriciogonzalezvivo/lygia/tree/main/generative>
 - <https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83>
 
-## Minecraft shaderpacks/resource packs
+## 3. Minecraft shaderpacks/resource packs
 
 - <https://github.com/Mojang>
 
@@ -833,7 +833,7 @@ https://github.com/psemiletov/drumlabooh
 - <https://github.com/BruceKnowsHow/Octray>
   - subscription now
 
-## Other utilities
+## 4. Other utilities
 
 - <https://github.com/Yutaka-Sawada/MultiPar>
 - <http://hp.vector.co.jp/authors/VA021385/>
