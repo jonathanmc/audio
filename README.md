@@ -41,7 +41,10 @@
     - [Firewall](#firewall)
     - [Productivity](#productivity)
 
-This is a list of free and open source audio programs, audio plug-ins, VST plug-ins, graphics programs, and various other miscellaneous programs and tools.
+This is a list of free and open source
+1. audio programs, audio plug-ins, VST plug-ins, samples;
+2. graphics programs; and,
+3. various other miscellaneous programs and tools.
 
 # Free and open source audio, graphics, and other tools
 
