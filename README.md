@@ -1,3 +1,8 @@
+This is a list of free and open source
+1. audio programs, audio plug-ins, VST plug-ins, samples;
+2. graphics programs; and,
+3. various other miscellaneous programs and tools.
+
 - [Free and open source audio, graphics, and other tools](#free-and-open-source-audio-graphics-and-other-tools)
   - [1. Audio-related software and plug-ins](#1-audio-related-software-and-plug-ins)
     - [lists of audio software and plug-ins](#lists-of-audio-software-and-plug-ins)
@@ -31,20 +36,17 @@
     - [RawTherapee stuff](#rawtherapee-stuff)
     - [Graphics libraries](#graphics-libraries)
     - [noise functions](#noise-functions)
-  - [Minecraft shaderpacks/resource packs](#minecraft-shaderpacksresource-packs)
+  - [3. Minecraft shaderpacks/resource packs](#3-minecraft-shaderpacksresource-packs)
     - [resourcepacks on github](#resourcepacks-on-github)
     - [resourcepacks NOT on github](#resourcepacks-not-on-github)
     - [shaderpacks on github](#shaderpacks-on-github)
     - [pay shaders](#pay-shaders)
-  - [Other utilities](#other-utilities)
+  - [4. Other utilities](#4-other-utilities)
     - [copying](#copying)
     - [Firewall](#firewall)
     - [Productivity](#productivity)
 
-This is a list of free and open source
-1. audio programs, audio plug-ins, VST plug-ins, samples;
-2. graphics programs; and,
-3. various other miscellaneous programs and tools.
+
 
 # Free and open source audio, graphics, and other tools
 
@@ -61,9 +63,8 @@ This is a list of free and open source
 - <https://awesomeopensource.com/projects/synthesizer>
 - <https://bedroomproducersblog.com/free-vst-plugins/>
   - good list of free plug-ins
-- https://freevsthub.com/
 - lists of sample sites are below.
-- 
+
 ### Digital Audio Workstations (DAWs)
 
 - zrythm.org/
@@ -786,7 +787,7 @@ https://github.com/psemiletov/drumlabooh
 - <https://github.com/patriciogonzalezvivo/lygia/tree/main/generative>
 - <https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83>
 
-## Minecraft shaderpacks/resource packs
+## 3. Minecraft shaderpacks/resource packs
 
 - <https://github.com/Mojang>
 
@@ -837,7 +838,7 @@ https://github.com/psemiletov/drumlabooh
 - <https://github.com/BruceKnowsHow/Octray>
   - subscription now
 
-## Other utilities
+## 4. Other utilities
 
 - <https://github.com/Yutaka-Sawada/MultiPar>
 - <http://hp.vector.co.jp/authors/VA021385/>
