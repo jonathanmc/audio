@@ -17,6 +17,7 @@ This is a list of free and open source
       - [instruments](#instruments)
         - [Drum machines](#drum-machines)
         - [FM synths](#fm-synths)
+        - [Roland](#roland)
         - [Roland JP-8000 synths](#roland-jp-8000-synths)
         - [Roland TB-303](#roland-tb-303)
         - [Nord](#nord)
@@ -46,20 +47,24 @@ This is a list of free and open source
     - [Firewall](#firewall)
     - [Productivity](#productivity)
 
-
-
 # Free and open source audio, graphics, and other tools
 
 ## 1. Audio-related software and plug-ins
 
 ### lists of audio software and plug-ins
 
+- CLAP Audio Software database
+  - <https://clapdb.tech/>
 - <https://github.com/webprofusion/OpenAudio>
-  - excellent list of open source plug-ins
+  - list of open source plug-ins
+  - x
 - <https://github.com/IsaakCode/freeaudio>
-  - A curated list of freely available samples, virtual instruments and effects 
+  - A curated list of freely available samples, virtual instruments and effects.
+  - x
 - https://github.com/twinysam/FreeAudioPluginList
+  - x
 - https://github.com/apahne/awesome-free-audio
+  - x
 - <https://awesomeopensource.com/projects/synthesizer>
 - <https://bedroomproducersblog.com/free-vst-plugins/>
   - good list of free plug-ins
@@ -67,6 +72,7 @@ This is a list of free and open source
 
 ### Digital Audio Workstations (DAWs)
 
+- https://github.com/AudioDeveloper/UltraDaw
 - zrythm.org/
 - https://github.com/stargatedaw/stargate
 
@@ -187,7 +193,11 @@ Institute of Electronic Music and Acoustics.
   - Bandbreite
   - Reach reverb
   - KO distortion
+- TBPA Volume
+  - https://www.tbproaudio.de/products/tbpavolume
+  - volume adjusting plug-in
 - Tokyo Dawn
+  - https://www.tokyodawn.net/  
   - various free effects
   - TDR Prism - modern frequency analyzer.
     - 1.0.7
@@ -199,7 +209,6 @@ Institute of Electronic Music and Acoustics.
     - 1.6.5
   - TDR VOS SlickEQ - mixing/mastering equalizer
     - 1.3.9
-  - https://www.tokyodawn.net/  
 - UJam Finisher
   - https://www.ujam.com/finisher/micro/
   - needs a desktop app to be installed
@@ -262,6 +271,8 @@ Institute of Electronic Music and Acoustics.
   - <http://www.interruptor.ch/vst_donationware.shtml> 
   - many dub VST effects, free
   - x 
+- Vain Audio
+  - Orbit
 
 ##### reverbs
 
@@ -337,10 +348,8 @@ Institute of Electronic Music and Acoustics.
 
 #### instruments
 
+VST, CLAP, etc. Lots of good stuff here. Best are Dexed, Helm, Ob-xd, Surge, Synth1, ZynAddSubFX.
 
-VST, CLAP, etc.
-
-Lots of good stuff here. Best are Dexed, Helm, Ob-xd, Surge, Synth1, ZynAddSubFX.
 
 https://www.fullbucket.de/music/paralogy.html
 
@@ -400,8 +409,6 @@ https://www.fullbucket.de/music/paralogy.html
   - 1.2.4 <https://github.com/hydrogen-music/hydrogen>
 - Juce OPL VSTi <https://github.com/bsutherland/JuceOPLVSTi/releases>
   - x FM chip synth
-- Juno 6
-  - x https://freevstdownloads.com/juno-6/
 - MG-1 
   - https://cherryaudio.com/products/surrealistic-mg-1-plus#pricing
   - needs a desktop app to be installed
@@ -431,9 +438,6 @@ https://www.fullbucket.de/music/paralogy.html
   - source: <https://github.com/TheWaveWarden/odin2>
 - Owlbass
   - <https://github.com/PentagramPro/OwlBass>
-- oxesoft/oxefmsynth
-  - x <https://oxesoft.wordpress.com/> and <https://github.com/oxesoft/oxefmsynth>  
-  - 1.3.4
 - Plex <https://plex.hermannseib.com/>
   - x free but not open source
 - PG-8x (2016)
@@ -444,11 +448,11 @@ https://www.fullbucket.de/music/paralogy.html
   - x <https://sites.google.com/site/artifakelabs/>
 - RipplerX
   - physical modelling
-  - https://github.com/tiagolr/ripplerx
+  - <https://github.com/tiagolr/ripplerx>
   - 1.4.3
 - SetBfree
   - tone wheel organ
-  - https://x42-plugins.com/x42/setBfree
+  - <https://x42-plugins.com/x42/setBfree>
   - 8.13-1
 - Surge
   - x <https://surge-synthesizer.github.io/> and <https://github.com/surge-synthesizer>
@@ -460,6 +464,8 @@ https://www.fullbucket.de/music/paralogy.html
 - Synister
   - x <https://the-synister.github.io/> and <https://github.com/the-synister/the-source>
   - 1.0.3
+- Terrain
+  - <https://github.com/aaronaanderson/Terrain>
 - Tunefish
   - x <https://tunefish-synth.com/download>
 - TB-303 clones
@@ -512,12 +518,20 @@ https://www.fullbucket.de/music/paralogy.html
   - A free and open source frequency modulation synthesizer plugin (VST2, CLAP). Runs on macOS, Windows and Linux.
   - x https://www.octasine.com/
   - 0.9.1
+- oxesoft/oxefmsynth
+  - x <https://oxesoft.wordpress.com/> and <https://github.com/oxesoft/oxefmsynth>  
+  - 1.3.4
 - TX81Z recreations
   - Sonicbits Exact Lite (free)
     - <https://www.sonicbits.com/plugins/exakt-lite>
     - 2.3.0
   - Six-sines (open source)
     - on github
+
+##### Roland
+
+- Juno 6
+  - x https://freevstdownloads.com/juno-6/
 
 ##### Roland JP-8000 synths
 
