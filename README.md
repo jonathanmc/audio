@@ -28,11 +28,10 @@ This is a list of free and open source
     - [reverb convolution files](#reverb-convolution-files)
     - [Samplers and samples](#samplers-and-samples)
       - [samplers](#samplers)
-      - [Lists of sample collections](#lists-of-sample-collections)
-      - [Sites offering samples](#sites-offering-samples)
-      - [Samples](#samples)
+      - [Sites with lists of samples](#sites-with-lists-of-samples)
+      - [Sites with samples](#sites-with-samples)
         - [drums](#drums)
-        - [drum machines](#drum-machines-1)
+        - [drum machine samples](#drum-machine-samples)
         - [orchestra](#orchestra)
     - [Internet Archive](#internet-archive)
   - [2. Graphics](#2-graphics)
@@ -671,44 +670,40 @@ True M7 – Impulse Pack
 
 #### samplers
 
-https://github.com/monocasual/giada
-https://github.com/psemiletov/drumlabooh
+- Giada
+  - https://github.com/monocasual/giada
+  Drumlabooh
+  - https://github.com/psemiletov/drumlabooh
+- Hydrogen
+  - 
 
-#### Lists of sample collections
+#### Sites with lists of samples
 
 - SFZ Instruments
   - https://sfzinstruments.github.io/
 - Open source sampled instruments
   - https://hilbricht.net/foss-sampled-instruments.html
 
-#### Sites offering samples
-
-- <https://www.conservethesound.de/category/sound>
-  - various samples of items
-- <https://www.freesounds.info/>
-- <https://freepats.zenvoid.org/>
-- Freesound
-  - <https://freesound.org/>
-- <https://soundpacks.com/free-sound-packs/>
-- 
-- The Libre Sample Pack
-  - <https://github.com/TheSmallTeaBoi/the-libre-sample-pack>
-  - open source
-  - 2025-05
-- Mck Sample Packs
-  - <https://github.com/MckAudio/MckSamplePacks>
-  - DR5, RD6, RX5, and TR8 drum machine samples
-  - last checked 2022-06
-
+#### Sites with samples
 
 - artifacts site
 - patch site
 
-#### Samples
-
-- Music Machines @ Hyperreal
-  - x http://machines.hyperreal.org/samples.html
-  - misc drum machines and so on
+- Conserve the Sound
+  - <https://www.conservethesound.de/category/sound>
+  - various samples of items
+- Freesounds.info
+  - <https://www.freesounds.info/>
+- Freesound.org
+  - <https://freesound.org/>
+- ?
+  - <https://freepats.zenvoid.org/>
+- ?
+  - <https://soundpacks.com/free-sound-packs/>
+- The Libre Sample Pack
+  - <https://github.com/TheSmallTeaBoi/the-libre-sample-pack>
+  - open source
+  - 2025-05 
 - Roland JD-800 samples
   - https://github.com/publicsamples/Roland-JD-800
   - 2025-06
@@ -738,9 +733,6 @@ Roland RSB-50, RSB-550, and L-Series Libraries (209 samples).
 Roland XV-5080
 Roland L-CDX-01 Library (1,143 samples).
 
-
-
-
 ##### drums
 
 - https://github.com/gregharvey/drum-samples
@@ -750,35 +742,50 @@ Roland L-CDX-01 Library (1,143 samples).
   - https://github.com/crabacus/the-open-source-drumkit
   - 2025-06
 
-##### drum machines
+##### drum machine samples
 
-- https://archive.org/details/ultimate-vintage-drum-machines-sample-pack
-- 
+- Large archive of drum saamples
+  - <https://archive.org/details/ultimate-vintage-drum-machines-sample-pack>
+- KB6 archive
+  - <https://samples.kb6.de/>
+  - drum machine samples
+- Mck Sample Packs
+  - <https://github.com/MckAudio/MckSamplePacks>
+  - DR5, RD6, RX5, and TR8 drum machine samples
+  - last checked 2022-06
+- Music Machines @ Hyperreal
+  - x http://machines.hyperreal.org/samples.html
+  - misc drum machines and so on
+
 - TR-606 (1980)
 - TR-808 (1980 to 1982)
-  - https://www.synthmania.com/tr-808.htm
+  - <https://www.synthmania.com/tr-808.htm>
 - TR-808 in SFZ format
-  - https://github.com/sourc3array/genAudio_808TK_SFZ/
+  - <https://github.com/sourc3array/genAudio_808TK_SFZ/>
 - TR-808
-  - https://github.com/sourc3array/808TK?tab=readme-ov-file
-  - virtual instrument for Decent Sampler that uses the 808 Tape sample library
-- TR-808 samples from Hyperreal
-  - http://smd-records.com/tr808/?page_id=14
+  - 808TK
+    - <https://github.com/sourc3array/808TK?tab=readme-ov-file>
+    - virtual instrument for Decent Sampler that uses the 808 Tape sample library
+  - TR-808 samples from Hyperreal
+    - http://smd-records.com/tr808/?page_id=14
 - TR-909 (1983)
   - https://j5music.com/products/roland-909-kit
   - www.drumkito.com/sample-packs/roland-tr-909-sample-pack/
   - https://soundpacks.com/free-sound-packs/maunster-tr-909-drum-samples/
 - TR-707 (1984)
 - TR-727 (1985)
-  - https://keplero.com/synthesizers/roland-tr-727-samples/
-  - https://web.archive.org/web/20160404214027/http://www.keplero.com/material/tr727/RolandTR727Samples.zip
+  - <https://keplero.com/synthesizers/roland-tr-727-samples/>
+  - <https://web.archive.org/web/20160404214027/http://www.keplero.com/material/tr727/RolandTR727Samples.zip>
 - TR-505 (1986)
   - samples from 707 and 727
 - TR-626 (1987)
-- https://github.com/gregharvey/drum-samples
+  - 
+- GSCW drum samples
+  - <https://github.com/gregharvey/drum-samples>
   - GSCW drum samples from the 90s
   - 2025-06
-- https://github.com/sunhypnotic/858-drum-synth
+- ?
+  - https://github.com/sunhypnotic/858-drum-synth
   - Creating samples for a drum machine created via Neural Net. Encoding samples of the Roland 808 and 909 drum machines and interpolate them together to create a combined representation of their timbres, tonality, change over time, and resulting audio signal.
   - 2025-06
 
