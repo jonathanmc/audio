@@ -8,6 +8,8 @@ This is a list of free and open source
     - [lists of audio software and plug-ins](#lists-of-audio-software-and-plug-ins)
     - [Digital Audio Workstations (DAWs)](#digital-audio-workstations-daws)
     - [utilities](#utilities)
+      - [audio utilities](#audio-utilities)
+      - [video utilities](#video-utilities)
     - [audio plug-ins (VST, CLAP, etc.)](#audio-plug-ins-vst-clap-etc)
       - [effects](#effects)
         - [amps and distortion](#amps-and-distortion)
@@ -53,10 +55,9 @@ This is a list of free and open source
 
 ### lists of audio software and plug-ins
 
-- CLAP Audio Software database
-  - <https://clapdb.tech/>
+- CLAP Audio Software database <https://clapdb.tech/>
 - <https://github.com/webprofusion/OpenAudio>
-  - list of open source plug-ins
+  - list of open source plug-ins.
   - x
 - <https://github.com/IsaakCode/freeaudio>
   - A curated list of freely available samples, virtual instruments and effects.
@@ -68,42 +69,50 @@ This is a list of free and open source
 - <https://awesomeopensource.com/projects/synthesizer>
 - <https://bedroomproducersblog.com/free-vst-plugins/>
   - good list of free plug-ins
-- lists of sample sites are below.
+- lists of sample sites are under samples, below.
 
 ### Digital Audio Workstations (DAWs)
 
-- https://github.com/AudioDeveloper/UltraDaw
-- zrythm.org/
-- https://github.com/stargatedaw/stargate
+- UltraDAW
+  - <https://github.com/AudioDeveloper/UltraDaw>
+- ZRhythm
+  - <https://www.zrythm.org>
+- Stargate
+  - <https://github.com/stargatedaw/stargate>
 
 ### utilities
 
 - audio-router
   - <https://github.com/audiorouterdev/audio-router>
 - freAC audio converter
-  - https://github.com/enzo1982/freac/releases/tag/v1.1.6
+  - <https://github.com/enzo1982/freac/releases/tag/v1.1.6>
 - Tencoder
 - IMGburn
-  - http://www.imgburn.com/
+  - <http://www.imgburn.com/>
   - Freeware CD/DVD burning utility.
-- WinCDEmu.
+- WinCDEmu
   - Mounting utility for ISO images. Open source.
-- Winamp
-  - http://www.winamp.com/
-  - Free audio player
+
+#### audio utilities
+
 - Foobar2000
-  - https://www.foobar2000.org/
+  - <https://www.foobar2000.org/>
   - To cast, use BubbleUPNP server (a paid program) plus the Foobar2000 UPNP renderer plug-in 0.99 (requires 32-bit Foobar2000).
-- VLC Player
-  - http://www.videolan.org/vlc/
-  - Free media player.
+- Winamp
+  - <http://www.winamp.com/>
+  - Free audio player
+
+#### video utilities
+
 - Handbrake
   - http://handbrake.fr
   - Excellent open source video converted.
 - Freemake Video Converter.
   - Excellent freeware video converter. Simple to use.
 - SUPER video converter. Lots of options.
-
+- VLC Player
+  - http://www.videolan.org/vlc/
+  - Free media player.
 
 ### audio plug-ins (VST, CLAP, etc.)
 
@@ -117,7 +126,7 @@ These are audio plug-ins, usually VST plug-ins, for use in DAWs. Below are speci
     - Tilta - tilt EQ
     - etc.
 - Baby freebies
-  - https://babyaud.io/freebies
+  - <https://babyaud.io/freebies>
 - Freakshow
   - <https://freakshowindustries.com/>
   - not free or open source
@@ -125,19 +134,26 @@ These are audio plug-ins, usually VST plug-ins, for use in DAWs. Below are speci
   - <https://socalabs.com/>
   - misc. effects and synths like Commodore 64 SID, Nintendo synth, Organ, Piano, Sega Master System, SFX8, Voc Vocal Synth and Wavetable
 - Spitfire Audio
-  - https://labs.spitfireaudio.com/
+  - <https://labs.spitfireaudio.com/>
 - Tone Shop
-  - https://chaosaudio.com/pages/tone-shop-plugin-installer
+  - <https://chaosaudio.com/pages/tone-shop-plugin-installer>
   - needs a desktop app to be installed
 - Vox Samples
-  - https://voxsamples.com/collections/free-audio-plugins
+  - <https://voxsamples.com/collections/free-audio-plugins>
 - ZL-Audio
-  - https://github.com/ZL-Audio
+  - <https://github.com/ZL-Audio>
 
 ...
 
 - Audiofuse
   - has three free plug-ins
+- Audiothing <https://www.audiothing.net/>
+  - Moon Echo
+    - <https://www.audiothing.net/effects/moon-echo/>
+    - have to sign up for newsletter
+  - Filter Jam
+  - Blindfold EQ - EQ with no numbers on it
+  - free after signing up for a newsletter
 - Audiotools Levelling Tool
   - <https://audiotools.se/checkout/purchase-confirmation/>
 - Calf Studio
@@ -173,16 +189,8 @@ Institute of Electronic Music and Acoustics.
 - Ohmforce Symptohm
   - <https://ohmforce.com/products/symptohm>
   - 1.38
-- Outobugi
+- Outobugi @ https://outobugi.com/#projects
   - various plugins
-  - https://outobugi.com/#projects
-  - - Audiothing
-  - Moon Echo
-    - https://www.audiothing.net/effects/moon-echo/
-    - have to sign upl for newsletter
-  - Filter Jam
-  - Blindfold EQ - EQ with no numbers on it
-  - free after signing up for a newsletter
 - Platone
   - Delay Eleven
   - Flex Reverb
@@ -194,10 +202,10 @@ Institute of Electronic Music and Acoustics.
   - Reach reverb
   - KO distortion
 - TBPA Volume
-  - https://www.tbproaudio.de/products/tbpavolume
+  - <https://www.tbproaudio.de/products/tbpavolume>
   - volume adjusting plug-in
 - Tokyo Dawn
-  - https://www.tokyodawn.net/  
+  - <https://www.tokyodawn.net/>
   - various free effects
   - TDR Prism - modern frequency analyzer.
     - 1.0.7
@@ -210,17 +218,17 @@ Institute of Electronic Music and Acoustics.
   - TDR VOS SlickEQ - mixing/mastering equalizer
     - 1.3.9
 - UJam Finisher
-  - https://www.ujam.com/finisher/micro/
+  - <https://www.ujam.com/finisher/micro/>
   - needs a desktop app to be installed
 - Valhalla Space Modulator
   - flanger
-  - https://valhalladsp.com/shop/modulation/valhalla-space-modulator/
+  - <https://valhalladsp.com/shop/modulation/valhalla-space-modulator/>
   - 1.0.6
 - VennAudio
   - misc effects
-  - x https://www.vennaudio.com/free-suite/
+  - x >https://www.vennaudio.com/free-suite/>
 - vztec Malibu tremolo
-  - https://en.vztecfx.com/malibu-plugin
+  - <https://en.vztecfx.com/malibu-plugin>
   - 0.1.0 beta
 
 ##### amps and distortion
@@ -698,8 +706,11 @@ https://github.com/psemiletov/drumlabooh
 
 #### Samples
 
-- x https://github.com/publicsamples/Roland-JD-800
-  - Roland JC-100 samples
+- Music Machines @ Hyperreal
+  - x http://machines.hyperreal.org/samples.html
+  - misc drum machines and so on
+- Roland JD-800 samples
+  - https://github.com/publicsamples/Roland-JD-800
   - 2025-06
 - The Libre Sample Pack
   - https://github.com/TheSmallTeaBoi/the-libre-sample-pack
@@ -709,7 +720,27 @@ https://github.com/psemiletov/drumlabooh
   - 2025-06
 - https://archive.org/details/GTownChurchSamplingProject
   - 2025-06 
-  - 
+- https://www.soundarchive.co/drumsamples
+- patches for old synths
+- also sample Libraries
+Akai MPC60
+Akai SL100 Library (573 samples).
+Akai S1000
+Akai CD-ROM Sound Library, Volume 2 (578 samples).
+Ensoniq EPS
+Ensoniq Factory Library, SLT Series, and Signature Series Libraries (954 samples).
+Ensoniq Mirage
+Ensoniq Factory Library (34 samples).
+Roland R-8
+Internal ROM Sounds and SN-R8 Expansion Cards (375 samples).
+Roland S-50
+Roland RSB-50, RSB-550, and L-Series Libraries (209 samples).
+Roland XV-5080
+Roland L-CDX-01 Library (1,143 samples).
+
+
+
+
 ##### drums
 
 - https://github.com/gregharvey/drum-samples
@@ -721,6 +752,8 @@ https://github.com/psemiletov/drumlabooh
 
 ##### drum machines
 
+- https://archive.org/details/ultimate-vintage-drum-machines-sample-pack
+- 
 - TR-606 (1980)
 - TR-808 (1980 to 1982)
   - https://www.synthmania.com/tr-808.htm
