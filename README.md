@@ -744,18 +744,31 @@ Roland L-CDX-01 Library (1,143 samples).
 
 ##### drum machine samples
 
-- Large archive of drum saamples
+- Ultimate vintage drum machines sample pack
   - <https://archive.org/details/ultimate-vintage-drum-machines-sample-pack>
-- KB6 archive
+  - 9.5 Gb of drum samples
+- Drum machine samples
+  - <https://archive.org/details/drum-machines-collection>
+  - 3.8 Gb of drum samples
+- Music Machines @ Hyperreal
+  - x http://machines.hyperreal.org/samples.html
+  - misc drum machines and so on
+- KB6 drum machine archive
   - <https://samples.kb6.de/>
   - drum machine samples
+  - for some of the old ones that were removed, you can find them https://web.archive.org/web/20161119003622/http://samples.kb6.de:80/downloads.php
+  - checked 2025-06
+- Drum Collector site
+  - <https://www.drumcollector.com/>
+  - a few drum machines
+- Music Radar samples
+  - https://www.musicradar.com/news/sampleradar-retro-drum-machines-1
 - Mck Sample Packs
   - <https://github.com/MckAudio/MckSamplePacks>
   - DR5, RD6, RX5, and TR8 drum machine samples
   - last checked 2022-06
-- Music Machines @ Hyperreal
-  - x http://machines.hyperreal.org/samples.html
-  - misc drum machines and so on
+- "Every Drum Machine since the 1970's" Reddit thread with Google Drive of samples
+  - https://www.reddit.com/r/Drumkits/comments/y3vqbf/every_drum_machine_since_the_1970s/
 
 - TR-606 (1980)
 - TR-808 (1980 to 1982)
