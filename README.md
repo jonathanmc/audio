@@ -769,6 +769,20 @@ Roland L-CDX-01 Library (1,143 samples).
   - last checked 2022-06
 - "Every Drum Machine since the 1970's" Reddit thread with Google Drive of samples
   - https://www.reddit.com/r/Drumkits/comments/y3vqbf/every_drum_machine_since_the_1970s/
+- ngo Vogelmann Vintage Drum Machines free smaple pack
+  - https://ingovogelmann.net/downloads/
+  - Appears many of the samples come from the sites above
+- https://www.reddit.com/r/makinghiphop/comments/4rizue/organized_30gb_of_drum_samples_collected_over/
+- Martin Janus packs
+  - Boss DR-660 @ https://sounds.martinjanus.com/free-samples/boss-dr-660-sample-pack/
+  - Korg DDD-5
+  - TR-626
+  - Yamaha RX7
+  - MC-505
+  - Roland U-220
+  - Yamaha TG500
+- RX-21 
+  - https://www.samplescience.info/2021/02/rx-21-hd.html
 
 - TR-606 (1980)
 - TR-808 (1980 to 1982)
