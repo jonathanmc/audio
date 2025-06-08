@@ -32,6 +32,13 @@ This is a list of free and open source
       - [Sites with samples](#sites-with-samples)
         - [drums](#drums)
         - [drum machine samples](#drum-machine-samples)
+          - [TR-606 (1980)](#tr-606-1980)
+          - [TR-808 (1980 to 1982)](#tr-808-1980-to-1982)
+          - [TR-909 (1983)](#tr-909-1983)
+          - [TR-707 (1984)](#tr-707-1984)
+          - [TR-727 (1985)](#tr-727-1985)
+          - [TR-505 (1986)](#tr-505-1986)
+          - [TR-626 (1987)](#tr-626-1987)
         - [orchestra](#orchestra)
     - [Internet Archive](#internet-archive)
   - [2. Graphics](#2-graphics)
@@ -742,7 +749,15 @@ Roland L-CDX-01 Library (1,143 samples).
   - https://github.com/crabacus/the-open-source-drumkit
   - 2025-06
 
+- GSCW drum samples
+  - <https://github.com/gregharvey/drum-samples>
+  - GSCW drum samples from the 90s
+  - 2025-06
+
 ##### drum machine samples
+
+- https://archive.org/details/RolandDrumMachineRhythmDictionary/page/n59/mode/2up
+  - a book about drum patterns
 
 - Ultimate vintage drum machines sample pack
   - <https://archive.org/details/ultimate-vintage-drum-machines-sample-pack>
@@ -750,6 +765,13 @@ Roland L-CDX-01 Library (1,143 samples).
 - Drum machine samples
   - <https://archive.org/details/drum-machines-collection>
   - 3.8 Gb of drum samples
+- "Every Drum Machine since the 1970's" Reddit thread with Google Drive of samples
+  - <https://www.reddit.com/r/Drumkits/comments/y3vqbf/every_drum_machine_since_the_1970s/>
+  - https://archive.org/details/drum-machine-archive-1
+  - https://archive.org/details/drum-machine-archive-2
+- The COMPLETE DRUMKIT ARCHIVE
+  - https://archive.org/details/the-complete-drumkit-archive
+  - Replica of the drum machine archive collected at https://www.themidimaniac.com/archives/1987
 - Music Machines @ Hyperreal
   - x http://machines.hyperreal.org/samples.html
   - misc drum machines and so on
@@ -767,8 +789,6 @@ Roland L-CDX-01 Library (1,143 samples).
   - <https://github.com/MckAudio/MckSamplePacks>
   - DR5, RD6, RX5, and TR8 drum machine samples
   - last checked 2022-06
-- "Every Drum Machine since the 1970's" Reddit thread with Google Drive of samples
-  - https://www.reddit.com/r/Drumkits/comments/y3vqbf/every_drum_machine_since_the_1970s/
 - ngo Vogelmann Vintage Drum Machines free smaple pack
   - https://ingovogelmann.net/downloads/
   - Appears many of the samples come from the sites above
@@ -783,9 +803,14 @@ Roland L-CDX-01 Library (1,143 samples).
   - Yamaha TG500
 - RX-21 
   - https://www.samplescience.info/2021/02/rx-21-hd.html
+- ?
+  - https://github.com/sunhypnotic/858-drum-synth
+  - Creating samples for a drum machine created via Neural Net. Encoding samples of the Roland 808 and 909 drum machines and interpolate them together to create a combined representation of their timbres, tonality, change over time, and resulting audio signal.
+  - 2025-06
 
-- TR-606 (1980)
-- TR-808 (1980 to 1982)
+###### TR-606 (1980)
+
+###### TR-808 (1980 to 1982)
   - <https://www.synthmania.com/tr-808.htm>
 - TR-808 in SFZ format
   - <https://github.com/sourc3array/genAudio_808TK_SFZ/>
@@ -795,26 +820,33 @@ Roland L-CDX-01 Library (1,143 samples).
     - virtual instrument for Decent Sampler that uses the 808 Tape sample library
   - TR-808 samples from Hyperreal
     - http://smd-records.com/tr808/?page_id=14
-- TR-909 (1983)
+  - https://archive.org/details/tr_808all
+    - taken down by Roland
+
+###### TR-909 (1983)
+
   - https://j5music.com/products/roland-909-kit
   - www.drumkito.com/sample-packs/roland-tr-909-sample-pack/
   - https://soundpacks.com/free-sound-packs/maunster-tr-909-drum-samples/
-- TR-707 (1984)
-- TR-727 (1985)
+
+###### TR-707 (1984)
+
+  - https://archive.org/details/707_drums
+  - taken down by Roland
+
+###### TR-727 (1985)
+
   - <https://keplero.com/synthesizers/roland-tr-727-samples/>
   - <https://web.archive.org/web/20160404214027/http://www.keplero.com/material/tr727/RolandTR727Samples.zip>
-- TR-505 (1986)
-  - samples from 707 and 727
-- TR-626 (1987)
-  - 
-- GSCW drum samples
-  - <https://github.com/gregharvey/drum-samples>
-  - GSCW drum samples from the 90s
-  - 2025-06
-- ?
-  - https://github.com/sunhypnotic/858-drum-synth
-  - Creating samples for a drum machine created via Neural Net. Encoding samples of the Roland 808 and 909 drum machines and interpolate them together to create a combined representation of their timbres, tonality, change over time, and resulting audio signal.
-  - 2025-06
+
+###### TR-505 (1986)
+
+  - https://archive.org/details/tr_505_drums_new
+
+###### TR-626 (1987)
+
+  - https://archive.org/details/tr_626_drums
+    - tkken down by Roland
 
 ##### orchestra
 
