@@ -1,4 +1,5 @@
 This is a list of free and open source
+
 1. audio programs, audio plug-ins, VST plug-ins, samples;
 2. graphics programs; and,
 3. various other miscellaneous programs and tools.
@@ -28,8 +29,8 @@ This is a list of free and open source
     - [reverb convolution files](#reverb-convolution-files)
     - [Samplers and samples](#samplers-and-samples)
       - [samplers](#samplers)
-      - [Sites with lists of samples](#sites-with-lists-of-samples)
-      - [Sites with samples](#sites-with-samples)
+      - [Lists of sites with samples](#lists-of-sites-with-samples)
+      - [Samples](#samples)
         - [drums](#drums)
         - [drum machine samples](#drum-machine-samples)
           - [TR-606 (1980)](#tr-606-1980)
@@ -40,6 +41,7 @@ This is a list of free and open source
           - [TR-505 (1986)](#tr-505-1986)
           - [TR-626 (1987)](#tr-626-1987)
         - [orchestra](#orchestra)
+        - [synths](#synths)
     - [Internet Archive](#internet-archive)
   - [2. Graphics](#2-graphics)
     - [RawTherapee stuff](#rawtherapee-stuff)
@@ -68,9 +70,9 @@ This is a list of free and open source
 - <https://github.com/IsaakCode/freeaudio>
   - A curated list of freely available samples, virtual instruments and effects.
   - x
-- https://github.com/twinysam/FreeAudioPluginList
+- <https://github.com/twinysam/FreeAudioPluginList>
   - x
-- https://github.com/apahne/awesome-free-audio
+- <https://github.com/apahne/awesome-free-audio>
   - x
 - <https://awesomeopensource.com/projects/synthesizer>
 - <https://bedroomproducersblog.com/free-vst-plugins/>
@@ -111,13 +113,13 @@ This is a list of free and open source
 #### video utilities
 
 - Handbrake
-  - http://handbrake.fr
+  - <http://handbrake.fr>
   - Excellent open source video converted.
 - Freemake Video Converter.
   - Excellent freeware video converter. Simple to use.
 - SUPER video converter. Lots of options.
 - VLC Player
-  - http://www.videolan.org/vlc/
+  - <http://www.videolan.org/vlc/>
   - Free media player.
 
 ### audio plug-ins (VST, CLAP, etc.)
@@ -166,7 +168,7 @@ These are audio plug-ins, usually VST plug-ins, for use in DAWs. Below are speci
   - x <http://calf-studio-gear.org/>
   - Linux only
 - Camelcrusher
-  - https://www.audiopluginsforfree.com/camelcrusher/
+  - <https://www.audiopluginsforfree.com/camelcrusher/>
 - Chowdhury VST effects
   - <https://github.com/jatinchowdhury18/>
   - x Analog Tape Model, tape saturator
@@ -181,7 +183,7 @@ These are audio plug-ins, usually VST plug-ins, for use in DAWs. Below are speci
     - <https://www.igorski.nl/download/regrader>
     - degrader
     - 1.0.5
-  - VSTID 
+  - VSTID
     - chip synth
     - <https://github.com/igorski/VSTSID>
 - The IEM Plug-in Suite is a free and Open-Source audio plugin suite including Ambisonic plug-ins up to 7th order created by staff and students of the
@@ -191,19 +193,19 @@ Institute of Electronic Music and Acoustics.
 - Illformed
   - <https://illformed.org/>
 - Obliterate
-  - https://www.newfangledaudio.com/obliterate
+  - <https://www.newfangledaudio.com/obliterate>
 - Ohmforce Symptohm
   - <https://ohmforce.com/products/symptohm>
   - 1.38
-- Outobugi @ https://outobugi.com/#projects
+- Outobugi @ <https://outobugi.com/#projects>
   - various plugins
 - Platone
   - Delay Eleven
   - Flex Reverb
-  - https://platonestudio.com/product/flex-reverb/
+  - <https://platonestudio.com/product/flex-reverb/>
 - Sinuslabs
-  - https://github.com/Sinuslabs
-  - https://sinuslabs.io/products/
+  - <https://github.com/Sinuslabs>
+  - <https://sinuslabs.io/products/>
   - Bandbreite
   - Reach reverb
   - KO distortion
@@ -232,7 +234,7 @@ Institute of Electronic Music and Acoustics.
   - 1.0.6
 - VennAudio
   - misc effects
-  - x >https://www.vennaudio.com/free-suite/>
+  - x ><https://www.vennaudio.com/free-suite/>>
 - vztec Malibu tremolo
   - <https://en.vztecfx.com/malibu-plugin>
   - 0.1.0 beta
@@ -240,15 +242,15 @@ Institute of Electronic Music and Acoustics.
 ##### amps and distortion
 
 - BlepFX distortion
-  - https://github.com/blepfx/dist/
+  - <https://github.com/blepfx/dist/>
 - BPB Dirty VHS
 - Destruqtor
-  - https://fx.amee.ee/plugin/destruqtor/
+  - <https://fx.amee.ee/plugin/destruqtor/>
 - FreeAmp
-  - https://klevgrand.com/products/freeamp
+  - <https://klevgrand.com/products/freeamp>
   - 1.0.6
 - InstaVibe
-  - https://lindaaudio.blogspot.com/2023/06/instavibe.html
+  - <https://lindaaudio.blogspot.com/2023/06/instavibe.html>
 - Plasma
   - <https://github.com/Dimethoxy/Plasma>
   - x 1.2.1
@@ -257,14 +259,13 @@ Institute of Electronic Music and Acoustics.
   - <https://bedroomproducersblog.com/2020/07/10/accentize-prefet/>
   - x PreFET is a Machine-Learning based transistor pre-amp emulation which was designed using the same concept as PreTube. The included artificial neural network has learnt to precisely imitate the transistor pre-amp stage of a 70s tabletop cassette recorder. Depending on the Drive-Setting PreFET can colour your sounds from subtle analogue saturation to heavy overdrive.
   - Tumult
-  - https://github.com/consint/Tumult
+  - <https://github.com/consint/Tumult>
   - Tumult makes noise. Tumult texturizes, accentuates and adds warmth and age. Tumult comes with 50 hand-picked noises. You can play them raw, let them follow your sounds, or duck them away. Tumult comes with an 5-band EQ that lets you shape the noises to your liking. Tumult is a free and open source 64bit VST3 effect plugin for Linux and Windows.
-
 
 ##### chorus
 
 - Acon
-  - https://acondigital.com- 
+  - <https://acondigital.com->
   - chorus and an EQ
   - Acon Digital Multiply is a free and versatile chorus effect with a unique twist. Each simulated voice is processed with a phase randomizing filter so that unpleasant comb filter effects are avoided. The effect can be used to simulate the effect of several performers playing the same tones simultaneously, to widen the spatial image or to create special effects for sound design. Multiply can simulate up to 6 additional voices and both the pitch and the loudness of the voices can be modulated. There is also an integrated equalizer consisting of low cut, low shelf, high shelf and high cut filters that can be applied to the effect signal. An integrated pre-delay section makes it possible to create modulated and diffuse echo effects.
   - need to register
@@ -273,18 +274,18 @@ Institute of Electronic Music and Acoustics.
   - <https://greenoak.com/effects/index.php/2023/03/07/new-cesium/>
 - Memory
   - chorus
-  - https://cymatics.fm/collections/plugins/products/memory-plugin
+  - <https://cymatics.fm/collections/plugins/products/memory-plugin>
 
 ##### delays
 
 - Cocoa Delay
   - x
 - Deelay
-  - https://sixthsample.com/deelay/
+  - <https://sixthsample.com/deelay/>
 - Interruptor
-  - <http://www.interruptor.ch/vst_donationware.shtml> 
+  - <http://www.interruptor.ch/vst_donationware.shtml>
   - many dub VST effects, free
-  - x 
+  - x
 - Vain Audio
   - Orbit
 
@@ -347,7 +348,7 @@ Institute of Electronic Music and Acoustics.
   - x <https://tal-software.com/products/tal-reverb-4>
 - Tens Jr.
   - TENS jr. is the little brother of the studio spring reverb TENS.
-  - https://klanghelm.com/contents/products/TENSjr
+  - <https://klanghelm.com/contents/products/TENSjr>
 - Valhalla supermassive reverb
   - x <https://valhalladsp.com/demos-downloads/>
 - Panagement 2.0
@@ -356,16 +357,15 @@ Institute of Electronic Music and Acoustics.
 - Sanford
   - x <https://www.lesliesanford.com/vst/plugins/>
 - Sonicbits Sphere
-  - https://www.sonicbits.com/plugins/sphere
+  - <https://www.sonicbits.com/plugins/sphere>
 - Verberate Basic
-  - https://acondigital.com/products/verberate-basic
+  - <https://acondigital.com/products/verberate-basic>
 
 #### instruments
 
 VST, CLAP, etc. Lots of good stuff here. Best are Dexed, Helm, Ob-xd, Surge, Synth1, ZynAddSubFX.
 
-
-https://www.fullbucket.de/music/paralogy.html
+<https://www.fullbucket.de/music/paralogy.html>
 
 - ADL plug <https://github.com/jpcima/ADLplug>
   - x FM chip synth
@@ -386,17 +386,17 @@ https://www.fullbucket.de/music/paralogy.html
 - DiscoDSP Ob-xd
   - x <https://www.discodsp.com/obxd/>
 - Emusc
-  - x https://github.com/skjelten/emusc
+  - x <https://github.com/skjelten/emusc>
   - sound canvas emulator
 - E-mu Proteus VX
   - Proteus 2000 as software. Free
-  - https://archive.org/details/proteus-vx
-  - https://web.archive.org/web/20130317080302/http://www.creative.com/emu/proteusvx/
+  - <https://archive.org/details/proteus-vx>
+  - <https://web.archive.org/web/20130317080302/http://www.creative.com/emu/proteusvx/>
 - Emu/Ensonic SQ8L
-  - SQ8L: An SQ80-emulating VSTi. x http://www.buchty.net/ensoniq/#sq8l
+  - SQ8L: An SQ80-emulating VSTi. x <http://www.buchty.net/ensoniq/#sq8l>
 - Fire the Gold
   - amp
-  - https://www.acustica-audio.com/shop/products/FIRETHEGOLD
+  - <https://www.acustica-audio.com/shop/products/FIRETHEGOLD>
   - needs a desktop app to be installed
 - Firebird 2
   - x <https://en.freedownloadmanager.org/Windows-PC/Tone2-Firebird-FREE.html>
@@ -404,7 +404,7 @@ https://www.fullbucket.de/music/paralogy.html
   - x <https://www.dropbox.com/s/3xn9ca1w19mrzjz/LukasFirebirdPatches.zip?dl=0>
   - x <https://rekkerd.org/firebird-presets-by-bkunfu/>
 - Gamelanizer
-  - x https://github.com/lukemcraig/DAFx19-Gamelanizer
+  - x <https://github.com/lukemcraig/DAFx19-Gamelanizer>
 - Gyooo
   - x <https://www.fullbucket.de/music/qyooo.html>
 - Helm
@@ -419,12 +419,12 @@ https://www.fullbucket.de/music/paralogy.html
   - x archived here <https://web.archive.org/web/20210707122035/https://hy-plugins.com/wp-content/uploads/2018/05/HY-Mono_32bit.zip>
   - 64-bit: <https://web.archive.org/web/20200815070206/https://hy-plugins.com/wp-content/uploads/2018/05/HY-Mono_64bit.zip>
 - Hydrogen drum machine
-  - The advanced drum machine for Linux, macOS, and Windows 
+  - The advanced drum machine for Linux, macOS, and Windows
   - 1.2.4 <https://github.com/hydrogen-music/hydrogen>
 - Juce OPL VSTi <https://github.com/bsutherland/JuceOPLVSTi/releases>
   - x FM chip synth
-- MG-1 
-  - https://cherryaudio.com/products/surrealistic-mg-1-plus#pricing
+- MG-1
+  - <https://cherryaudio.com/products/surrealistic-mg-1-plus#pricing>
   - needs a desktop app to be installed
 - Mika-micro
   - x <https://github.com/tesselode/mika-micro/releases/tag/v2.0.1>
@@ -433,10 +433,10 @@ https://www.fullbucket.de/music/paralogy.html
   Minimogue
     <https://www.audiopluginsforfree.com/minimogueva/>
 - MT Power drum kit
-  - https://www.powerdrumkit.com/
+  - <https://www.powerdrumkit.com/>
 - Nakst synths
-  - https://nakst.gitlab.io/audio/
-  - ExtraBold uses traditional subtractive synthesis, with 3 powerful oscillators and a multi-mode filter. 
+  - <https://nakst.gitlab.io/audio/>
+  - ExtraBold uses traditional subtractive synthesis, with 3 powerful oscillators and a multi-mode filter.
     - 1.3.2
   - Regency offers a novel method of synthesis, based off traditional phase distortion synthesizers.  
     - 1.1.0
@@ -457,7 +457,7 @@ https://www.fullbucket.de/music/paralogy.html
 - PG-8x (2016)
   - x <https://sites.google.com/site/mlvst0>
 - RD piano emulator
-  - x https://github.com/giulioz/rdpiano
+  - x <https://github.com/giulioz/rdpiano>
 - Redtron SE v1.5
   - x <https://sites.google.com/site/artifakelabs/>
 - RipplerX
@@ -483,21 +483,21 @@ https://www.fullbucket.de/music/paralogy.html
 - Tunefish
   - x <https://tunefish-synth.com/download>
 - TB-303 clones
-  - x A JUCE port of Open303. https://midilab.co/jc303/ or https://github.com/midilab/jc303/
+  - x A JUCE port of Open303. <https://midilab.co/jc303/> or <https://github.com/midilab/jc303/>
 - TR-909 clones
-  - DR-910: https://plugins4free.com/plugin/2376/
+  - DR-910: <https://plugins4free.com/plugin/2376/>
 - u-he
   - Podolski
     - x
   - Zebralette
-    - https://u-he.com/products/zebralette/
+    - <https://u-he.com/products/zebralette/>
     - 2.9.4
 - VK-1 Viking synth
-  - <https://blamsoft.com/vst/vk-1-viking-synthesizer/> 
+  - <https://blamsoft.com/vst/vk-1-viking-synthesizer/>
 - Vital
   - free but uses subscription for more
 - VS Chamber Orchestra: Community Edition
-  - https://github.com/sgossner/VSCO-2-CE/
+  - <https://github.com/sgossner/VSCO-2-CE/>
 - VST 2413
   - FM based on FM2413 emulation.
   - No built DLL
@@ -516,12 +516,12 @@ https://www.fullbucket.de/music/paralogy.html
 - Drumlabooh
   - drum machine
 - Hydrogen
-  - https://github.com/hydrogen-music/hydrogen
+  - <https://github.com/hydrogen-music/hydrogen>
 
 ##### FM synths
 
 - ADLplug
-  - https://github.com/jpcima/ADLplug
+  - <https://github.com/jpcima/ADLplug>
 - DX-7 recreations
   - Dexed
     - x <https://github.com/asb2m10/dexed/>
@@ -530,7 +530,7 @@ https://www.fullbucket.de/music/paralogy.html
     - x DX-7 clone, Linux only
 - Octasine
   - A free and open source frequency modulation synthesizer plugin (VST2, CLAP). Runs on macOS, Windows and Linux.
-  - x https://www.octasine.com/
+  - x <https://www.octasine.com/>
   - 0.9.1
 - oxesoft/oxefmsynth
   - x <https://oxesoft.wordpress.com/> and <https://github.com/oxesoft/oxefmsynth>  
@@ -545,30 +545,30 @@ https://www.fullbucket.de/music/paralogy.html
 ##### Roland
 
 - Juno 6
-  - x https://freevstdownloads.com/juno-6/
+  - x <https://freevstdownloads.com/juno-6/>
 
 ##### Roland JP-8000 synths
 
 - TranceDrive
-  - https://archive.org/details/trancedrive
+  - <https://archive.org/details/trancedrive>
 - GWave
 - SuperWave P8
 - Super 7
-- https://web.archive.org/web/20120823024901/http://www5c.biglobe.ne.jp/%7Ebuzzroom/files/buzzroomoldvst.zip
+- <https://web.archive.org/web/20120823024901/http://www5c.biglobe.ne.jp/%7Ebuzzroom/files/buzzroomoldvst.zip>
 - Pterosaur
-  - https://www.contralogic.com/vst-plugins/pterosaur/
+  - <https://www.contralogic.com/vst-plugins/pterosaur/>
 - T-Force Zenith
-  - <https://mastrcode-music.de/en/vst-plugins/t-force-zenith/> 
+  - <https://mastrcode-music.de/en/vst-plugins/t-force-zenith/>
   - also has another synth and some effects
 
 ##### Roland TB-303
 
-https://github.com/midilab/jc303
+<https://github.com/midilab/jc303>
 
 ##### Nord
 
 - Nodal Red 2x
-  - https://www.audiopluginsforfree.com/nodal-red-2x/
+  - <https://www.audiopluginsforfree.com/nodal-red-2x/>
   - v1.4.4
 - Synth1
   - x <https://daichilab.com/>
@@ -588,6 +588,7 @@ https://github.com/midilab/jc303
 - Polarity collection of bitwig presets
   - <https://github.com/polarity/bitwig-artist-collection>
   - just information about the other repos, which follow:
+
 1. x <https://github.com/polarity/polarity-music-tools>
 2. x <https://github.com/polarity/bitwig-projects>
 3. x <https://github.com/polarity/bitwig-community-presets>
@@ -596,6 +597,7 @@ https://github.com/midilab/jc303
 5. <https://github.com/polarity/preset-party-app>
 
 Other presets:
+
 - x <https://github.com/cyanit/Bitwig-Studio-Presets.git>
 - x <https://github.com/davem2/bitwig2-presets.git>
 - x <https://github.com/jrelo/bitwig_presetz.git>
@@ -678,20 +680,21 @@ True M7 – Impulse Pack
 #### samplers
 
 - Giada
-  - https://github.com/monocasual/giada
+  - <https://github.com/monocasual/giada>
   Drumlabooh
-  - https://github.com/psemiletov/drumlabooh
-- Hydrogen
-  - 
+  - <https://github.com/psemiletov/drumlabooh>
 
-#### Sites with lists of samples
+- Hydrogen
+  -
+
+#### Lists of sites with samples
 
 - SFZ Instruments
-  - https://sfzinstruments.github.io/
+  - <https://sfzinstruments.github.io/>
 - Open source sampled instruments
-  - https://hilbricht.net/foss-sampled-instruments.html
+  - <https://hilbricht.net/foss-sampled-instruments.html>
 
-#### Sites with samples
+#### Samples
 
 - artifacts site
 - patch site
@@ -710,45 +713,37 @@ True M7 – Impulse Pack
 - The Libre Sample Pack
   - <https://github.com/TheSmallTeaBoi/the-libre-sample-pack>
   - open source
-  - 2025-05 
-- Roland JD-800 samples
-  - https://github.com/publicsamples/Roland-JD-800
-  - 2025-06
-- The Libre Sample Pack
-  - https://github.com/TheSmallTeaBoi/the-libre-sample-pack
-  - 2025-06
+  - 2025-05
 - Open Samples
-  - https://github.com/pumodi/open-samples
+  - <https://github.com/pumodi/open-samples>
   - 2025-06
-- https://archive.org/details/GTownChurchSamplingProject
-  - 2025-06 
-- https://www.soundarchive.co/drumsamples
-- patches for old synths
-- also sample Libraries
-Akai MPC60
-Akai SL100 Library (573 samples).
-Akai S1000
-Akai CD-ROM Sound Library, Volume 2 (578 samples).
-Ensoniq EPS
-Ensoniq Factory Library, SLT Series, and Signature Series Libraries (954 samples).
-Ensoniq Mirage
-Ensoniq Factory Library (34 samples).
-Roland R-8
-Internal ROM Sounds and SN-R8 Expansion Cards (375 samples).
-Roland S-50
-Roland RSB-50, RSB-550, and L-Series Libraries (209 samples).
-Roland XV-5080
-Roland L-CDX-01 Library (1,143 samples).
+- GTownChurchSampling Project
+  - <https://archive.org/details/GTownChurchSamplingProject>
+  - 2025-06
+- Soundarchive.co
+  - <https://www.soundarchive.co/drumsamples>
+  - patches for old synths
+  - also sample Libraries
+    - Akai MPC60
+    - Akai SL100 Library (573 samples).
+    - Akai S1000
+    - Akai CD-ROM Sound Library, Volume 2 (578 samples).
+    - Ensoniq EPS
+    - Ensoniq Factory Library, SLT Series, and Signature Series Libraries (954 samples).
+    - Ensoniq Mirage
+    - Ensoniq Factory Library (34 samples).
+    - Roland R-8
+    - Internal ROM Sounds and SN-R8 Expansion Cards (375 samples).
+    - Roland S-50
+    - Roland RSB-50, RSB-550, and L-Series Libraries (209 samples).
+    - Roland XV-5080
+    - Roland L-CDX-01 Library (1,143 samples).
 
 ##### drums
 
-- https://github.com/gregharvey/drum-samples
-  - 2025-06
-  - acoustic drums
 - Open Source Drumkit
-  - https://github.com/crabacus/the-open-source-drumkit
+  - <https://github.com/crabacus/the-open-source-drumkit>
   - 2025-06
-
 - GSCW drum samples
   - <https://github.com/gregharvey/drum-samples>
   - GSCW drum samples from the 90s
@@ -756,97 +751,129 @@ Roland L-CDX-01 Library (1,143 samples).
 
 ##### drum machine samples
 
-- https://archive.org/details/RolandDrumMachineRhythmDictionary/page/n59/mode/2up
+- <https://archive.org/details/RolandDrumMachineRhythmDictionary/page/n59/mode/2up>
   - a book about drum patterns
 
+- Reddit post
+  - <https://www.reddit.com/r/makinghiphop/comments/4rizue/organized_30gb_of_drum_samples_collected_over/>
+  - 2025-06
 - Ultimate vintage drum machines sample pack
   - <https://archive.org/details/ultimate-vintage-drum-machines-sample-pack>
   - 9.5 Gb of drum samples
+  - 2025-06
 - Drum machine samples
-  - <https://archive.org/details/drum-machines-collection>
+  - x <https://archive.org/details/drum-machines-collection>
   - 3.8 Gb of drum samples
-- "Every Drum Machine since the 1970's" Reddit thread with Google Drive of samples
+  - 2025-06
+- "Every Drum Machine since the 1970's"
+  - Reddit thread with Google Drive of samples
   - <https://www.reddit.com/r/Drumkits/comments/y3vqbf/every_drum_machine_since_the_1970s/>
-  - https://archive.org/details/drum-machine-archive-1
-  - https://archive.org/details/drum-machine-archive-2
-- The COMPLETE DRUMKIT ARCHIVE
-  - https://archive.org/details/the-complete-drumkit-archive
-  - Replica of the drum machine archive collected at https://www.themidimaniac.com/archives/1987
+  - <https://archive.org/details/drum-machine-archive-1>
+  - <https://archive.org/details/drum-machine-archive-2>
+  - 2025-06
+- The COMPLETE DRUMKIT ARCHIVE 
+  - <https://archive.org/details/the-complete-drumkit-archive>
+  - Replica of the drum machine archive collected at <https://www.themidimaniac.com/archives/1987>
+  - 2025-06
 - Music Machines @ Hyperreal
-  - x http://machines.hyperreal.org/samples.html
-  - misc drum machines and so on
+  - <http://machines.hyperreal.org/samples.html>
+  - 2025-06
+  - misc drum machines and so on from ~1995
 - KB6 drum machine archive
   - <https://samples.kb6.de/>
   - drum machine samples
-  - for some of the old ones that were removed, you can find them https://web.archive.org/web/20161119003622/http://samples.kb6.de:80/downloads.php
+  - for some of the old ones that were removed, you can find them <https://web.archive.org/web/20161119003622/http://samples.kb6.de:80/downloads.php>
+  - 2025-06
   - checked 2025-06
-- Drum Collector site
+- DrumCollector.com site
   - <https://www.drumcollector.com/>
+  - 2025-06
   - a few drum machines
-- Music Radar samples
-  - https://www.musicradar.com/news/sampleradar-retro-drum-machines-1
+- MusicRadar.com samples
+  - <https://www.musicradar.com/news/sampleradar-retro-drum-machines-1>
+  - <https://www.musicradar.com/news/sampleradar-hardware-drum-machine-samples>
+  - 2025-06
 - Mck Sample Packs
   - <https://github.com/MckAudio/MckSamplePacks>
+  - 2025-06
   - DR5, RD6, RX5, and TR8 drum machine samples
   - last checked 2022-06
 - ngo Vogelmann Vintage Drum Machines free smaple pack
-  - https://ingovogelmann.net/downloads/
-  - Appears many of the samples come from the sites above
-- https://www.reddit.com/r/makinghiphop/comments/4rizue/organized_30gb_of_drum_samples_collected_over/
+  - <https://ingovogelmann.net/downloads/>
+  - 2025-06
+  - It appears that many of the samples come from other sites
 - Martin Janus packs
-  - Boss DR-660 @ https://sounds.martinjanus.com/free-samples/boss-dr-660-sample-pack/
+  - <https://sounds.martinjanus.com/free-samples/boss-dr-660-sample-pack/>
+  - Boss DR-660
   - Korg DDD-5
   - TR-626
   - Yamaha RX7
   - MC-505
   - Roland U-220
   - Yamaha TG500
-- RX-21 
-  - https://www.samplescience.info/2021/02/rx-21-hd.html
-- ?
-  - https://github.com/sunhypnotic/858-drum-synth
+  - 2025-06
+- SampleScience
+  - RX-21
+    - <https://www.samplescience.info/2021/02/rx-21-hd.html>
+    - 2025-06
+  - TR-626-HD
+    - 2025-06
+- 858 drum synth
+  - <https://github.com/sunhypnotic/858-drum-synth>
   - Creating samples for a drum machine created via Neural Net. Encoding samples of the Roland 808 and 909 drum machines and interpolate them together to create a combined representation of their timbres, tonality, change over time, and resulting audio signal.
   - 2025-06
 
 ###### TR-606 (1980)
 
 ###### TR-808 (1980 to 1982)
+
+- Synthmania
   - <https://www.synthmania.com/tr-808.htm>
 - TR-808 in SFZ format
   - <https://github.com/sourc3array/genAudio_808TK_SFZ/>
-- TR-808
-  - 808TK
-    - <https://github.com/sourc3array/808TK?tab=readme-ov-file>
-    - virtual instrument for Decent Sampler that uses the 808 Tape sample library
-  - TR-808 samples from Hyperreal
-    - http://smd-records.com/tr808/?page_id=14
-  - https://archive.org/details/tr_808all
-    - taken down by Roland
+- 808TK
+  - <https://github.com/sourc3array/808TK?tab=readme-ov-file>
+  - virtual instrument for Decent Sampler that uses the 808 Tape sample library
+- TR-808 samples from Hyperreal
+  - <http://smd-records.com/tr808/?page_id=14>
+- tr_808all
+  - <https://archive.org/details/tr_808all>
+  - taken down by Roland
 
 ###### TR-909 (1983)
 
-  - https://j5music.com/products/roland-909-kit
-  - www.drumkito.com/sample-packs/roland-tr-909-sample-pack/
-  - https://soundpacks.com/free-sound-packs/maunster-tr-909-drum-samples/
+- J5music.com
+  - <https://j5music.com/products/roland-909-kit>
+- Drumkito
+  - <https://www.drumkito.com/sample-packs/roland-tr-909-sample-pack/>
+- Soundpacks
+  - <https://soundpacks.com/free-sound-packs/maunster-tr-909-drum-samples/>
+- Bvker.com
+  - <https://bvker.com/free-909-samples/>
 
 ###### TR-707 (1984)
 
-  - https://archive.org/details/707_drums
+- Internet Archive
+  - <https://archive.org/details/707_drums>
   - taken down by Roland
 
 ###### TR-727 (1985)
 
+- Keplero
   - <https://keplero.com/synthesizers/roland-tr-727-samples/>
   - <https://web.archive.org/web/20160404214027/http://www.keplero.com/material/tr727/RolandTR727Samples.zip>
 
 ###### TR-505 (1986)
 
-  - https://archive.org/details/tr_505_drums_new
+- Internet Archive
+  - <https://archive.org/details/tr_505_drums_new>
 
 ###### TR-626 (1987)
 
-  - https://archive.org/details/tr_626_drums
-    - tkken down by Roland
+- SampleScience, above
+- Internet Archive
+  - <https://archive.org/details/tr_626_drums>
+  - tkken down by Roland
 
 ##### orchestra
 
@@ -854,13 +881,19 @@ Roland L-CDX-01 Library (1,143 samples).
   - x orchestral sounds
 - Versilian Studios Chamber Orchestra 2.0
   - free
-  - https://versilian-studios.com/vsco-community/
+  - <https://versilian-studios.com/vsco-community/>
 - Versillian Community Sample Library
-  - https://versilian-studios.com/vcsl/
-  - https://github.com/sgossner/VCSL
+  - <https://versilian-studios.com/vcsl/>
+  - <https://github.com/sgossner/VCSL>
   - free
   - Your one-stop-sound-shop for samples, the Versilian Community Sample Library project contains dozens of orchestral, world, and experimental instruments professionally recorded and edited. For composers, a set of SFZ format patches are provided to allow use in any DAW in combination with Plogue Sforzando player. Please download Sforzando and watch the video tutorial for instructions on how to use SFZ files.
   - This collection is under a Creative Commons 0 (zero) license. Essentially it’s Public Domain- you can do whatever you want with these sounds (even make commercial software), no royalties, no credit, no special terms. This includes integrating it in projects such as generative music, DAWs, granular synthesizers, and samplers.
+
+##### synths
+
+- Roland JD-800 samples
+  - <https://github.com/publicsamples/Roland-JD-800>
+  - 2025-06
 
 ### Internet Archive
 
@@ -874,14 +907,14 @@ Roland L-CDX-01 Library (1,143 samples).
 
 - <https://github.com/huginn/huginn>
 - KDenlive for video editing
-- IrfanView @ http://www.irfanview.com/.  Free graphics viewer.  It also does basic graphics editing and the plugins are quite useful, too.  Install SmartCurves (a plugin) if you want to edit levels properly.
-- GIMP @ http://www.gimp.org/.  Open source bitmap graphics editor. Basically an open source version of Adobe's Photoshop or Corel Draw.
-- Photivo @ http://www.photivo.org.  Open source digital photo editor. Crazy number of options. Crashes sometimes.
+- IrfanView @ <http://www.irfanview.com/>.  Free graphics viewer.  It also does basic graphics editing and the plugins are quite useful, too.  Install SmartCurves (a plugin) if you want to edit levels properly.
+- GIMP @ <http://www.gimp.org/>.  Open source bitmap graphics editor. Basically an open source version of Adobe's Photoshop or Corel Draw.
+- Photivo @ <http://www.photivo.org>.  Open source digital photo editor. Crazy number of options. Crashes sometimes.
 - Picasa. Basic photo editor. Integrates tightly to Google. Defunct now.
 
 ### RawTherapee stuff
 
-- Raw Therapee @ http://www.rawtherapee.com.  Open source digital photo editor. Fewer options than Photivo, but more stable.
+- Raw Therapee @ <http://www.rawtherapee.com>.  Open source digital photo editor. Fewer options than Photivo, but more stable.
 - <https://github.com/search?q=RawTherapee>
 - <https://github.com/lgut/my_rawtherapee_profiles>
 - x <https://github.com/rawtherapee-filters-master>
