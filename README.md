@@ -748,6 +748,9 @@ True M7 – Impulse Pack
   - <https://github.com/gregharvey/drum-samples>
   - GSCW drum samples from the 90s
   - 2025-06
+- https://www.drumthrash.com/free-drum-samples.html
+  - Extend your DrumThrash sample library with this free natural-sounding acoustic drum set. Our standalone drum software comes with a comprehensive free drum kit already included. These are the full, unreleased drum samples giving you the freedom to shape and edit the sounds to suit your creative vision. This kit is capable of producing subtle, articulate beats as well as massive powerhouse beats.
+  - 2025-06
 
 ##### drum machine samples
 
@@ -802,6 +805,7 @@ True M7 – Impulse Pack
   - <https://ingovogelmann.net/downloads/>
   - 2025-06
   - It appears that many of the samples come from other sites
+  - https://free-sample-packs.com/iv-vintage-drum-machines/
 - Martin Janus packs
   - <https://sounds.martinjanus.com/free-samples/boss-dr-660-sample-pack/>
   - Boss DR-660
@@ -821,6 +825,9 @@ True M7 – Impulse Pack
 - 858 drum synth
   - <https://github.com/sunhypnotic/858-drum-synth>
   - Creating samples for a drum machine created via Neural Net. Encoding samples of the Roland 808 and 909 drum machines and interpolate them together to create a combined representation of their timbres, tonality, change over time, and resulting audio signal.
+  - 2025-06
+- https://www.clustersound.com/product/drums/hr-16b/
+  - Alesis HR-16B
   - 2025-06
 
 ###### TR-606 (1980)
