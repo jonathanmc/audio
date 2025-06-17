@@ -829,8 +829,18 @@ True M7 – Impulse Pack
 - https://www.clustersound.com/product/drums/hr-16b/
   - Alesis HR-16B
   - 2025-06
+- Shertigan.com Ableton racks of 505, 606, 707, 808, 909
+  - https://shertigan.com/other/roland-tr-drums/
+- midibot.net
+  - 505, 606, 707
+  - https://midibot.net/machines/drum-machines.html
+- Roland Clan
+  - https://www.rolandclan.com/library/
+  - Roland synth samples
 
 ###### TR-606 (1980)
+
+https://web.archive.org/web/20200225044112/http://www.donsolaris.com/?page_id=35
 
 ###### TR-808 (1980 to 1982)
 
@@ -863,6 +873,15 @@ True M7 – Impulse Pack
 - Internet Archive
   - <https://archive.org/details/707_drums>
   - taken down by Roland
+- Elphnt
+  - 707 https://web.archive.org/web/20200929065949/https://elphnt.io/store/707/
+   - get it here https://elphnt.io/store/free/
+   -     707 – a classic hardware drum machine
+    ELECTRIC – that classic electric piano sound
+    INSPIR Paper – creative inspiration for musicians
+    LM-1 – a classic hardware drum machine
+    ONE KNOBS – powerful 1-knob effect racks
+    SH – SH-101 drum samples
 
 ###### TR-727 (1985)
 
@@ -874,6 +893,21 @@ True M7 – Impulse Pack
 
 - Internet Archive
   - <https://archive.org/details/tr_505_drums_new>
+- Wavetick
+  - https://www.wavetick.com/sounds/tr505
+- Very lofi cassette 505
+  - https://archive.org/details/VerylofiCassetteModifiedRolandTr505
+- Made on Tape
+  - https://www.patreon.com/posts/116654609
+- Beat Production
+  - https://beatproduction.net/505-drum-kit/?amp=1
+- Son of 8 bits
+  - https://sonof8bits.com/downloads/samples
+  - 505 & 606
+- gearspace thread
+  - https://gearspace.com/board/electronic-music-instruments-and-electronic-music-production/595949-free-tr505-sample-pack-you-all.html
+- 
+
 
 ###### TR-626 (1987)
 
