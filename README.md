@@ -33,6 +33,8 @@ This is a list of free and open source
       - [Samples](#samples)
         - [drums](#drums)
         - [drum machine samples](#drum-machine-samples)
+          - [drum machine samples, combined large sets](#drum-machine-samples-combined-large-sets)
+          - [drum machine samples, sets](#drum-machine-samples-sets)
           - [TR-606 (1980)](#tr-606-1980)
           - [TR-808 (1980 to 1982)](#tr-808-1980-to-1982)
           - [TR-909 (1983)](#tr-909-1983)
@@ -743,19 +745,23 @@ True M7 – Impulse Pack
 
 - Open Source Drumkit
   - <https://github.com/crabacus/the-open-source-drumkit>
-  - 2025-06
+  - 2025-06, not updated in 10 years
 - GSCW drum samples
   - <https://github.com/gregharvey/drum-samples>
+  - 2025-06, not updated in 7 years
   - GSCW drum samples from the 90s
+- Drumthrash
+  - https://www.drumthrash.com/free-drum-samples.html
   - 2025-06
-- https://www.drumthrash.com/free-drum-samples.html
   - Extend your DrumThrash sample library with this free natural-sounding acoustic drum set. Our standalone drum software comes with a comprehensive free drum kit already included. These are the full, unreleased drum samples giving you the freedom to shape and edit the sounds to suit your creative vision. This kit is capable of producing subtle, articulate beats as well as massive powerhouse beats.
-  - 2025-06
+  
 
 ##### drum machine samples
 
 - <https://archive.org/details/RolandDrumMachineRhythmDictionary/page/n59/mode/2up>
   - a book about drum patterns
+
+###### drum machine samples, combined large sets
 
 - Reddit post
   - <https://www.reddit.com/r/makinghiphop/comments/4rizue/organized_30gb_of_drum_samples_collected_over/>
@@ -778,30 +784,20 @@ True M7 – Impulse Pack
   - <https://archive.org/details/the-complete-drumkit-archive>
   - Replica of the drum machine archive collected at <https://www.themidimaniac.com/archives/1987>
   - 2025-06
-- Music Machines @ Hyperreal
-  - <http://machines.hyperreal.org/samples.html>
+
+###### drum machine samples, sets
+
+- DrumCollector.com site
+  - <https://www.drumcollector.com/>
   - 2025-06
-  - misc drum machines and so on from ~1995
+  - a few drum machines
 - KB6 drum machine archive
   - <https://samples.kb6.de/>
   - drum machine samples
   - for some of the old ones that were removed, you can find them <https://web.archive.org/web/20161119003622/http://samples.kb6.de:80/downloads.php>
   - 2025-06
   - checked 2025-06
-- DrumCollector.com site
-  - <https://www.drumcollector.com/>
-  - 2025-06
-  - a few drum machines
-- MusicRadar.com samples
-  - <https://www.musicradar.com/news/sampleradar-retro-drum-machines-1>
-  - <https://www.musicradar.com/news/sampleradar-hardware-drum-machine-samples>
-  - 2025-06
-- Mck Sample Packs
-  - <https://github.com/MckAudio/MckSamplePacks>
-  - 2025-06
-  - DR5, RD6, RX5, and TR8 drum machine samples
-  - last checked 2022-06
-- ngo Vogelmann Vintage Drum Machines free smaple pack
+- Ingo Vogelmann Vintage Drum Machines free smaple pack
   - <https://ingovogelmann.net/downloads/>
   - 2025-06
   - It appears that many of the samples come from other sites
@@ -816,6 +812,23 @@ True M7 – Impulse Pack
   - Roland U-220
   - Yamaha TG500
   - 2025-06
+- Mck Sample Packs
+  - <https://github.com/MckAudio/MckSamplePacks>
+  - 2025-06
+  - DR5, RD6, RX5, and TR8 drum machine samples
+  - last checked 2022-06
+- MusicRadar.com samples
+  - <https://www.musicradar.com/news/sampleradar-retro-drum-machines-1>
+  - <https://www.musicradar.com/news/sampleradar-hardware-drum-machine-samples>
+  - 2025-06
+- Music Machines @ Hyperreal
+  - <http://machines.hyperreal.org/samples.html>
+  - 2025-06
+  - misc drum machines and so on from ~1995
+- Oramics (Github)
+  - <https://github.com/oramics/sampled>
+  - 2025-06, last updated 8/9 years ago
+  - Instruments, loops and impulse responses in the public domain
 - SampleScience
   - RX-21
     - <https://www.samplescience.info/2021/02/rx-21-hd.html>
@@ -826,17 +839,21 @@ True M7 – Impulse Pack
   - <https://github.com/sunhypnotic/858-drum-synth>
   - Creating samples for a drum machine created via Neural Net. Encoding samples of the Roland 808 and 909 drum machines and interpolate them together to create a combined representation of their timbres, tonality, change over time, and resulting audio signal.
   - 2025-06
-- https://www.clustersound.com/product/drums/hr-16b/
+- Clustersound.com sets
+  - https://www.clustersound.com/product/drums/hr-16b/
   - Alesis HR-16B
   - 2025-06
-- Shertigan.com Ableton racks of 505, 606, 707, 808, 909
+- Shertigan.com 
+  - Ableton racks of 505, 606, 707, 808, 909, and samples of them from other sources
   - https://shertigan.com/other/roland-tr-drums/
 - midibot.net
-  - 505, 606, 707
   - https://midibot.net/machines/drum-machines.html
+  - 505, 606, 707 samples
 - Roland Clan
   - https://www.rolandclan.com/library/
   - Roland synth samples
+  - 505, 606, 707, 727, 808, 909 sets
+  - other synths too
 
 ###### TR-606 (1980)
 
