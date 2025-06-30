@@ -35,13 +35,14 @@ This is a list of free and open source
         - [drum machine samples](#drum-machine-samples)
           - [drum machine samples, combined large sets](#drum-machine-samples-combined-large-sets)
           - [drum machine samples, sets](#drum-machine-samples-sets)
-          - [TR-606 (1980)](#tr-606-1980)
           - [TR-808 (1980 to 1982)](#tr-808-1980-to-1982)
           - [TR-909 (1983)](#tr-909-1983)
           - [TR-707 (1984)](#tr-707-1984)
           - [TR-727 (1985)](#tr-727-1985)
           - [TR-505 (1986)](#tr-505-1986)
+          - [TR-606 (1980)](#tr-606-1980)
           - [TR-626 (1987)](#tr-626-1987)
+          - [Korg 01/W](#korg-01w)
         - [orchestra](#orchestra)
         - [synths](#synths)
     - [Internet Archive](#internet-archive)
@@ -685,7 +686,6 @@ True M7 – Impulse Pack
   - <https://github.com/monocasual/giada>
   Drumlabooh
   - <https://github.com/psemiletov/drumlabooh>
-
 - Hydrogen
   -
 
@@ -700,6 +700,7 @@ True M7 – Impulse Pack
 
 - artifacts site
 - patch site
+- https://freewavesamples.com/
 
 - Conserve the Sound
   - <https://www.conservethesound.de/category/sound>
@@ -708,6 +709,9 @@ True M7 – Impulse Pack
   - <https://www.freesounds.info/>
 - Freesound.org
   - <https://freesound.org/>
+- Freewavesamples
+  - https://freewavesamples.com/
+  - royalty free samples by an individual who records them
 - ?
   - <https://freepats.zenvoid.org/>
 - ?
@@ -740,6 +744,9 @@ True M7 – Impulse Pack
     - Roland RSB-50, RSB-550, and L-Series Libraries (209 samples).
     - Roland XV-5080
     - Roland L-CDX-01 Library (1,143 samples).
+https://archive.org/details/retro-sample-cds
+https://archive.org/details/nnty.fun-90ssamplecds
+
 
 ##### drums
 
@@ -754,7 +761,21 @@ True M7 – Impulse Pack
   - https://www.drumthrash.com/free-drum-samples.html
   - 2025-06
   - Extend your DrumThrash sample library with this free natural-sounding acoustic drum set. Our standalone drum software comes with a comprehensive free drum kit already included. These are the full, unreleased drum samples giving you the freedom to shape and edit the sounds to suit your creative vision. This kit is capable of producing subtle, articulate beats as well as massive powerhouse beats.
-  
+- https://github.com/sfzinstruments/virtuosity_drums.git
+- https://github.com/michaelwillis/tchimera-drum-kit
+- https://github.com/sfzinstruments/jlearman.SteelDrum
+- https://github.com/richardarnezjames/Hacktribe-Sound-Library
+- https://github.com/smpldsnds/drum-machines
+  - OGG and M4A format
+  - 
+https://github.com/rozanecm/drum_samples
+https://github.com/anguskhaw/Drum-Samples
+
+https://github.com/bbsmooth/drum-machine-samples
+
+
+
+
 
 ##### drum machine samples
 
@@ -854,10 +875,10 @@ True M7 – Impulse Pack
   - Roland synth samples
   - 505, 606, 707, 727, 808, 909 sets
   - other synths too
-
-###### TR-606 (1980)
-
-https://web.archive.org/web/20200225044112/http://www.donsolaris.com/?page_id=35
+Wave Alchemy
+  Korg KPR-77 free
+  Korg MS-20 free
+  Roland TR-606 free
 
 ###### TR-808 (1980 to 1982)
 
@@ -873,22 +894,27 @@ https://web.archive.org/web/20200225044112/http://www.donsolaris.com/?page_id=35
 - tr_808all
   - <https://archive.org/details/tr_808all>
   - taken down by Roland
+- https://archive.org/details/808_variations
+  - There are tons of great, high-fidelity, finely-tuned, meticulously-recorded libraries of the Roland TR-808 drum machine. This is not one of them! I wanted to create a collection of weird 808 sounds. I used some more conventional things like a boombox and a tube amplifier, but also some stranger things like a Zoom call, spectral resynsthesis, and low quality mp3 conversion.
 
 ###### TR-909 (1983)
 
-- J5music.com
-  - <https://j5music.com/products/roland-909-kit>
-- Drumkito
-  - <https://www.drumkito.com/sample-packs/roland-tr-909-sample-pack/>
-- Soundpacks
-  - <https://soundpacks.com/free-sound-packs/maunster-tr-909-drum-samples/>
 - Bvker.com
   - <https://bvker.com/free-909-samples/>
+- Drumkito
+  - <https://www.drumkito.com/sample-packs/roland-tr-909-sample-pack/>
+- J5music.com
+  - <https://j5music.com/products/roland-909-kit>
+- Soundpacks.com
+  - <https://soundpacks.com/free-sound-packs/maunster-tr-909-drum-samples/>
+- https://www.echosoundworks.com/free909samples
+- https://bedroomproducersblog.com/2014/04/24/free-909-samples/
+- Wave Alchemy has a free set
+- Cyborg - $2
 
 ###### TR-707 (1984)
 
-- Internet Archive
-  - <https://archive.org/details/707_drums>
+- <https://archive.org/details/707_drums>
   - taken down by Roland
 - Elphnt
   - 707 https://web.archive.org/web/20200929065949/https://elphnt.io/store/707/
@@ -910,10 +936,12 @@ https://web.archive.org/web/20200225044112/http://www.donsolaris.com/?page_id=35
 
 - Internet Archive
   - <https://archive.org/details/tr_505_drums_new>
+  - 
 - Wavetick
   - https://www.wavetick.com/sounds/tr505
 - Very lofi cassette 505
   - https://archive.org/details/VerylofiCassetteModifiedRolandTr505
+  - https://archive.org/details/VerylofiCassetteModifiedRolandTr505_201305
 - Made on Tape
   - https://www.patreon.com/posts/116654609
 - Beat Production
@@ -923,15 +951,23 @@ https://web.archive.org/web/20200225044112/http://www.donsolaris.com/?page_id=35
   - 505 & 606
 - gearspace thread
   - https://gearspace.com/board/electronic-music-instruments-and-electronic-music-production/595949-free-tr505-sample-pack-you-all.html
-- 
 
+###### TR-606 (1980)
+
+- <https://web.archive.org/web/20200225044112/http://www.donsolaris.com/?page_id=35>
+- <https://archive.org/details/sci_tom_tr_606/>
+  - Custom Fairlight CMI sample pack 56. 
 
 ###### TR-626 (1987)
 
 - SampleScience, above
-- Internet Archive
-  - <https://archive.org/details/tr_626_drums>
-  - tkken down by Roland
+- <https://archive.org/details/tr_626_drums>
+  - taken down by Roland
+
+###### Korg 01/W
+
+https://archive.org/details/korg-01-w-sample-library
+
 
 ##### orchestra
 
