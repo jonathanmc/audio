@@ -905,12 +905,21 @@ Wave Alchemy
   - <https://www.drumkito.com/sample-packs/roland-tr-909-sample-pack/>
 - J5music.com
   - <https://j5music.com/products/roland-909-kit>
-- Soundpacks.com
+- Maunster drum samples from Soundpacks.com
   - <https://soundpacks.com/free-sound-packs/maunster-tr-909-drum-samples/>
-- https://www.echosoundworks.com/free909samples
-- https://bedroomproducersblog.com/2014/04/24/free-909-samples/
+- Echo sound works
+  - <https://www.echosoundworks.com/free909samples>
+  - To celebrate 909 day (September 9th for those not in the know), we wanted to give you guys our unreleased collection of TR909 samples. A lot of the samples in this pack are from an original unit, carefully sampled, but  we also made some new hybrid 909 samples. / The new hybrid TR909 inspired claps, snares, and kicks that are part 80's and part now, giving these samples a unique edge. / All of these sounds are great for layering with more contemporary drum samples. You could easily take one of the snare samples in this pack for example, and layer it with a Trap or Future Bass snare for a retro modern sound. 
+- Bedroom producers
+  - <https://bedroomproducersblog.com/2014/04/24/free-909-samples/>
 - Wave Alchemy has a free set
 - Cyborg - $2
+- Wavetick has a free set
+  - <https://www.wavetick.com/sounds/tr-909-free?query=tr-808>
+- The Highest Producers
+  - <https://thehighestproducers.com/blogs/thp/909-wav-drumkit>
+  - Download 78 free drum samples from the famous 909 drum machine! / Featuring every sounds you need, in every tone and pitch, to make edm, techno, house music… in fact more or less all electronic music genres. / Each sample was carefully recorded through Preamp Universal Audio 2-610 & converted with Apogee Rosetta AD and Protools HD 8 at 24-bit, 44.1kHz. / Each samples is in Wav format and is free for commercial or non commercial project!
+
 
 ###### TR-707 (1984)
 
@@ -934,23 +943,22 @@ Wave Alchemy
 
 ###### TR-505 (1986)
 
+- Beat Production
+  - https://beatproduction.net/505-drum-kit/?amp=1
+- gearspace thread
+  - https://gearspace.com/board/electronic-music-instruments-and-electronic-music-production/595949-free-tr505-sample-pack-you-all.html
 - Internet Archive
   - <https://archive.org/details/tr_505_drums_new>
-  - 
+- Made on Tape
+  - https://www.patreon.com/posts/116654609
+- Son of 8 bits
+  - https://sonof8bits.com/downloads/samples
+  - 505 & 606
 - Wavetick
   - https://www.wavetick.com/sounds/tr505
 - Very lofi cassette 505
   - https://archive.org/details/VerylofiCassetteModifiedRolandTr505
   - https://archive.org/details/VerylofiCassetteModifiedRolandTr505_201305
-- Made on Tape
-  - https://www.patreon.com/posts/116654609
-- Beat Production
-  - https://beatproduction.net/505-drum-kit/?amp=1
-- Son of 8 bits
-  - https://sonof8bits.com/downloads/samples
-  - 505 & 606
-- gearspace thread
-  - https://gearspace.com/board/electronic-music-instruments-and-electronic-music-production/595949-free-tr505-sample-pack-you-all.html
 
 ###### TR-606 (1980)
 
