@@ -518,8 +518,10 @@ VST, CLAP, etc. Lots of good stuff here. Best are Dexed, Helm, Ob-xd, Surge, Syn
 
 - Drumlabooh
   - drum machine
-- Hydrogen
+- Hydrogen drum machine
   - <https://github.com/hydrogen-music/hydrogen>
+  - <https://github.com/tresf/hydrogen-drumkits>
+    - x archived 2019
 
 ##### FM synths
 
@@ -700,7 +702,7 @@ True M7 – Impulse Pack
 
 - artifacts site
 - patch site
-- https://freewavesamples.com/
+- <https://freewavesamples.com/>
 
 - Conserve the Sound
   - <https://www.conservethesound.de/category/sound>
@@ -710,12 +712,14 @@ True M7 – Impulse Pack
 - Freesound.org
   - <https://freesound.org/>
 - Freewavesamples
-  - https://freewavesamples.com/
+  - <https://freewavesamples.com/>
   - royalty free samples by an individual who records them
 - ?
   - <https://freepats.zenvoid.org/>
-- ?
-  - <https://soundpacks.com/free-sound-packs/>
+- <https://soundpacks.com/free-sound-packs/>
+    - x https://soundpacks.com/free-sound-packs/roland-mc-505-808-kit/
+    - Maunster 909, see above
+  - 
 - The Libre Sample Pack
   - <https://github.com/TheSmallTeaBoi/the-libre-sample-pack>
   - open source
@@ -744,8 +748,8 @@ True M7 – Impulse Pack
     - Roland RSB-50, RSB-550, and L-Series Libraries (209 samples).
     - Roland XV-5080
     - Roland L-CDX-01 Library (1,143 samples).
-https://archive.org/details/retro-sample-cds
-https://archive.org/details/nnty.fun-90ssamplecds
+<https://archive.org/details/retro-sample-cds>
+<https://archive.org/details/nnty.fun-90ssamplecds>
 
 
 ##### drums
@@ -758,20 +762,20 @@ https://archive.org/details/nnty.fun-90ssamplecds
   - 2025-06, not updated in 7 years
   - GSCW drum samples from the 90s
 - Drumthrash
-  - https://www.drumthrash.com/free-drum-samples.html
+  - <https://www.drumthrash.com/free-drum-samples.html>
   - 2025-06
   - Extend your DrumThrash sample library with this free natural-sounding acoustic drum set. Our standalone drum software comes with a comprehensive free drum kit already included. These are the full, unreleased drum samples giving you the freedom to shape and edit the sounds to suit your creative vision. This kit is capable of producing subtle, articulate beats as well as massive powerhouse beats.
-- https://github.com/sfzinstruments/virtuosity_drums.git
-- https://github.com/michaelwillis/tchimera-drum-kit
-- https://github.com/sfzinstruments/jlearman.SteelDrum
-- https://github.com/richardarnezjames/Hacktribe-Sound-Library
-- https://github.com/smpldsnds/drum-machines
+- <https://github.com/sfzinstruments/virtuosity_drums.git>
+- <https://github.com/michaelwillis/tchimera-drum-kit>
+- <https://github.com/sfzinstruments/jlearman.SteelDrum>
+- <https://github.com/richardarnezjames/Hacktribe-Sound-Library>
+- <https://github.com/smpldsnds/drum-machines>
   - OGG and M4A format
   - 
-https://github.com/rozanecm/drum_samples
-https://github.com/anguskhaw/Drum-Samples
+<https://github.com/rozanecm/drum_samples>
+<https://github.com/anguskhaw/Drum-Samples>
 
-https://github.com/bbsmooth/drum-machine-samples
+<https://github.com/bbsmooth/drum-machine-samples>
 
 
 
@@ -822,7 +826,7 @@ https://github.com/bbsmooth/drum-machine-samples
   - <https://ingovogelmann.net/downloads/>
   - 2025-06
   - It appears that many of the samples come from other sites
-  - https://free-sample-packs.com/iv-vintage-drum-machines/
+  - <https://free-sample-packs.com/iv-vintage-drum-machines/>
 - Martin Janus packs
   - <https://sounds.martinjanus.com/free-samples/boss-dr-660-sample-pack/>
   - Boss DR-660
@@ -835,9 +839,8 @@ https://github.com/bbsmooth/drum-machine-samples
   - 2025-06
 - Mck Sample Packs
   - <https://github.com/MckAudio/MckSamplePacks>
-  - 2025-06
   - DR5, RD6, RX5, and TR8 drum machine samples
-  - last checked 2022-06
+  - last checked 2022-06, 2025-06
 - MusicRadar.com samples
   - <https://www.musicradar.com/news/sampleradar-retro-drum-machines-1>
   - <https://www.musicradar.com/news/sampleradar-hardware-drum-machine-samples>
@@ -861,17 +864,17 @@ https://github.com/bbsmooth/drum-machine-samples
   - Creating samples for a drum machine created via Neural Net. Encoding samples of the Roland 808 and 909 drum machines and interpolate them together to create a combined representation of their timbres, tonality, change over time, and resulting audio signal.
   - 2025-06
 - Clustersound.com sets
-  - https://www.clustersound.com/product/drums/hr-16b/
+  - <https://www.clustersound.com/product/drums/hr-16b/>
   - Alesis HR-16B
   - 2025-06
 - Shertigan.com 
   - Ableton racks of 505, 606, 707, 808, 909, and samples of them from other sources
-  - https://shertigan.com/other/roland-tr-drums/
+  - <https://shertigan.com/other/roland-tr-drums/>
 - midibot.net
-  - https://midibot.net/machines/drum-machines.html
+  - x <https://midibot.net/machines/drum-machines.html>
   - 505, 606, 707 samples
 - Roland Clan
-  - https://www.rolandclan.com/library/
+  - x <https://www.rolandclan.com/library/>
   - Roland synth samples
   - 505, 606, 707, 727, 808, 909 sets
   - other synths too
@@ -894,7 +897,7 @@ Wave Alchemy
 - tr_808all
   - <https://archive.org/details/tr_808all>
   - taken down by Roland
-- https://archive.org/details/808_variations
+- <https://archive.org/details/808_variations>
   - There are tons of great, high-fidelity, finely-tuned, meticulously-recorded libraries of the Roland TR-808 drum machine. This is not one of them! I wanted to create a collection of weird 808 sounds. I used some more conventional things like a boombox and a tube amplifier, but also some stranger things like a Zoom call, spectral resynsthesis, and low quality mp3 conversion.
 
 ###### TR-909 (1983)
@@ -902,32 +905,35 @@ Wave Alchemy
 - Bvker.com
   - <https://bvker.com/free-909-samples/>
 - Drumkito
-  - <https://www.drumkito.com/sample-packs/roland-tr-909-sample-pack/>
+  - x <https://www.drumkito.com/sample-packs/roland-tr-909-sample-pack/>
+  - has Korg, Roland, Boss, Casio drum machines
 - J5music.com
-  - <https://j5music.com/products/roland-909-kit>
+  - x <https://j5music.com/products/roland-909-kit>
 - Maunster drum samples from Soundpacks.com
   - <https://soundpacks.com/free-sound-packs/maunster-tr-909-drum-samples/>
 - Echo sound works
-  - <https://www.echosoundworks.com/free909samples>
-  - To celebrate 909 day (September 9th for those not in the know), we wanted to give you guys our unreleased collection of TR909 samples. A lot of the samples in this pack are from an original unit, carefully sampled, but  we also made some new hybrid 909 samples. / The new hybrid TR909 inspired claps, snares, and kicks that are part 80's and part now, giving these samples a unique edge. / All of these sounds are great for layering with more contemporary drum samples. You could easily take one of the snare samples in this pack for example, and layer it with a Trap or Future Bass snare for a retro modern sound. 
+  - x <https://www.echosoundworks.com/free909samples>
+  - "To celebrate 909 day (September 9th for those not in the know), we wanted to give you guys our unreleased collection of TR909 samples. A lot of the samples in this pack are from an original unit, carefully sampled, but  we also made some new hybrid 909 samples. / The new hybrid TR909 inspired claps, snares, and kicks that are part 80's and part now, giving these samples a unique edge. / All of these sounds are great for layering with more contemporary drum samples. You could easily take one of the snare samples in this pack for example, and layer it with a Trap or Future Bass snare for a retro modern sound."
 - Bedroom producers
   - <https://bedroomproducersblog.com/2014/04/24/free-909-samples/>
 - Wave Alchemy has a free set
 - Cyborg - $2
 - Wavetick has a free set
-  - <https://www.wavetick.com/sounds/tr-909-free?query=tr-808>
+  - x <https://www.wavetick.com/sounds/tr-909-free?query=tr-808>
 - The Highest Producers
   - <https://thehighestproducers.com/blogs/thp/909-wav-drumkit>
   - Download 78 free drum samples from the famous 909 drum machine! / Featuring every sounds you need, in every tone and pitch, to make edm, techno, house music… in fact more or less all electronic music genres. / Each sample was carefully recorded through Preamp Universal Audio 2-610 & converted with Apogee Rosetta AD and Protools HD 8 at 24-bit, 44.1kHz. / Each samples is in Wav format and is free for commercial or non commercial project!
-
+- <https://www.reddit.com/r/TechnoProduction/comments/8dqrod/500_tr909_samples/>
+  - x "Here is 500 plus 909 samples direct from the 909. These samples are completely unprocessed AIFF files. Several hits per file. Each hit has different settings. Simply choose a hit and then trim it to taste." by Marie_Orsic
+  - 
 
 ###### TR-707 (1984)
 
 - <https://archive.org/details/707_drums>
   - taken down by Roland
 - Elphnt
-  - 707 https://web.archive.org/web/20200929065949/https://elphnt.io/store/707/
-   - get it here https://elphnt.io/store/free/
+  - 707 <https://web.archive.org/web/20200929065949/https://elphnt.io/store/707/>
+   - get it here <https://elphnt.io/store/free/>
    -     707 – a classic hardware drum machine
     ELECTRIC – that classic electric piano sound
     INSPIR Paper – creative inspiration for musicians
@@ -944,37 +950,40 @@ Wave Alchemy
 ###### TR-505 (1986)
 
 - Beat Production
-  - https://beatproduction.net/505-drum-kit/?amp=1
+  - <https://beatproduction.net/505-drum-kit/?amp=1>
 - gearspace thread
-  - https://gearspace.com/board/electronic-music-instruments-and-electronic-music-production/595949-free-tr505-sample-pack-you-all.html
+  - <https://gearspace.com/board/electronic-music-instruments-and-electronic-music-production/595949-free-tr505-sample-pack-you-all.html>
 - Internet Archive
   - <https://archive.org/details/tr_505_drums_new>
 - Made on Tape
-  - https://www.patreon.com/posts/116654609
+  - <https://www.patreon.com/posts/116654609>
 - Son of 8 bits
-  - https://sonof8bits.com/downloads/samples
+  - <https://sonof8bits.com/downloads/samples>
   - 505 & 606
 - Wavetick
-  - https://www.wavetick.com/sounds/tr505
+  - <https://www.wavetick.com/sounds/tr505>
 - Very lofi cassette 505
-  - https://archive.org/details/VerylofiCassetteModifiedRolandTr505
-  - https://archive.org/details/VerylofiCassetteModifiedRolandTr505_201305
+  - x <https://archive.org/details/VerylofiCassetteModifiedRolandTr505>
+  - x <https://archive.org/details/VerylofiCassetteModifiedRolandTr505_201305>
 
 ###### TR-606 (1980)
 
 - <https://web.archive.org/web/20200225044112/http://www.donsolaris.com/?page_id=35>
+  - x
 - <https://archive.org/details/sci_tom_tr_606/>
-  - Custom Fairlight CMI sample pack 56. 
+  - x Custom Fairlight CMI sample pack 56. 
 
 ###### TR-626 (1987)
 
 - SampleScience, above
+  - x
 - <https://archive.org/details/tr_626_drums>
   - taken down by Roland
 
 ###### Korg 01/W
 
-https://archive.org/details/korg-01-w-sample-library
+- <https://archive.org/details/korg-01-w-sample-library>
+  - x
 
 
 ##### orchestra
