@@ -424,8 +424,9 @@ VST, CLAP, etc. Lots of good stuff here. Best are Dexed, Helm, Ob-xd, Surge, Syn
 - Hydrogen drum machine
   - The advanced drum machine for Linux, macOS, and Windows
   - 1.2.4 <https://github.com/hydrogen-music/hydrogen>
-- Juce OPL VSTi <https://github.com/bsutherland/JuceOPLVSTi/releases>
-  - x FM chip synth
+- Juce OPL VSTi
+  - x <https://github.com/bsutherland/JuceOPLVSTi/releases>
+  - FM chip synth
 - MG-1
   - <https://cherryaudio.com/products/surrealistic-mg-1-plus#pricing>
   - needs a desktop app to be installed
@@ -688,6 +689,7 @@ True M7 – Impulse Pack
   - <https://github.com/monocasual/giada>
   Drumlabooh
   - <https://github.com/psemiletov/drumlabooh>
+
 - Hydrogen
   -
 
@@ -717,9 +719,9 @@ True M7 – Impulse Pack
 - ?
   - <https://freepats.zenvoid.org/>
 - <https://soundpacks.com/free-sound-packs/>
-    - x https://soundpacks.com/free-sound-packs/roland-mc-505-808-kit/
-    - Maunster 909, see above
-  - 
+  - x <https://soundpacks.com/free-sound-packs/roland-mc-505-808-kit/>
+  - Maunster 909, see above
+  -
 - The Libre Sample Pack
   - <https://github.com/TheSmallTeaBoi/the-libre-sample-pack>
   - open source
@@ -751,7 +753,6 @@ True M7 – Impulse Pack
 <https://archive.org/details/retro-sample-cds>
 <https://archive.org/details/nnty.fun-90ssamplecds>
 
-
 ##### drums
 
 - Open Source Drumkit
@@ -771,15 +772,12 @@ True M7 – Impulse Pack
 - <https://github.com/richardarnezjames/Hacktribe-Sound-Library>
 - <https://github.com/smpldsnds/drum-machines>
   - OGG and M4A format
-  - 
+  -
+
 <https://github.com/rozanecm/drum_samples>
 <https://github.com/anguskhaw/Drum-Samples>
 
 <https://github.com/bbsmooth/drum-machine-samples>
-
-
-
-
 
 ##### drum machine samples
 
@@ -805,7 +803,7 @@ True M7 – Impulse Pack
   - <https://archive.org/details/drum-machine-archive-1>
   - <https://archive.org/details/drum-machine-archive-2>
   - 2025-06
-- The COMPLETE DRUMKIT ARCHIVE 
+- The COMPLETE DRUMKIT ARCHIVE
   - <https://archive.org/details/the-complete-drumkit-archive>
   - Replica of the drum machine archive collected at <https://www.themidimaniac.com/archives/1987>
   - 2025-06
@@ -867,7 +865,7 @@ True M7 – Impulse Pack
   - <https://www.clustersound.com/product/drums/hr-16b/>
   - Alesis HR-16B
   - 2025-06
-- Shertigan.com 
+- Shertigan.com
   - Ableton racks of 505, 606, 707, 808, 909, and samples of them from other sources
   - <https://shertigan.com/other/roland-tr-drums/>
 - midibot.net
@@ -925,7 +923,7 @@ Wave Alchemy
   - Download 78 free drum samples from the famous 909 drum machine! / Featuring every sounds you need, in every tone and pitch, to make edm, techno, house music… in fact more or less all electronic music genres. / Each sample was carefully recorded through Preamp Universal Audio 2-610 & converted with Apogee Rosetta AD and Protools HD 8 at 24-bit, 44.1kHz. / Each samples is in Wav format and is free for commercial or non commercial project!
 - <https://www.reddit.com/r/TechnoProduction/comments/8dqrod/500_tr909_samples/>
   - x "Here is 500 plus 909 samples direct from the 909. These samples are completely unprocessed AIFF files. Several hits per file. Each hit has different settings. Simply choose a hit and then trim it to taste." by Marie_Orsic
-  - 
+  -
 
 ###### TR-707 (1984)
 
@@ -933,8 +931,8 @@ Wave Alchemy
   - taken down by Roland
 - Elphnt
   - 707 <https://web.archive.org/web/20200929065949/https://elphnt.io/store/707/>
-   - get it here <https://elphnt.io/store/free/>
-   -     707 – a classic hardware drum machine
+  - get it here <https://elphnt.io/store/free/>
+  -     707 – a classic hardware drum machine
     ELECTRIC – that classic electric piano sound
     INSPIR Paper – creative inspiration for musicians
     LM-1 – a classic hardware drum machine
@@ -971,7 +969,7 @@ Wave Alchemy
 - <https://web.archive.org/web/20200225044112/http://www.donsolaris.com/?page_id=35>
   - x
 - <https://archive.org/details/sci_tom_tr_606/>
-  - x Custom Fairlight CMI sample pack 56. 
+  - x Custom Fairlight CMI sample pack 56.
 
 ###### TR-626 (1987)
 
@@ -984,7 +982,6 @@ Wave Alchemy
 
 - <https://archive.org/details/korg-01-w-sample-library>
   - x
-
 
 ##### orchestra
 
